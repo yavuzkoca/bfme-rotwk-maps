@@ -1,0 +1,72 @@
+SCRIPT:1 victory
+" Congratulations you have defeated all the waves!"
+END
+
+SCRIPT:1 defeat
+" You have failed to defeat the waves. Better luck next time!"
+END
+
+SCRIPT:1 2nd last wave
+"2nd last wave. The dark Lord Sauron approaches..."
+END
+
+SCRIPT:1 FINAL WAVE
+"Final Wave. One of every hero. Good luck"
+END
+
+SCRIPT:1 The fleet arrives
+"The fleet arrives..."
+END
+
+SCRIPT:1 Final fleet
+"Defeat mordors final fleet"
+END
+
+SCRIPT:1 Time until land waves
+" Land waves will return in 1 minute 40 seconds. Prepare."
+END
+
+SCRIPT:1 Intro
+"Map made by funnyidiot and HITOOALL. Enjoy!"
+END
+
+SCRIPT:1 Intromessage1
+"Welcome to the Ultimate Tower Wars "
+END
+
+SCRIPT:1 Intromessage2
+"Work as a team to defeat the waves by building towers and archers "
+END
+
+SCRIPT:1 Intromessage3
+"You get resources after you defeat each wave"
+END
+
+SCRIPT:1 Intromessage4
+"Good Luck!"
+END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

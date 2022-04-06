@@ -1,0 +1,425 @@
+Map:GladiatorUnderWorldReturnOfMorgoth(ByJBV)V1/Desc
+"Top Right Should Be Enemy Isengard Computer. Morgoth, The Evil Dark Lord Of The Balrogs, Wishes Now To Take Over All Of Middle Earth, Only The 6 Great Heros Can Face Him In His Own Realm.\n\nMade By JBV3737\nLoading Screen Picture Drawn By JBV3737\nINI.File Made By JBV3737\nMore Great Maps At bfme2.heavengames.com\nSlot 2 Should Be The Hard Isengard Computer To Prevent The Slot 2 Loading Screen Glitch!"
+End
+
+ChooseTimer
+"Time Left To Choose A Game Mode"
+End 
+
+ChooseMode1
+"There Are Two Modes On This Map, Mission Mode: Use The 6 Great Powerful Rebuilt Heroes Against Waves Of Attacks.\nHero Mode: Use your Own Custom Heroes Against Waves Of Attacks" 
+End
+
+ChooseMode2
+"Stay To The Left Side To Play Mission Mode.\nTo Play Hero Mode, All The Units Must Be Within Right Side, Beside The Statue.\n Mission Mode Is Default, If Not All The Units Are On The Right Side/Hero Mode, The Map Will Play Mission Mode."
+End
+
+HeroModeChoosen
+"Hero Mode Chosen! Lets Begin. Have Fun And Enjoy! Win By Prevailing 15 Waves.\nIf All 6 Heroes Are Dead At Once, The Game Will Be Lost."
+End
+
+MissionModeChoosen
+"Mission Mode Chosen! Lets Begin. Have Fun And Enjoy! Win By Prevailing 15 Waves.\nIf All 6 Heroes Are Dead At Once, The Game Will Be Lost."
+End
+
+CH1LifeTimer
+"Custom Hero 1 Returns In"
+End
+
+CH2LifeTimer
+"Custom Hero 2 Returns In"
+End
+
+CH3LifeTimer
+"Custom Hero 3 Returns In"
+End
+
+CH4LifeTimer
+"Custom Hero 4 Returns In"
+End
+
+CH5LifeTimer
+"Custom Hero 5 Returns In"
+End
+
+CH6LifeTimer
+"Custom Hero 6 Returns In"
+End
+
+LegolasLifeTimer
+"Legolas Returns In"
+End
+
+GandalfLifeTimer
+"Gandalf Returns In"
+End
+
+AragornLifeTimer
+"Aragorn Returns In"
+End
+
+HaldirLifeTimer
+"Haldir Returns In"
+End
+
+GimliLifeTimer
+"Gimli Returns In"
+End
+
+ElrondLifeTimer
+"Elrond Returns In"
+End
+
+MapIntro:01
+"Gladiator UnderWorld Return Of Morgoth, MADE BY JBV3737. This Is The Realm Of Fire, You Will Face 15 Waves Of Attacks\nThis Gladiator You Have Endless Lives And No Spell Powers! PLEASE REMEMBER THAT THIS MAP MAKES ITS\n OWN INI.FILE. IF YOU WANT TO PLAY A NORMAL MAP YOU MUST RESTART YOUR LORD OF THE RINGS GAME AND IT WILL\nBE REFRESHED! IF YOU DO PLAY A ONLINE GAME WITH A CHANGED INI.FILE IT WILL GO OUT OF SNYCH!"
+End
+
+MapIntro:02
+"PLEASE REMEMBER THAT THIS MAP MAKES IT'S OWN INI.FILE. IF YOU WANT TO\nPLAY A NORMAL MAP YOU RESTART YOUR LORD OF THE RINGS GAME AND IT WILL\nBE FIXED! IF YOU DO PLAY A ONLINE GAME WITH A CURRUPT INI.FILE IT WILL\nGO OUT OF SNYC FOR EVERYONE UNLESS YOU PLAY THE MAP THAT MATCHES IT!"
+End
+
+MapIntro:03
+"Meet Balrog, He Is The Lord Over This Domain.\nAnd Means To Destroy All Good In The World Above\nThree Heroes, Haldir, Gandalf, And Aragorn Have Gone\nDown To Slay Balrog And All Evil!"
+End
+
+MapIntro:04
+"Haldir, Capitan of Lorien, Is Armed With Magical Arrows Made By Galadriel.\nIn The Third Age, Gandalf Researched New Spells In Fire And Lighting.\nAragorn Has Been Given A Enchanted Sword From Gandalf, That Wields Thunder."
+End
+
+MapIntro:05
+"Lets Begin. Have Fun And Enjoy! Win By Prevailing 14 Waves And Killing Balrog.\nIf All 3 Heroes Are Dead At Once, The Game Will Be Lost."
+End
+
+MADEBYJBV3737
+"Made By JBV3737. \n Please Spread Map And I Hope You Enjoyed Yourself!\nPLEASE REMEMBER THAT THIS MAP MAKES IT'S OWN INI.FILE.\nIF YOU WANT AVOID OUT OF SNYCH TO PLAY A NORMAL MAP OR ANYMAP,\n YOU MUST RESTART YOUR LORD OF THE RINGS GAME AND IT WILL BE FIXED!!!"
+End
+
+TimeTillGameStarts
+"Time Untill Game Starts"
+End
+
+NextAttack
+"Next Attack In"
+End
+
+lose
+"Evil Will Rule Once Again! And The Blood Of These Heroes Will Stain The World! MADE BY JBV3737, I Hoped You Enjoyed Yourself, Please Remember To Restart Your Lord of The Rings Game If You Are Going To Play A Normal Game!"
+End
+
+win
+"All Evil Has Been Slayed! The Heroes Of Middle-Earth Rule Once More! MADE BY JBV3737, I Hoped You Enjoyed Yourself! Please Remember To Restart Your Lord of The Rings Game If You Are Going To Play A Normal Game!"
+End
+
+BalrogAttack
+"Balrog Attack"
+End
+
+Wave1Done
+"You Dare To Start? Lets Fight Then!"
+End
+
+Wave2Done
+"Meh, They Where Useless Anyways."
+End
+
+Wave3Done
+"That Is Not Nice. You Fight Like You Have Hope, What A Shame"
+End
+
+Wave4Done
+"Heh, They Didn't Last Long. Just Like You Yes?"
+End
+
+Wave5Done
+"The Good Heroes Keep Living, Why? What Riches Do You Search For? There Is None But Death And Fire Down In This Deep."
+End
+
+Wave6Done
+"Why Must You Keep Fighting? What Is The Cause Of Your Hope?"
+End
+
+Wave7Done
+"They Can't Even Kill You? How Is That, It Should Be Easy!"
+End
+
+Wave8Done
+"Good Heroes Are So Infuriating. I Will Make Sure Your Death Will Be Slow And Painful!"
+End
+
+Wave9Done
+"The Good In My Realm Must Die Now. The Shadows Will Return, And Fire Will Burn."
+End
+
+Wave10Done
+"You Will Die In This Realm! Do You Know What Is Worst Then Being Killed? Being Eaten Alive, Spiders Of Cirith Ungol Are Released! Crush Them My Giant Spider!"
+End
+
+Wave11Done
+"Your Blood Will Stain My Realm And Your Souls Stolen! Dead Minions Fight For Evil Once More!"
+End
+
+Wave12Done
+"How? How Can They Kill So Much With Such Grace."
+End
+
+Wave13Done
+"The State Of Good In My Realm Must Be Extinguished! All Minions Attack, Destroy The Heroes Of The UnderWorld! You Will NOT SURVIVE!"
+End
+
+Wave14Done
+"THE GOOD WILL DIE IN THIS REALM! FLY MY BALROG, THEY ARE YOUR KILL! CRUSH THEM NOW!\n THE DARK WILL CRUSH THE GOOD! THE FIRE WILL BURN THE GOOD TO EVIL. YOU WILL FAIL!"
+End
+
+Wave15Balrog2
+"HE CAN'T HOLD THEM! IT IS TIME. FLY NOW! CRUSH THEM, THEY ARE NOW YOUR KILL! CRUSH THEM NOW!\nAND DO NOT FAIL ME! SHOW YOUR DARK FIRE!"
+End
+
+Wave15Morgoth
+"IT IS TIME FOR ME TO EXTINGUISH THIS LIGHT AND BRINGFORTH THE DARK!\nWHY MUST YOU TRY TO SURVIVE IN MY REALM?"
+End
+
+
+
+
+Legolas
+"----------------------------------------------------------------------------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:ArrowFall
+"Arrows Of The Gods"
+End
+CONTROLBAR:ToolTipArrowFall
+"Required: Rank 9\nShoot Hundreds Of Arrows\nVery Fast At Enemies."
+End
+
+
+CONTROLBAR:KnifeFighter1
+"Swords Of Dale"
+End
+CONTROLBAR:ToolTipKnifeFighter1
+"Required: Rank 3\nUse The Magical Swords Of Dale\nOn Your Enemies"
+End
+
+
+CONTROLBAR:MagicArrow
+"Magic Arrow"
+End
+CONTROLBAR:ToolTipMagicArrow
+"Required: Rank 5\nUse Magical Arrow\nThat Creates A Blast\nThat Blows Away Enemies."
+End
+
+
+CONTROLBAR:WorldWave
+"Ring Of Power"
+End
+CONTROLBAR:ToolTipWorldWave
+"Required: Rank 10\nRelease A Magical Arrow\nThat Creates A Word Of Power"
+End
+
+
+CONTROLBAR:MagicArrowWind
+"Magic Arrow Wind"
+End
+CONTROLBAR:ToolTipMagicArrowWind
+"Required: Rank 7\nShoot Magic Arrows\nThat Blast Away Enemies"
+End
+
+
+
+
+
+
+Gandalf
+"----------------------------------------------------------------------------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:LightningSword1
+"Lighting Of The Gods"
+End
+CONTROLBAR:ToolTipLightningSword1
+"Required: Rank 2\nImproved Lighting Strikes\nThat Kills Multiple Enemies At Once"
+End
+
+CONTROLBAR:IstariLight1
+"Super Istari Light"
+End
+CONTROLBAR:ToolTipIstariLight1
+"Required: Rank 5\nMore Damage And Much Bigger\nDamage Area"
+End
+
+CONTROLBAR:WizardBlast1
+"Electric Blast"
+End
+CONTROLBAR:ToolTipWizardBlast1
+"A Wind Blast That Has A\nA Bolt Of Lighting That\nElectrocutes And Blows Away Enemies In A Large Radius"
+End
+
+CONTROLBAR:HolyRing
+"Ring Of Light"
+End
+CONTROLBAR:ToolTipHolyRing
+"Required: Rank 6\n300%+ Armor, 2 Times Damage\n 2+ Times More Damage Area \nUse A Magical Ring That Makes\n Gandalf More Powerful Temporally."
+End
+
+CONTROLBAR:sunwave
+"Power Istari"
+End
+CONTROLBAR:ToolTipsunwave
+"Required: Rank 8\nIdea From Beserkidiot, Thanks Man.\nUse Gandalf's Staff To Convert A Form\nOf The Word of Power Into A Powerful\nFiery Wave In A Small Area.\nCan Create A FireStorm"
+End
+
+
+
+
+Aragorn
+"----------------------------------------------------------------------------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:Araknife
+"Dead Knife Throw"
+End
+CONTROLBAR:ToolTipAraknife
+"Required: Rank 6\nThrow A Knife That\nBelonged To The Army Of The Dead\nVery High Damage In A Small Area"
+End
+
+
+CONTROLBAR:Elendil1
+"Super Elendil"
+End
+CONTROLBAR:ToolTipElendil1
+"Required: Rank 6\n Make Enemies Flee In\nTerror In A Massive Area"
+End
+
+CONTROLBAR:Athelas1
+"Super Athelas"
+End
+CONTROLBAR:ToolTipAthelas1
+"Super Fast Reload Timer.\nHeal Aragorn And Near By Heroes."
+End
+
+CONTROLBAR:aodwave
+"Ring Of The Dead"
+End
+CONTROLBAR:ToolTipaodwave
+"Required: Rank 10\nUse A Magical Ring That Wields\nThe Power Of The Army Of The Dead\nInto A Deadly Word Of Power!"
+End
+
+CONTROLBAR:LightingSword
+"Lighting Sword"
+End
+CONTROLBAR:ToolTipLightingSword
+"Required: Rank 2\nUse A Magical Sword That Wields Thunder\nGives Aragorn 50+ Armor And 2 Times Attack\nElectrocute Fields Of Enemies!"
+End
+
+
+
+
+Haldir
+"----------------------------------------------------------------------------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:HaldirGoldenArrow1
+"Golden Arrow"
+End
+CONTROLBAR:ToolTipHaldirGoldenArrow1
+"Required: Rank 2\n3 Times More Damage Then The Normal\nGolden Arrow, Damage In A Small Area"
+End
+
+CONTROLBAR:HeartOfFire
+"Heart Of Fire"
+End
+CONTROLBAR:ToolTipHeartOfFire
+"Required: Rank 8\nA Blade Master\nThat Sets Aflame Enemies\nMust Wield Sword"
+End
+
+CONTROLBAR:HaldirThornofVengeance
+"Red Arrow"
+End
+CONTROLBAR:ToolTipHaldirThornofVengeance
+"Required: Rank 9\nAn Extremely Powerful\n Single Shot, Range Attack\nThat Makes Most Enemies Flee In Terror"
+End
+
+CONTROLBAR:HaldirArrowWind
+"Wosnor Arrow Wind"
+End
+CONTROLBAR:ToolTipHaldirArrowWind
+"Required: Rank 5\nShoot A Volley Of Wosnor Arrows."
+End
+
+CONTROLBAR:RingOfFire
+"Ring Of Fire"
+End
+CONTROLBAR:ToolTipRingOfFire
+"Required: Rank 10\nUse Haldir's Ring Of Fire\nTo Create A Wave Of Fire That Burns\nEnemies In Its Large Damage Area"
+End
+
+
+
+
+
+Gimli
+"----------------------------------------------------------------------------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:GimliAxeWind
+"Axe Wind"
+End
+CONTROLBAR:ToolTipGimliAxeWind
+"Required: Rank 6\nThrow Tons Of Axes At\nSeveral Enemies At Once."
+End
+
+CONTROLBAR:GimliSlam
+"Call Of Anger"
+End
+CONTROLBAR:ToolTipGimliSlam
+"Required: Rank 8\nCreate A Mini Earthquake\nShock Wave That Flings Back Enemies."
+End
+CONTROLBAR:GimliQuake
+"Ring Of The Dwarfs"
+End
+CONTROLBAR:ToolTipGimliQuake
+"Required: Rank 10\nCreate A Massive Earthquake\nWith A Massive Damage Area\nMinimal Damage Across The Map\nHigh Damage Near Gimli"  
+End
+
+Elrond
+"----------------------------------------------------------------------------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:PersonalFlood1
+"Flood"
+End
+CONTROLBAR:ToolTipPersonalFlood1
+"Required: Rank 3\nCreate A Small Flood\nThat Runs Down Enemies."
+End
+
+CONTROLBAR:naturewave
+"Ring Of Nature"
+End
+CONTROLBAR:ToolTipnaturewave
+"Required: Rank 9\nCreate A Massive Magical\nWhirlwind Of Lighting, Magic And Wind"
+End
+
+CONTROLBAR:ElrondBladeMaster
+"Vargoar Blade"
+End
+CONTROLBAR:ToolTipElrondBladeMaster
+"Required: Rank 6\n250+ Damage 100%+ Armor\n2 Times The Damage Area\nEmpower The Elrond's Vargoar White Sword Even More."
+End
+
+
+
+
+Morgoth
+"----------------------------------------------------------------------------------------------------------------------------------------------------------"
+End
+
+OBJECT:Morgoth
+"OBJECT:Morgoth"
+End
+
+CONTROLBAR:BlackWave
+"The Black Of Morgoth"
+End
+CONTROLBAR:ToolTipBlackWave
+"Use Morgoth's Powerful\nSevnorth Black Sword and Quastar Staff\nTo Create A Black Hole That\nFlings Enemies Towards Him."
+End

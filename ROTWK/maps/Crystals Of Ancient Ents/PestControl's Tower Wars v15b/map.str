@@ -1,0 +1,91 @@
+SCRIPT:INTRO1
+"PestControl's Tower Wars v. 1.5 (release date 24 march)"
+End
+
+SCRIPT:INTRO2
+"Destroy all enemies before they reach the end of the road."
+End
+
+SCRIPT:INTRO3
+"First wave starts soon, build defences."
+End
+
+SCRIPT:INTRO4
+"To do you can build towers and/or archers."
+End
+
+SCRIPT:INTRO5
+"You get money after each wave. Sometimes you get more command points."
+End
+
+SCRIPT:INTRO6
+"Goblins/Men get 20% more money, Isengard/Mordor/Dwarves +40%"
+End
+
+SCRIPT:INTRO7
+"This extra money is given after each 4th wave."
+End
+
+SCRIPT:INTRO8
+"New in 1.5: increased strenght of wave 14 and 15 and 5 more waves."
+End
+
+SCRIPT:INTRO9
+"HINT: Put your units in attack mode."
+End
+
+SCRIPT:WAVE
+"Wave:"
+End
+
+SCRIPT:WAVE2
+"Money for killing this wave:"
+End
+
+SCRIPT:WARN1
+"Enemies might use the other road from wave 11 on."
+End
+
+SCRIPT:WARN2
+"Next wave comes from the other road."
+End
+
+SCRIPT:MONEY11
+"All Dwarf, Isengard and Mordor players received 800"
+End
+
+SCRIPT:MONEY12
+"All Goblin and Men players received 400"
+End
+
+SCRIPT:MONEY21
+"All Dwarft, Isengard and Mordor players received 2000"
+End
+
+SCRIPT:MONEY22
+"All Goblin and Men players received 1000"
+End
+
+SCRIPT:MONEY31
+"All Dwarft, Isengard and Mordor players received 2900"
+End
+
+SCRIPT:MONEY32
+"All Goblin and Men players received 1450"
+End
+
+SCRIPT:MONEY41
+"All Dwarft, Isengard and Mordor players received 5000"
+End
+
+SCRIPT:MONEY42
+"All Goblin and Men players received 2500"
+End
+
+SCRIPT:HINT
+"Order your towers to hit another troll after you killed one"
+End
+
+SCRIPT:VICTORY
+"Congratulations, you survived all waves."
+End

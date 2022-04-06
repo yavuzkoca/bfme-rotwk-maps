@@ -1,0 +1,244 @@
+Map:TheDefenceofHelm'sDeep
+"La Défense du Gouffre de Helm"
+End
+
+Map:TheDefenceofHelm'sDeep/Desc
+"Dans cette map vous devez défendre le Gouffre de Helm contre les forces de l'Isengard\n\n COMMENT JOUER: \n-!!!Jouez sur le spot du haut!!!\n-Choissez votre couleur (ne peut être changé par scripts)\n-Il est conseillé de redémarer le jeu avant et après avoir jouer pour éviter des erreurs de code\n-choisisez un héro personalisé\n-Amusez vous!\n\nBon Jeu!\nIceWink"
+End
+
+CONTROLBAR:SummonElvenAlliesNew
+"Invocation d'Elfes alliés"
+END
+CONTROLBAR:TooltipSummonElvenAlliesNew
+"Invoque les Elfes \nClic gauche sur l'icône puis clic gauche sur une zone praticable"
+END
+
+UPGRADE:RohanArcherRangeLevel2
+"Archerie Niveau 2"
+END
+UPGRADE:RohanArcherRangeLevel3
+"Archerie Niveau 3"
+END
+CONTROLBAR:ConstructRohanArcherRangeLevel2Upgrade
+"Améliore l'archerie au Niveau 2"
+END
+CONTROLBAR:ConstructRohanArcherRangeLevel3Upgrade
+"Améliore l'archerie au Niveau 3"
+END
+CONTROLBAR:ToolTipBuildRohanArcherRangeLevel2Upgrade
+"Permet la formation d'Archers Elfes"
+END
+CONTROLBAR:ToolTipBuildRohanArcherRangeLevel3Upgrade
+"Permet l'achat des flèches enflammées"
+END
+
+
+
+UPGRADE:RohanStableLevel2
+"Écurie Niveau 2"
+END
+UPGRADE:RohanStableLevel3
+"Écurie Niveau 3"
+END
+CONTROLBAR:ConstructRohanStableLevel2Upgrade
+"Améliore l'Écurie au Niveau 2"
+END
+CONTROLBAR:ToolTipBuildRohanStableLevel2Upgrade
+"Permet la formation d'Archers Rohirrims"
+END
+CONTROLBAR:ConstructRohanStableLevel3Upgrade
+"Améliore l'Écurie au Niveau 3"
+END
+CONTROLBAR:ToolTipBuildRohanStableLevel3Upgrade
+"Permet l'achat des Boucliers de Cavaliers"
+END
+
+
+CONTROLBAR:ConstructRohanArmoryLevel2Upgrade
+"Améliore l'Armurerie au Niveau 2"
+END
+CONTROLBAR:ToolTipBuildRohanArmoryLevel2Upgrade
+"Permet l'achat des lames forgées"
+END
+CONTROLBAR:ConstructRohanArmoryLevel3Upgrade
+"Améliore l'Armurerie au Niveau 3"
+END
+CONTROLBAR:ToolTipBuildRohanArmoryLevel3Upgrade
+"Permet l'achat des Armures Lourdes"
+END
+
+CONTROLBAR:RohanGamlingRecruitNew
+"Recrutez Gamling, Lieutenant de l'OuestFolde"
+END
+CONTROLBAR:RohanGamlingReviveNew
+"Recrutez Gamling, Lieutenant de l'OuestFolde"
+END
+CONTROLBAR:RohanGamlingHotkeyNew
+"Gamling"
+END
+CONTROLBAR:NewGimliLeap
+"Saut du Rohan"
+END
+CONTROLBAR:ToolTipNewGimliLeap
+"Gamling fait un bond dans les airs \n et atterit en écrasant ses ennemis"
+END
+CONTROLBAR:HorseMaster
+"Le Marteau de Helm"
+END
+CONTROLBAR:ToolTipHorseMaster
+"Le vieux marteau de Helm est une arme puissante.\n En l'utilisant Gamling peut toucher plusieurs ennemis en même temps"
+END
+CONTROLBAR:GamGuard
+"Appel de la Garde Royale"
+END
+CONTROLBAR:ToolTipGamGuard
+"Gamling invoque la puissante Garde Royale du Rohan"
+END
+CONTROLBAR:GamLoyal
+"Loyauté"
+END
+CONTROLBAR:ToolTipGamLoyal
+"Donne un bonus à tous les Héros environnants\n Capacité Passive"
+END
+CONTROLBAR:MoneyOutOfEnemies
+"Récupération"
+END
+CONTROLBAR:ToolTipMoneyOutOfEnemies
+"Toutes les troupes environnates peuvent récupérer de l'argent\n sur les cadavres de leurs ennemis\n Capacité Passive"
+END
+
+CONTROLBAR:HelmsHorn
+"Le Cor de Helm"
+END
+CONTROLBAR:TooltipHelmsHorn
+"Le son assourdissant effraie nos ennemis.\n Il redonne également espoir à nos troupes"
+END
+
+
+
+SCRIPT:Intro01
+"Aragorn : Les armées de l'Isengard arrivent !\n Il faut que j'atteigne le Gouffre de Helm pour les prévenir !"
+END
+
+SCRIPT:Intro02
+"Aragorn : Les loups de l'Isengard !"
+END
+
+SCRIPT:Intro03
+"Aragorn : Ces villageois sont attaqués, je dois les aider !"
+END
+
+SCRIPT:OBJ01
+"Aragorn doit atteindre le Gouffre de Helm vivant"
+END
+
+SCRIPT:Presentation01
+"Legolas : Aragorn ! Nous vous pensions mort !\n Ouvrez la Porte !"
+END
+
+SCRIPT:Presentation02
+"Aragorn : Où est le Roi ? Il faut que je lui parle urgemment."
+END
+
+SCRIPT:Presentation03
+"Roi Théoden : Aragorn ! Comme je suis content de te voir !"
+END
+
+SCRIPT:Presentation04
+"Aragorn : L'Isengard s'est vidé, leur armée marche dans notre direction.\n Il y en a au moins 10 000 !"
+END
+
+SCRIPT:Presentation05
+"Roi Théoden :  Aucune armée n'a pu franchir le mur du Gouffre et pénétrer dans Fort le Cor.\n A l'intérieur de ces murs, nous leur survivrons.\n Ils se briseront contre cette forteresse comme l'eau sur les rochers!"
+END
+
+SCRIPT:Presentation06
+"Roi Théoden : Le mur d'enceinte est gravé dans la roche.\n Le bras de Saroumane aurait bien grandit s'il croit pouvoir nous atteindre ici."
+END
+
+SCRIPT:Timer01
+"Les armées de l'Isengard arrivent dans : "
+END
+
+SCRIPT:OBJ02
+"La Citadelle doit tenir !"
+END
+
+SCRIPT:Tip01
+"Préparez vous pour l'assaut !\n Vous pouvez recruter des archers à l'Archerie,\n des soldats dans les fermes et des Rohirrims dans les écuries"
+END
+
+SCRIPT:Elves01
+"Legolas : Ce n'est pas un cor d'Orque! \nLes Elfes de la Lorien sont venus nous aider !"
+END
+
+SCRIPT:Elves02
+"Haldir : J'apporte la parole d'Elrond de Fondcombe.\n  Autrefois une Alliance existait entre les Hommes et les Elfes.\n Nous sommes venus honorer cette allégeance."
+END
+
+SCRIPT:Begin
+"Roi Théoden : La bataille commence."
+END
+
+SCRIPT:Ladders
+"Aragorn : Ils ont des échelles !"
+END
+
+SCRIPT:WildMens
+"Legolas : Les Hommes du pays de Dun sont venus en masse !\n Saruman a réveillé de vielles haines pour les engager contre nous !"
+END
+
+SCRIPT:GateAttacked
+"Aragorn : La Chaussée ! Ils attaquent la Porte !"
+END
+
+SCRIPT:GateDown
+"Roi Théoden : La Porte est tombée !"
+END
+
+SCRIPT:Mines01
+"Roi Théoden: Est-ce tout ?\n Tout ce que votre magie peut faire Saroumane?"
+END
+
+SCRIPT:Mines02
+"Aragorn : Ils ont des Mines ! Tuez les Berzerkers Legolas !"
+END
+
+SCRIPT:WallDown
+"Roi Théoden : Le Mur est tombé !\n Repoussez-les! Tenez bon !"
+END
+
+SCRIPT:SunRising
+"Roi Théoden : Le jour se lèvera bientôt.\n Le cor de Helm va retentir dans le Gouffre une dernière fois !"
+END
+
+SCRIPT:Timer02
+"Le jour se lève dans : "
+END
+
+SCRIPT:HornTip
+"Utilisez le Cor de Helm en cliquant sur la tour de For-le-Cor.\n Celà éffraiera nos ennemis et enhardiera nos troupes."
+END
+
+SCRIPT:Dawn01
+"Gandalf : Le Roi Théoden fait face seul."
+END
+
+SCRIPT:Dawn02
+"Éomer : Non pas seul. Rohirrims !\n Pour le Roi !"
+END
+
+SCRIPT:Ents01
+"Gandalf : Les Ents sont venus avec leurs Hurorn pour nous aider !"
+END
+
+SCRIPT:Victory
+"Les forces de Saroumane ont étées vaincues !\n Le peuple du Rohan va survivre!"
+END
+
+SCRIPT:Defeat
+"Nos défenses n'ont pas tenu, nul ne survivra ..."
+END
+
+
+

@@ -1,0 +1,30 @@
+CONTROLBAR:Whipsw
+"Toggle Weapon"
+End
+CONTROLBAR:ToolTipWhipsw
+"Click to toggle between\n Fire Sword and\n Fire Whip"
+End
+
+SCRIPT:intro
+"Welcome to The Great Balrog Duel! Created by eliec."
+End
+
+SCRIPT:intro2
+"The battle will be fierce - only one Balrog can be the champion.\n Please remember to restart your game after playing this map\nIf you do not the next game WILL GO OUT OF SYNCH!"
+End
+
+SCRIPT:pl1
+"Player one has been eliminated"
+End
+
+SCRIPT:pl2
+"Player two has been eliminated"
+End
+
+SCRIPT:pl3
+"Player three has been eliminated"
+End
+
+SCRIPT:pl4
+"Player four has been eliminated"
+End

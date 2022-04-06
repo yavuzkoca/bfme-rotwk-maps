@@ -1,0 +1,11 @@
+SCRIPT:StealthHint1
+"The density of the Old Forest hide even the most untrained from sight\nand the hostility of the trees make them more difficult to harvest."
+End
+
+SCRIPT:StealthHint2
+"Most units are able to stealth near trees and tree harvesting takes longer."
+End
+
+SCRIPT:Hint1
+"Remember: Old Man Willow resides in the forest."
+End

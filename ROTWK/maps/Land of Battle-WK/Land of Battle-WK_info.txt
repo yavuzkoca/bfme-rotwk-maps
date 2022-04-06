@@ -1,0 +1,18 @@
+Land of Battle ist eine 4 Spieler Ki Map für BfME2.
+Vier Basen jede einzigartig in ihrer Verteidigung. 
+Mordor Truppen begleitet von Nazghuls durchstreifen das öde Land, nahe Carn Düm, 
+der Festung des Hexenmeisters. Der seinen Truppen in der Not Verstärkungen
+schicken wird. Ihr Ziel die totale Vernichtung feindlicher Einheiten und die totale 
+Beherrschung des Gebiets. Was die wenigen Dörfer in dieser Gegend und ihre Bewohner 
+schon schmerzhaft erfahren mussten. Doch auch Gollum durchstreift das öde Land... 
+
+Eure Aufgabe: Zieht vorbei an verlassenen, brennenden Dörfern wo nur noch die Leichen 
+der Bewohner ihre stummen Geschichten erzählen. Und befreit dieses Land von seinem
+bösen dunklen Truppen. Befreit euer Land...vereint alle vier Völker.
+
+Spieler:4
+Gollum: Ja
+Scripte: Ja
+Start Gold: 2500
+
+by Buccane

@@ -1,0 +1,27 @@
+By Aragon94
+"--------------------------------------------------------------------------------------------------------------------"
+End
+
+Map:Warofthe4Lands/Desc
+"5 islands, 4 players that will fight for them... but only one will survive.\n \nMade by {IP}Lascar.\n \nSpecial thanks to {IP}Pasidon and Aragorn94\n "
+End
+
+SCRIPT:Intro1
+"The War of the 4 Lands...\n4 Generals are here in order to get to the central island and gain the riches hidden in it."
+End
+
+SCRIPT:Intro2
+"But it wont be easy, as drakes guard the treasure hidden there..."
+End
+
+SCRIPT:Intro3
+"If you can get the treasure and recruit it´s holder, you will earn great power, but if somebody\nelse does, you will face the strongest magic on Middle-Earth.\nMade by {IP}Lascar."
+End
+
+SCRIPT:Tip1
+"This islands have a magic scent...\nit is said they hold the magical gate to the central island...\nif we build more then 2 forteress we will lose"
+End
+
+SCRIPT:Power
+"The Ring Hero has arrived!!!\nThe general who owns the ring will now have great power!!!!"
+End

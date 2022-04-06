@@ -1,0 +1,99 @@
+Start:01
+"Welcome to my map!(sorry for the blackness, will be solved in later vers)"
+end
+
+Start:02
+"I have tried to make this map look as authentic as it does in World of Warcraft."
+end
+
+start:03
+"Let me give you the tour of my map"
+end
+
+Start:04
+"These are the Trolls or Yeti's in World of Warcraft(4)."
+end
+
+Start:05
+"This is Tarren Mill."
+end
+
+Start:06
+"This is Southshore(2)."
+end
+
+Start:07
+"Be quiet, These are where the living tress are(3)."
+end
+
+Start:08
+"Finally, That is Durnholde Keep, it has been abandoned in wake of the upcoming attack."
+end
+
+Start:09
+"You will need to get in Durnholde and defend it from the attacks."
+end
+
+Start:10
+"Hillsbrad Foothills Depends on it."
+end
+
+inv:01
+"Invasion in: "
+end
+
+next:01
+"Wave 2 in: "
+end
+
+wave:02
+"Wave 3 in: "
+end
+
+wave:03
+"Wave 4 in: "
+end
+
+wave:04
+"Wave 5 in: "
+end
+
+wave:05
+"Wave 6 in: "
+end
+
+wave:06
+"Wave 7 in : "
+end
+
+wave:07
+"Wave 8 in: "
+end
+
+wave:08
+"Wave 9 in: "
+end
+
+wave:09
+"Last wave in: "
+end
+
+WARN:01
+"WARNING: Once the Invasion has begun DO NOT LEAVE DURNHOLDE. It will result in a DEFEAT.Click on the X to remove the box."
+end
+
+outside:01
+"SOMEONE IS OUTSIDE, GET BACK IN DURNHOLDE!"
+end
+
+outside:02
+"Lose in : "
+end
+
+what:01
+"The last of Arathi's Forces are here. But wait......."
+end
+
+what:02
+"Forces of Silverpine are coming this way, prepare the troops"
+end

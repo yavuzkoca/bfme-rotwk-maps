@@ -1,0 +1,19 @@
+SCRIPT: 1
+"Player 1's Money"
+End
+
+SCRIPT: 2
+"Player 2's Money"
+End
+
+SCRIPT: 3
+"Player 3's Money"
+End
+
+SCRIPT: 4
+"Player 4's Money"
+End
+
+SCRIPT: Timer
+"Game Ends in:"
+End

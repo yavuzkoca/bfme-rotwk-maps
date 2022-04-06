@@ -1,0 +1,32 @@
+SCRIPT:Intro01
+"Redwarior's Double Team Tower Wars V3."
+End
+
+SCRIPT:Intro02
+"Purchase Scavenger for Money Ther will be no money given out per wave"
+End
+
+SCRIPT:Intro03
+"You can build statues now and the spell store is open with limited spells."
+End
+
+SCRIPT:Intro04
+"I Suggest the teams share ther money with your teammate as needed"
+End
+
+SCRIPT:Intro05
+"Game begins in 40 seconds get ready!"
+End
+
+SCRIPT:GameStart
+"Game start in:"
+End
+
+SCRIPT:Rest
+"Rest:"
+End
+
+SCRIPT:Wave
+"Wave:"
+End
+

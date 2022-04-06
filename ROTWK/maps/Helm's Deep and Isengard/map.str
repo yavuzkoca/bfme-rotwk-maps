@@ -1,0 +1,53 @@
+
+
+SCRIPT:TEST_EOMER
+"Rohan Reinforcements arrives in :"
+End 
+
+ 
+ SCRIPT:TEST_TREEBEARD
+"The last march of the Ents starts in :"
+End 
+
+
+
+
+
+
+
+SCRIPT:ROHAN_START
+"Hold Helm's Deep \n Our Allies Will Come"
+End 
+
+
+SCRIPT:SARUMAN_WARNING
+"Destroy their Leader Treebeard  \n Or all will be Lost !"
+End 
+
+
+
+
+SCRIPT:ARAGORN_WARNING
+"Destroy the Mine quickly !"
+End 
+
+
+
+
+SCRIPT:JUS_SAURON
+" The Two Towers  : 2 vs 2 \n \n The forces of Isengard lay siege \n to the Strong Hold of Helm's Deep \n \n Best played with JUS_SAURON :\n Power Of the Ring "
+End 
+
+SCRIPT:FALSE_START1
+"This player must be Men Faction!"
+End 
+
+SCRIPT:FALSE_START2
+"This player must be Isengard Faction!"
+End 
+
+
+SCRIPT:FALSE_START_8
+"Please Reset Your Factions    \n  \n And Start Positions !"
+End 
+

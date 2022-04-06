@@ -1,0 +1,115 @@
+SCRIPT:1RivendellIntroText1
+"In the year 3429 of the Second Age, Sauron invaded Gondor, and took the city of Minas Ithil."
+END
+
+SCRIPT:1RivendellIntroText2
+"Within the year, an alliance was formed between the armies of elves and men, to destroy Sauron once and for all."
+END
+
+SCRIPT:1RivendellIntroText3
+"The Last Alliance marched to Rivendell to gather its strength, however they soon found that Rivendell had problems of its own..."
+END
+
+SCRIPT:1RivendellIntroText4LocationMarker
+"Rivendell, 3430 SA."
+END
+
+SCRIPT:1RivendellGoToInstructor
+"Get out of there! You need to meet me at the base of the hill for your training."
+END
+
+SCRIPT:1RivendellInstructorText1
+"I'm your training instructor, and I'll help guide you through all of this."
+END
+
+SCRIPT:1RivendellInstructorText2
+"First off, you need to know how to use your sword. Use 'T' to toggle between Weapons."
+END
+
+SCRIPT:1RivendellInstructorText3
+"Your bow will allow you to pick off enemies without the risk of getting hurt. Your sword, however, deals out much stronger hits."
+END
+
+SCRIPT:1RivendellInstructorText4
+"Be careful about getting hurt, the only way to heal is by finding the secret well, hidden in the forest."
+END
+
+SCRIPT:1RivendellInstructorText5
+"You seem to already have mastered how to move around, so I'll let you out. Good luck."
+END
+
+SCRIPT:1RivendellDestroyCatapultHint
+"Use your sword to destroy the catapult."
+END
+
+SCRIPT:1RivendellGateHint
+"Defend the gate."
+END
+
+SCRIPT:1RivendellBridgeHint
+"Well done, advance to the bridge."
+END
+
+SCRIPT:1RivendellCrossRiverHint
+"Cross the river and destroy the survivors!"
+END
+
+SCRIPT:1RivendellKillMessengers
+"Our scouts inform us that orc messengers have been sent to bring reinforcements. We cannot let them escape!"
+END
+
+SCRIPT:1RivendellMessengerTimer
+"Messengers reach army in:"
+END
+
+SCRIPT:1Rivendell5MessengersLeft
+"5 Messengers Left"
+END
+
+SCRIPT:1Rivendell4MessengersLeft
+"4 Messengers are still out there. Hurry!"
+END
+
+SCRIPT:1Rivendell3MessengersLeft
+"3 of them are still hiding out here."
+END
+
+SCRIPT:1Rivendell2MessengersLeft
+"Find the last 2! Time is running out!"
+END
+
+SCRIPT:1RivendellSpiderGotMessenger
+"Looks like the spiders got this one."
+END
+
+SCRIPT:1Rivendell1MessengersLeft
+"Return to your elves, they may have found clues as to where the last scout went."
+END
+
+SCRIPT:1CluesFound
+"Tracks have been found leading down this path."
+END
+
+SCRIPT:1RivendellOrcCampFound
+"There he is! You chase him down, we'll take care of the others."
+END
+
+SCRIPT:1RivendellHeLitTheTorch!
+"No!"
+END
+
+SCRIPT:1RivendellGiantArmyResponse
+"We cannot defeat an army this size! We're doomed!"
+END
+
+SCRIPT:1RivendellHope
+"Wait, what's that?"
+END
+
+SCRIPT:1RivendellLastAllianceCharge
+"Gondor! And the elves of Lindon! The Last Alliance has arrived!"
+END
+
+SCRIPT:1RivendellJoinInTheSlaughter
+"Victory is ours! Charge!"
+END

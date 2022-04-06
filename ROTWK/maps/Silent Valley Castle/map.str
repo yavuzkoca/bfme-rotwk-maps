@@ -1,0 +1,23 @@
+SCRIPT: Sauron
+"Sauron and his minions come in:"
+End
+
+SCRIPT: By
+"Map made by Azendor, KoRnTBH10serg and PyRaMidMaN, thanks to {IP}Pupeteer for his help."
+End
+
+SCRIPT: Objective
+"Welcome to Silent Valley Fort.\nThe aim of the game is to destroy the defenders of the fortress within\n 45 minutes. If you fail, Sauron will come with his minions to destroy you."
+End
+
+SCRIPT: Honey
+"Honey I'm home!!!"
+End
+
+SCRIPT: Defences
+"They have got past our defences!"
+End
+
+SCRIPT: Rein
+"The WitchKing has brought us reinforcements."
+End

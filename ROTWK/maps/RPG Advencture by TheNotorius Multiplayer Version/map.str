@@ -1,0 +1,429 @@
+MissioneGloinNaniCompletata
+"You are the best men I have ever known"
+End
+
+MissioneGloinNaniFallita
+"I was wrong to trust in you..this was a work for a Dwarf"
+End
+
+MissioneGloinNani
+"Ehy men, I need your help"
+End
+
+MissioneGloinNaniAccetto
+"Some Goblins arrived near us, probably to steal our money. Kill them all"
+End
+
+MissioneGloinNanitempo
+"You must kill all the Goblins in: "
+End
+
+
+MissioneGlorfindelElficiCompletata
+"Thanks a lot"
+End
+
+MissioneGlorfindelElficiFallita
+"That's not good. You aren't able to train Glorfindel"
+End
+
+MissioneGlorfindelElfici
+"Ehy men, I need your help to increase my power"
+End
+
+MissioneGlorfindelElficiAccetto
+"Thanks, now I must arrive at Level10"
+End
+
+MissioneGlorfindelElficitempo
+"You must train Glorfindel to reach Level 10 in: "
+End
+
+
+MissioneSoldatiGondorCompletata
+"Thanks man! Now our soldier has arrived in the Elven city to bring some food"
+End
+
+MissioneSoldatiGondorFallita
+"We trusted in you...probably you are not that great warrior we thought"
+End
+
+MissioneSoldatiGondor
+"Ehy man, we have a mission to you. Use Power Accept Missions to accept"
+End
+
+MissioneSoldatiGondorAccetto
+"In this place the food is finishing..you must help our soldier to go to the \n Elven city safe to take some foods"
+End
+
+CONTROLBAR:Darkness0
+"Accept"
+End
+
+CONTROLBAR:TooltipDarkness0
+"When someone ask you to do a mission or you want \n buy a new power or increase your stats, use this power."
+End
+
+MissioneSoldatiGondortempo
+"The Soldier must arrive in the city in: "
+End
+
+MissionePortaSoldato
+"Move the Soldier to the Elven city. The Soldier must survive."
+End
+
+MissioneArcieriGondorCompletata
+"Great! Now our Statue is retourned in the city"
+End
+
+MissioneArcieriGondorFallita
+"The enemies that stole our statue are escaped. We'll never have the statue back..."
+End
+
+MissioneArcieriGondor
+"Ehy soldier, we need your help. Use Power Accept Missions to accept"
+End
+
+MissioneArcieriGondorAccetto
+"Some DarkRangers have stolen a statue last night: now they are hidden in the woodland. Find them and bring back our statue before they escape"
+End
+
+MissioneArcieriGondortempo
+"The robbers will escape in: "
+End
+
+MissioneCavalieriiGondorCompletata
+"Good Eowyn is safe!"
+End
+
+MissioneCavalieriGondorFallita
+"You are too late...Eowyn is died..."
+End
+
+MissioneCavalieriGondor
+"Ehy men, you must do a thing. Use Power Accept Missions to accept"
+End
+
+MissioneCavalieriGondorAccetto
+"Eowyn has been attacked my some wolfs! Hurry, help her!"
+End
+
+MissioneCavalieriGondortempo
+"Eowyn must retourn in: "
+End
+
+MissionAragornGondorCompletata
+"Finally the 3 rings are in our hands! Bring every ring to the fortress"
+End
+
+MissioneAragornGondorFallita
+"No! the enemy has still the rings...It's all finish"
+End
+
+MissioneAragornGondor
+"Ehy men, you must do a thing. Use Power Accept Missions to accept"
+End
+
+MissioneAragornGondorAccetto
+"You must find the 3 Elven Rings and bring them back to out fortress and the dwarven and elven fortress"
+End
+
+MissioneAragornGondortempo
+"You must Bring the 3 rings in:"
+End
+
+MissioneGuardianiNaniCompletata
+"Good now the bridges won't be impossible to pass anymore"
+End
+
+MissioneGuardianiNaniFallita
+"We tought you could help us..."
+End
+
+MissioneGuardianiNani
+"Please men, accept our mission"
+End
+
+MissioneGuardianiNaniAccetto
+"2 Sinister Men are placed in the bridges and we can't pass from there...kill them"
+End
+
+MissioneGuardianiNanitempo
+"You must kill the 2 goblins in:"
+End
+
+MissioneAsceNaniCompletata
+"Yeah Drogoth is died!"
+End
+
+MissioneAsceNaniFallita
+"Drogoth is still alive and will continue to bring terror in our lands.."
+End
+
+MissioneAsceNani
+"Ehy men, we have a mission that you can do"
+End
+
+MissioneAsceNaniAccetto
+"Drogoth is terrificant he continues to fly over our lands...If you are good enough kill him"
+End
+
+MissioneAsceNanitempo
+"You must kill drogoth in:"
+End
+
+MissioneDainNaniCompletata
+"What you have done is great. Dragons won't desturb we anymore"
+End
+
+MissioneDainNaniFallita
+"If you are not be able to stop, anyone can do...It's the end"
+End
+
+MissioneDainNani
+"I have a real important mission to affide to you"
+End
+
+MissioneDainNaniAccetto
+"A lot of Dragons are near hobbit village and near us...kill them all before they will kill us"
+End
+
+MissioneDainNanitempo
+"You must kill the dragons in:"
+End
+
+MissioneArcieriElficiCompletata
+"Thanks the hobbits are safe now."
+End
+
+MissioneArcieriElficiFallita
+"The wights have prevealed. Now the terror will remain in the village"
+End
+
+MissioneArcieriElfici
+"If you are good enough, we have a mission for you"
+End
+
+MissioneArcieriElficiAccetto
+"Barrow Wights are attacking the hobbit village..Hurry stop them"
+End
+
+MissioneArcieriElficitempo
+"You must save the hobbits in:"
+End
+
+MissioneGuerrieriElficiCompletata
+"Thanks we'll never forget about you"
+End
+
+MissioneGuerrieriElficiFallita
+"It's too late"
+End
+
+MissioneGuerrieriElfici
+"Ehy, we need your help"
+End
+
+MissioneGuerrieriElficiAccetto
+"we must destroy what obstacole the river, using Ents. TreeBeard must not fall"
+End
+
+MissioneGuerrieriElficitempo
+"You must destroy the obstacole in:"
+End
+
+MissioneElrondElficiCompletata
+"Now that we have defended from the attack of evil, we'll be ready to attack soon"
+End
+
+MissioneElrondElficiFallita
+"It's the end our power is nothing without that towers"
+End
+
+MissioneElrondElfici
+"Evil wants attack. Accept to help you in our war"
+End
+
+MissioneElrondElficiAccetto
+"Evil is attacking. Don't let them destrot out towers, which rapresents our power"
+End
+
+MissioneElrondElficitempo
+"You must resist for:"
+End
+
+Misione4
+"It's our time. Go and Kill every Evil men, Rogash and his Master!"
+End
+
+Misione5
+"Rogash have been killed but His master has escaped..Find him and kill"
+End
+
+ConteggioMissioni
+"You have to do 5 Main missions. Missions Completed:"
+End
+
+TheWarrior
+"TheWarrior"
+End
+
+TheArcher
+"TheArcher"
+End
+
+TheWizard
+"TheWizard"
+End
+
+CONTROLBAR:ToolTipCAH_ThrowSpear_Level31
+"The Hero Throw a Powerful Ice Spear that Inflict \n damage to target, and also inflict damage and freeze\n near enemys"
+End
+
+CONTROLBAR:SuperBladeMaster 
+"Super Blade Master"
+End
+
+CONTROLBAR:ToolTipSuperBladeMaster
+"Increase of +100% Attack and Defence. Increase also the speed"
+End
+
+CONTROLBAR:GlorfindelBladeOfPurity1
+"BowMaster"
+End
+
+CONTROLBAR:ToolTipGlorfindelBladeOfPurity1
+"Increase of +100% the Attack and of +50% the Armor \n Increase also the Range"
+End
+
+CONTROLBAR:Slayer0
+"Wizard Power"
+End
+
+CONTROLBAR:ToolTipSlayer0
+"Increase the Attack of +50% and the armor of + 100% \n Spell's recharge times used during the activation of this power \n are decreased"
+End
+
+CONTROLBAR:HaldirGoldenArrow0
+"Super Arrow"
+End
+
+CONTROLBAR:ToolTipHaldirGoldenArrow0
+"Inflict damage to the target and near enemys. \n Then a rain of arrows hit again the enemys"
+End
+
+CONTROLBAR:TooltipCAH_SpawnTornado_Level30
+"Summon 4 Tornados in the field"
+End
+
+Intro1
+"After Sauron was defeated a New dark power was rising again. But this time Aragorn, \n Legolas, Gimli and all Others Heroes of Middle Earth don't want risk they \n life again. So Gandalf have united  3 New Great heroes to stop this Dark rising"
+End
+
+Gandalf
+"This Region is in Danger. A Gondor City, a Dwarven City and an Elven City can be \n destroyed soon. If we let this happen the new dark power will extend to every Area. You are the \n only ones who can stop this. Now I will show you how to move in this Advencture."
+End
+
+Gandalf1
+"In the illuminate points you can interact with the people. \n Here for example you have to do a BonusMission, to increase your money and powers"
+End
+
+Gandalf2
+"You MUST do some MainMissions to go ahead with your Advencture. \n They are Marked with a signal fire in the map. \n If you lose a MainMission you are defated"
+End
+
+Gandalf3
+"In Each city there is a place where you can \n increase your Attack, Defence or Life like this..."
+End
+
+Gandalf4
+"..and a place in which you can buy a new power. Increase Stats or buy a new power cost 1000"
+End
+
+Gandalf5
+"To accept a mission or buy a new power or increase Stats you must use the Accept Power. \n When you use that power, your money will decrease of 500. \n If a Hero Accept or Fail a Mission, anyone can do it again \n Good Luck"
+End
+
+Eomer
+"Do you want to Increase The Attack? It will cost 1000"
+End
+
+Eomerpotenzia
+"I'm Increasing your Attack if you gave me enough money...Please wait"
+End
+
+Eomerdavverpotenzia
+"Your attack have been increased. Remember you can increase it up 8 times"
+End
+
+Demolitore
+"Do you want to Increase The Defence? It will cost 1000"
+End
+
+Demolitorepotenzia
+"I'm Increasing your Defence if you gave me enough money...Please wait"
+End
+
+Demolitoredavverpotenzia
+"Your defence have been increased. Remember you can increase it up 8 times"
+End
+
+Legolas
+"Do you want to Increase your life? It will cost 1000"
+End
+
+Legolaspotenzia
+"I'm Increasing your Life if you gave me enough money...Please wait"
+End
+
+Legolasdavverpotenzia
+"Your Life have been increased. Remember you can increase it up 8 times"
+End
+
+Faramir
+"Do you want a new Power? It will cost 1000"
+End
+
+faramirpotenzia
+"I'm giving to you a new power if you gave me enough money...Please wait"
+End
+
+faramirdavverpotenzia
+"You have obtained a new power. If you want other powers, go to other cities."
+End
+
+Gimli
+"Do you want a new Power? It will cost 1000"
+End
+
+gimlipotenzia
+"I'm giving to you a new power if you gave me enough money...Please wait"
+End
+
+gimlidavverpotenzia
+"You have obtained a new power. If you want other powers, go to other cities."
+End
+
+Arwen
+"Do you want a new Power? It will cost 1000"
+End
+
+arwenpotenzia
+"I'm giving to you a new power if you gave me enough money...Please wait"
+End
+
+arwendavverpotenzia
+"You have obtained a new power. If you want other powers, go to other cities."
+End
+
+GandalfAnello
+"You will never have my ring"
+End
+
+MostroFinale
+"Now you will face all my Servants of the Dark"
+End
+
+ondata1
+"Next attack in: "
+End

@@ -1,0 +1,23 @@
+Dans cette map vous devez défendre la citée de Minas Tirith contre les forces du Mordor!
+
+Cette Map Inclut:
+- des vagues d'assaut
+- Grond
+- Les Nazgûls
+- Les Rohirrims
+- L'armée des morts
+- Objectifs custom
+
+COMMENT JOUER:
+-!!!Jouez sur le spot du haut!!!
+-Choissez votre couleur (ne peut être changé par scripts)
+-Il est conseillé de redémarer le jeu avant et après avoir jouer pour éviter des erreurs de code
+-Amusez vous!
+
+Compatibilité:
+Cette map est compatible avec BFME 2 et ROTWK mais elle n'a été testée que sur bfme 2 donc sur rotwk
+la map peut être moins balancée (je ne pense pas vraiment mais bon on ne sais jamais).
+
+Bon Jeu!
+
+IceWink

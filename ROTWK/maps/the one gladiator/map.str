@@ -1,0 +1,101 @@
+
+
+SCRIPT:C-a-h 1
+"Custom Hero 1 Returns in:"
+End
+
+SCRIPT:C-a-h 2
+"Custom Hero 2 Returns in:"
+End
+
+SCRIPT:C-a-h 3
+"Custom Hero 3 Returns in:"
+End
+
+SCRIPT:C-a-h 4
+"Custom Hero 4 Returns in:"
+End
+
+SCRIPT:C-a-h 5
+"Custom Hero 5 Returns in:"
+End
+
+SCRIPT:Lives 1
+"Player 1's Lives:"
+End
+
+SCRIPT:Lives 2
+"Player 2's Lives:"
+End
+
+SCRIPT:Lives 3
+"Player 3's Lives:"
+End
+
+SCRIPT:Lives 4
+"Player 4's Lives:"
+End
+
+SCRIPT:Lives 5
+"Player 5's Lives:"
+End
+
+SCRIPT:Text 1_1
+"Custom Hero 1 has been slain."
+End
+
+SCRIPT:Text 1_2
+"Custom Hero 2 has been slain."
+End
+
+SCRIPT:Text 1_3
+"Custom Hero 3 has been slain."
+End
+
+SCRIPT:Text 1_4
+"Custom Hero 4 has been slain."
+End
+
+SCRIPT:Text 1_5
+"Custom Hero 5 has been slain."
+End
+
+SCRIPT:Wave
+"Wave"
+End
+
+SCRIPT:T1
+"Next Wave Starts in:"
+End
+
+SCRIPT:Complete
+"Wave Completed"
+End
+
+SCRIPT:Kraken
+"Hurry Up and Kill the Kraken! If the Wyrm dies than Sauron will become impatient!"
+End
+
+SCRIPT:Hide
+"The Filth Wormtongue is hiding. Seek him out!"
+End
+
+SCRIPT:Arwen
+"Rise, the River! Let it engulf you!"
+End
+
+SCRIPT:Enough
+"Slay Sauron, the Witch-King of Anmgar and enough of the Nazgul to defeat the forces of Darkness!"
+End
+
+SCRIPT:Win
+"Well Done. You have defeated the forces of evil. Congratulations by Puppeteer."
+End
+
+SCRIPT:Lose
+"You have failed in your quest. Middle-Earth shall come under a new sinister order. By Puppeteer"
+End
+
+SCRIPT:Start
+"Time till Game Begins:"
+End

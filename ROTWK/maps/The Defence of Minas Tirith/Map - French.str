@@ -1,0 +1,143 @@
+Map:TheDefenceofMinasTirith
+"La Défense de Minas Tirith"
+End
+
+Map:TheDefenceofMinasTirith/Desc
+"Dans cette map vous devez défendre la citée de Minas Tirith contre les forces du Mordor!\n\n COMMENT JOUER: \n-!!!Jouez sur le spot du haut!!!\n-Choissez votre couleur (ne peut être changé par scripts)\n-Il est conseillé de redémarer le jeu avant et après avoir jouer pour éviter des erreurs de code\n-choisisez un héro personalisé\n-Amusez vous!\n\nBon Jeu!\nIceWink"
+End
+
+SCRIPT:exemple
+"ceci est un exemple de texte"
+End
+
+SCRIPT:commandpoints
+"Points de Commandement"
+End
+
+SCRIPT:level controled
+"Niveaux contrôlés"
+End
+
+SCRIPT:Intro 01
+"Minas Tirith, la citée des rois ! Son mur d'enceinte a été taillé dans la roche grâce à l'art de la Maconerie Numénoréenne.\n La clef de cette enceinte imprenable est la Porte qui elle est vulnérable, c'est là que notre ennemi concentrera ses forces !\n Défendez la citée blanche contre les forces du Mordor !"
+End
+
+SCRIPT:Intro 02
+"Soldat du Gondor: Regardez ! C'est le seigneur faramir, il est soufrant !"
+End
+
+SCRIPT:Intro 03
+"Tennez la tour blanche jusqu'au bout !"
+End
+
+SCRIPT:Intro 04
+"Les forces du mordor arrivent dans"
+End
+
+SCRIPT:Intro 05
+"Général du Gondor: Ils arrivent, fermez les portes !"
+End
+
+SCRIPT:Goth speech
+"Gothmog: Avancez vermines, prenez d'assaut la forteresse. Ne cessez l'assaut que lorsque la citée sera prise !"
+End
+
+SCRIPT:Siege Towers
+"Gandalf: Ils ont des tours de siège ! Tuez les trolls, tuez les trolls !"
+End
+
+SCRIPT:Attack gate
+"Gandalf: Ils vont attaquer la porte, tennez là !"
+End
+
+SCRIPT:Nazguls
+"Général du Gondor: Les Nazgûls !"
+End
+
+SCRIPT:gothmog send grond
+"Gothmog: La Porte est trop solide, mais Grond peut la percer! Qu'on m'amène la tête de Loup !"
+End
+
+SCRIPT:grond grond grond
+"Orcs: Grond ! Grond ! Grond ! ..."
+End
+
+SCRIPT:Gandalf grond
+"Gandalf: Vous êtes des soldats du Gondor! Peut importe ce qui passera par cette porte vous maintiendrez vos position !"
+End
+
+SCRIPT:WK gandalf
+"Le Roi Sorcier: Vous avez échoué gandalf! Le monde des hommes va s'éfondrer !"
+End
+
+SCRIPT:Gothmog Magic
+"Gothmog: Ces satanés hommes ne mourrons donc jamais! Envoyez leur une volée de flèches"
+End
+
+SCRIPT:seen Rohan
+"Général du Gondor: Nous avons aperçu les forces du Rohan depuis le haut de la tour d'Echtelion! Tennez bon, ils arrivent !"
+End
+
+SCRIPT:Timer Rohan
+"L'armée du Rohan arrive dans"
+End
+
+SCRIPT:From ranks
+"Gothmog: Formez les rangs vermines, formez les rangs. Les Hallebardiers devant et les archers derière!"
+End
+
+SCRIPT:Theoden
+"Theoden: Debout ! Debout cavaliers de Theoden! Les lances seront secouées,les boucliers volerons en éclats, une journée de l'épée, une journée Rouge!Avant que le soleil ne se lève !"
+End
+
+SCRIPT:Death !!!
+"Armée du Rohan: à Mort !!!!"
+End
+
+SCRIPT:Death of Gothmog
+"Général du Rohan: Gothmog est mort! l'armée du mordor n'a plus de général!"
+End
+
+SCRIPT:Death of Theoden
+"Le Roi Sorcier: Régale toi de sa chair!"
+End
+
+SCRIPT:free the city
+"Général du Gondor: Tuez tous les ennemis, libérez la citée !"
+End
+
+SCRIPT:the end
+"Général du Gondor: Enfin! nous les avons vaincu!"
+End
+
+SCRIPT:obj 01
+"Tennez la citadelle à tous prix"
+End
+
+SCRIPT:obj 02
+"Tennez le premier niveau"
+End
+
+SCRIPT:obj 03
+"Gardez tous vos héros en vie durant la bataille"
+End
+
+SCRIPT:info 01
+"Plus vous contrôlerez de niveaux de Minas Tirith, plus vous aurez de points de commandement"
+End
+
+SCRIPT:challenge
+"Challenge réussi: vous avez réussi à tenir la porte contre Grond !"
+End
+
+SCRIPT:obj 01 fail
+"La citadelle est perdue, la citée blanche est tombée."
+End
+
+SCRIPT:obj 02 fail
+"Objectif Bonus échoué : \n Tennez le premier niveau"
+End
+
+SCRIPT:obj 03 fail
+"Objectif Bonus échoué : \n Gardez tous vos héros en vie durant la bataille"
+End

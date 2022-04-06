@@ -1,0 +1,52 @@
+
+Intro_Timer
+"Game Starts in"
+End
+
+Enemy_Attack
+"Enemy attacks in"
+End
+
+Next_Wave
+"Next Wave in"
+End
+
+Sauron_Arrive
+"Game continues in"
+End
+
+Haradrim_Convoy
+"Haradrim Convoy arrives in"
+End
+
+Welcome
+"Welcome to my Hero Defence Map"
+End
+
+Map_Maker
+"This map has been made by Masterbadeend or HighE1venMaster"
+End
+
+Map_ini
+"Please note, this map uses a different ini file, so restart your game after this one to avoid Out Of Sync"
+End
+
+Both_Heroes_Die
+"Your hero does not come back after he has been killed"
+End
+
+Map:defendthefordsofthenimrodel/desc
+"The fords of the Nimrodel are nearly token by a massive army of goblins, orcs and uruk-hais. It is your task to hold the fords and defend Lorien\nTip: select 4000 resources to disable the spellstore\nIn version 2 I solved the bug, if your heroes are dead, you still exist but cannot do anything"
+End
+
+Haradrim_Escort
+"Our scouts have seen a Haradrim army coming this way, they can be here in any minute."
+End
+
+Witch_King
+"First of the Nazgûls, Lead your beasts and your servants into victory and don't fail me"
+End
+
+The_End
+"Elrond: Now this Fortress is destroyed, we can finally live in peace"
+End

@@ -1,0 +1,47 @@
+SCRIPT:Intro01
+"Loke's fifth Tower Wars Map was released 28/9 2008"
+End
+
+SCRIPT:Intro02
+"Welcome to Loke's Free For All Tower Wars. Some information will now come."
+End
+
+SCRIPT:Intro03
+"Money is given after every wave and you will get more commandopoints after a while."
+End
+
+SCRIPT:Intro04
+"Each player gets Rallying Call or War Chant, use it at the right moment"
+End
+
+SCRIPT:Intro05
+"The second road wont be used before wave 11. I wish you all good luck."
+End
+
+SCRIPT:Intro06
+"Custom Heroes are alloud but GOOD PLAYERS dont use them. Map is beatable without them! Specially thx to KUH|DerPriester (Ludlus) for his help with the ini and the mini map."
+End
+
+SCRIPT:BothRoads
+"Both Roads will now be used!"
+End
+
+SCRIPT:Part 2 starts
+"Wave 18 part 2 will start in:"
+End
+
+SCRIPT:GameStart
+"Game Starts:"
+End
+
+SCRIPT:Rest
+"Rest:"
+End
+
+SCRIPT:Wave
+"Wave:"
+End
+
+SCRIPT:Income
+"Income:"
+End

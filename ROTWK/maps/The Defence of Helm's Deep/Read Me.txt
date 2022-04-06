@@ -1,0 +1,24 @@
+In This map you have to defend Helm's Deep against Isengard!
+
+This Map Includes:
+- Assault waves
+- Rams
+- Mines
+- Rohirrim reinforcement
+- Ents
+- Custom Objectives
+- The Faction of Rohan brought back
+
+HOW TO PLAY:
+-!!!Play on the Top spot!!!
+-Choose the color (it can't be changed by any scripts)
+-You should restart the game before and after playing to avoid coding errors
+-Choose a custom hero
+-Have fun !
+
+Compatibility:
+This map is compatible with  ROTWK Patch 2.02 only.
+
+Have Fun!
+
+IceWink

@@ -1,0 +1,186 @@
+ByAragon94
+"----------------------------------------------------------------------------------"
+End
+
+SCRIPT:Intro
+"Wait without moving to help synch:"
+End
+
+SCRIPT:Intro1
+"Welcome to Climb the Mountain Tournament, by Aragon94"
+End
+
+SCRIPT:Intro2
+"A long time ago, some heroes decided to climb a mountain full of dangers.\nEach one thought he could make it to the top before the others"
+End
+
+SCRIPT:Intro3
+"They argued for a long time, but at last they decided that\nonly the one who got to the top before the others would keep the mountain"
+End
+
+SCRIPT:Intro4
+"The others should keep only a portion of it"
+End
+
+SCRIPT:Intro5
+"Have fun!!!!-By Aragon94"
+End
+
+SCRIPT:Tutorial1
+"Now I will show you the rules of this climb"
+End
+
+SCRIPT:Tutorial2
+"Each player has a base with some statues. This represent your lives.\nWhen there are no statues left, you will be defeated.\nRevived heroes start at level 1\nYou also have a well where you can heal, and some barracks to recruit aid"
+End
+
+SCRIPT:Tutorial3
+"Your 1º mission is to get to the middle ring. To do so, you must open the elven gates.\nBut as elfes locked them, you need to find the 2 elven statues throught the map.\nEnter the area near the statue to teleport it to the gate.\nWhen you got 4 statues near the gate, it will open"
+End
+
+SCRIPT:Tutorial4
+"When you are in the middle ring, choose a dwarven gate. Only 1 player can choose each gate.\nBe carefull, when you enter, you wont be able to get back.\nAlso, when you enter the central area, you´ll only have 1 life, never mind how much you had before."
+End
+
+SCRIPT:Tutorial5
+"Advance until you get close to the top. You will then face a powerfull boss.\nIt will be your final obstacle before you can get to the top\nThe final mission is claiming the signal fire"
+End
+
+SCRIPT:Tutorial6
+"Now you will know about the secondary objectives"
+End
+
+SCRIPT:Tutorial7
+"In each outer path there are 9 nazgul. Each one is more powerfull than the last one.\nIf you manage to destroy them all, you´ll win a prize in money"
+End
+
+SCRIPT:Tutorial8
+"You´ll also find goblin lairs. These are indestructible.\nKill the goblins to win some experience"
+End
+
+SCRIPT:Tutorial9
+"These gates found in the outer paths can only be activated by pressing switches.\nThe color of the floor at the bottom of the door and the color of the switch that opens it match.\nSome players will find a lot of doors, so they need to find the right switches"
+End
+
+SCRIPT:Tutorial10
+"In this map, you can only have 1 unit of each type in the map, including boats.\nThe boats have a new function of auto-destruction.\nThis doesn´t hurt enemies. Use it when you want to get rid of a boat.\nBarracks can sell elves if you right-click on them with the elves selected."
+End
+
+SCRIPT:Tutorial11
+"You´ll also find treasures through the path. Break the fences surrounding them and catch them"
+End
+
+SCRIPT:Tutorial12
+"But be CAREFULL. The path isn´t easy. You´ll find a lot of traps in your way.\nThese can be nasty and most likely will kill you. Be AWARE where you put your feet!!"
+End
+
+SCRIPT:TutorialEnd
+"You might have noticed some paths are shorter and others longer.\nDon´t worry about this, map is balanced so shorter paths have more doors or traps.\nIt has been carefully balanced.\nGood luck and have FUN!!!"
+End
+
+SCRIPT:Player1Statue1
+"Player 1 got the 1º statue"
+End
+
+SCRIPT:Player1Statue2
+"Player 1 got the 2º statue"
+End
+
+SCRIPT:Player1Door
+"Player 1 opened the Elven Gate!"
+End
+
+SCRIPT:Player2Statue1
+"Player 2 got the 1º statue"
+End
+
+SCRIPT:Player2Statue2
+"Player 2 got the 2º statue"
+End
+
+SCRIPT:Player2Door
+"Player 2 opened the Elven Gate!"
+End
+
+SCRIPT:Player3Statue1
+"Player 3 got the 1º statue"
+End
+
+SCRIPT:Player3Statue2
+"Player 3 got the 2º statue"
+End
+
+SCRIPT:Player3Door
+"Player 3 opened the Elven Gate!"
+End
+
+SCRIPT:Player4Statue1
+"Player 4 got the 1º statue"
+End
+
+SCRIPT:Player4Statue2
+"Player 4 got the 2º statue"
+End
+
+SCRIPT:Player4Door
+"Player 4 opened the Elven Gate!"
+End
+
+SCRIPT:Player1Wraiths
+"Player 1 defeated all wraiths! He got 10000$!"
+End
+
+SCRIPT:Player2Wraiths
+"Player 2 defeated all wraiths! He got 10000$!"
+End
+
+SCRIPT:Player3Wraiths
+"Player 3 defeated all wraiths! He got 10000$!"
+End
+
+SCRIPT:Player4Wraiths
+"Player 4 defeated all wraiths! He got 10000$!"
+End
+
+SCRIPT:Player1Boss
+"How did you got here? I, the Great Goblin King, will KILL you!"
+End
+
+SCRIPT:Player2Boss
+"Hey, you are trying to get to the top. You won´t manage to get there. I´ll KILL you know!"
+End
+
+SCRIPT:Player3Boss
+"You disturbed my meditacion. You shall DIE agaisn´t my magic!"
+End
+
+SCRIPT:Player4Boss
+"So trying to get to the top... Nice! Now my warg will EAT you!"
+End
+
+SCRIPT:Player1Win
+"Player 1 claimed the top. Now the rest will have to get a portion of it!\nCongratulations, the mountain is yours!!\nThanks for playing!!-Aragon94"
+End
+
+SCRIPT:Player2Win
+"Player 2 claimed the top. Now the rest will have to get a portion of it!\nCongratulations, the mountain is yours!!\nThanks for playing!!-Aragon94"
+End
+
+SCRIPT:Player3Win
+"Player 3 claimed the top. Now the rest will have to get a portion of it!\n Congratulations, the mountain is yours!!\nThanks for playing!!-Aragon94"
+End
+
+SCRIPT:Player4Win
+"Player 4 claimed the top. Now the rest will have to get a portion of it!\n Congratulations, the mountain is yours!!\n"Thanks for playing!!-Aragon94"
+End
+
+SCRIPT:End
+"However... Remember this mountain is always opened for a fight.\nAll of you did really well!! Participation is the most important.\nAt last, the mountain was shared by ALL the heroes EQUALLY.\nCongratulations EVERYONE!! Hope to see you again!!"
+End
+
+CONTROLBAR:AutoKill
+"Self-Destruct"
+End
+CONTROLBAR:ToolTipAutoKill
+"Left-Click on this button\nto destroy this boat.\nDoes not damage enemies.\nUse it if you want\nto get rid of the boat.\nIf the boat is not destroyed\nafter 1 of these,\nwait untill it recharges\nand fire again."
+End

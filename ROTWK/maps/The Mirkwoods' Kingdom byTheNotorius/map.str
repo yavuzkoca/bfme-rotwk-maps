@@ -1,0 +1,863 @@
+RohanArchers="GliIncazzati"
+End
+
+wightpassiv
+"Wights Revenge"
+End
+
+wightpassivDesc
+"When a wight die, he curses enemies"
+End
+
+
+CONTROLBAR:Pillage0
+"Dead Mine"
+End
+
+CONTROLBAR:ToolTipLurtzPillage0
+"At level2, the berserk when die explode"
+End
+
+Map:TheMirkwoods'KingdombyTheNotorius/Desc
+"<Rules>: This is a map with new units and upgrades.You will start with few structures and unitsto be built, but upgrading to the Second Age and Third Age from the fortress you will be a lot stronger. \n <Notes>: Only the main Factions: Men, Elves, Mordor and Isengard can be used. If u select another one it will be replaced. \n <Advice> Enable RingMode to see Intro adding the player at the centre, or disable to skip it."
+End
+
+Intro1
+"During the War of The Ring, there were a Great Battle \n against the forces of Mordor at Mirkwood......"
+End
+
+Intro2
+"The elves won that battle, and until today they lived in peace. \n But Today it's time to fight again..!"
+End
+
+
+SecondAge
+"Second Age"
+End
+
+SecondAgeDesc
+"Upgrade To The Second Age. All level2 upgrade for Structures available. Numenor StoneWork gained. All GondorSoldiers, GondorArchers, and GondorKnights power up! Builders can build new structures"
+End
+
+Object GondorGrayRanger
+"per arco/spada"
+End
+
+Object GondorWoodCutter
+"che sara?"
+End
+
+Berseerk
+"Un Fx per danneggiato che sara?"
+End
+
+Haradrim e co
+"Nuove strane texture"
+End
+
+ChildObject RohanRoyalGuard
+"Strana unita rohirrimmesca"
+End
+
+UseShield2
+"Your TowerGuards use Shields to have a better protection \n it gives +150% Armor and -50% Speed"
+End
+
+UsePike2
+"Your TowerGuards will use only Pikes to move faster \n but with less armor"
+End
+
+UseShield1
+"Shield Equipment"
+End
+
+UsePike1
+"Only Pikes eqipment"
+End
+
+GSP1
+"Soldiers'Experience"
+End
+
+GSP1Desc
+"As The Second and Third Ages are reasearched, \n GondorSoldiers Power up"
+End
+
+GSP2
+"Soldiers'Experience"
+End
+
+GSP2Desc
+"Gondor Soldiers Gain +20% Armor and +20% Attack. \n As The Third Ages is reasearched, GondorSoldiers Power up"
+End
+
+GSP3
+"Soldiers'Experience"
+End
+
+GSP3Desc
+"Gondor Soldiers Gain +50% Armor and +50% Attack."
+End
+
+GAP1
+"Archers'Experience"
+End
+
+GAP1Desc
+"As The Second and Third Ages are reasearched, \n GondorArchers Power up"
+End
+
+GAP2
+"Archers'Experience"
+End
+
+GAP2Desc
+"Gondor Archers Gain +20% Armor +20% Attack +20% Range. \n As The Third Ages is reasearched, GondorArchers Power up"
+End
+
+GAP3
+"Soldiers'Experience"
+End
+
+GAP3Desc
+"Gondor Archers Gain +50% Armor +50% Attack and +50% Range."
+End
+
+
+
+GCP1
+"Knights'Experience"
+End
+
+GCP1Desc
+"As The Second and Third Ages are reasearched, \n GondorKnights Power up"
+End
+
+GCP2
+"Archers'Experience"
+End
+
+GCP2Desc
+"GondorKnights Gain +20% Armor and +20% Attack \n As The Third Ages is reasearched, GondorKnights Power up"
+End
+
+GCP3
+"GondorKnights'Experience"
+End
+
+GCP3Desc
+"GondorKnights Gain +50% Armor and +50% Attack."
+End
+
+ThirdAgeMenPrerequisite
+"To upgrade to The ThirdAge you must have Barracks \n ,ArcheryRange, Stable and Blacksmith at Level2"
+End
+
+SecondAgeMenPrerequisite
+"To upgrade to The Second Age you Must build a Barrack \n , an ArcheryRange, and a Stable"
+End
+
+DrainRangers
+"Ranger's Ability"
+End
+
+DrainRangersDesc
+"The Rangers Incute Fear to Near Enemys"
+End
+
+RangerVolley
+"RangerVolley"
+End
+
+RangerVolleyDesc
+"Rangers Shoot rains of Arrows against the enemys"
+End
+
+ValarsWizards
+"ValarsWizards"
+End
+
+ValarsWizardsDesc
+"Powerful Wizards that can use a lot of spells to kill enemies"
+End
+
+ValarsWizardsLack
+"Need Barracks Level2"
+End
+
+SunflareSuper
+"SuperSunflare"
+End
+
+SunflareSuperDesc
+"The Wizards Perform a Spell that Burn and hit everything in the map"
+End
+
+SunflareSuperLack
+"Needs Wizards Level5"
+End
+
+Monete
+"Treasure of the Elves"
+End
+
+MoneteDesc
+"Every Mallorn Tree produce +25% Resources \n also decrease the recharge time of resources'powers of -25%"
+End
+
+GoldenArrow
+"Golderthorn Arrows"
+End
+
+GoldenArrowDesc
+"Allow your archers to be equipped with Golderthorn arrows. \n You must upgrade them with Silverthorn to use Golderthorn arrows"
+End
+
+GoldenArrowLack
+"You need Eregion Forge at level3 and Silverthorn arrows \n researched to buy this upgrade"
+End
+
+Oropotenziamento
+"Golderthorn arrows"
+End
+
+OropotenziamentoDesc
+"Upgrade your archers with golderthorn arrows \n significatly increase the damage"
+End
+
+OropotenziamentoLack
+"Need Upgrade Golderthorn arrows researched"
+End
+
+SuperBuild
+"Super Buildings"
+End
+
+SuperBuildDesc
+"All your buildings' health and damage are increased of +100%"
+End
+
+SuperBuildLack
+"Need Eregion Forge Level2"
+End
+
+Superscudo
+"SuperShields"
+End
+
+SuperscudoDesc
+"This upgrade requires you to upgrade your melee units with \n a special armor that decrease the damage taken"
+End
+
+SuperscudoLack
+"Need Eregion Forge at Level3 and HeavyArmor researched"
+End
+
+SuperscudoPotenziametno
+"Super Shield"
+End
+
+SuperscudoPotenziametnoDesc
+"Upgrade your unit with this upgrade \n significately decrease the damage taken"
+End
+
+SuperscudoPotenziametnoLack
+"Need SuperShields researched"
+End
+
+Cura
+"Super Heal"
+End
+
+CuraDesc
+"All your units can autoheal"
+End
+
+CuraLack
+"Need GondorBarracks Level2"
+End
+
+CaricaGloriosa
+"Glorius Charge"
+End
+
+CaricaGloriosaDesc
+"This upgrade allow your Knights to perform \n a special glorius charge"
+End
+
+CaricaGloriosaLack
+"Need Stables Level2"
+End
+
+CaricaGloriosapot
+"Glorius Charge"
+End
+
+CaricaGloriosapotDesc
+"Upgrade your knight with glorius charge. \n It gives double Armor, Attack and Health, knights don't \n decelerate and increase they crush power"
+End
+
+CaricaGloriosapotLack
+"Need Glorius Charge researched"
+End
+
+Frecciagittata
+"Super Range Attack"
+End
+
+FrecciagittataDesc
+"All your archers' range and vision are increased"
+End
+
+FrecciagittataLack
+"Need Archery Range Level2"
+End
+
+RaminghiPugni
+"Punches"
+End
+
+RaminghiArchi
+"Bow"
+End
+
+RaminghiPugniDesc
+"Rangers use punches to attack. Also they increase \n their life of damage given"
+End
+
+RaminghiArchiDesc
+"Rangers use bows"
+End
+
+RaminghiCambiolack
+"Rangers can switch weapon. \n Need Third age"
+End
+
+cavvaleriaramingsa
+"Dunedain Knights"
+End
+
+cavvaleriaramingsaDesc
+"Powerful dunedain knights that can take reources from killed \n enemies and gives experience to other knights"
+End
+
+cavvaleriaramingsaLack
+"Need stables Level2"
+End
+
+Specialisoldier
+"Elite Warriors"
+End
+
+SpecialisoldierDesc
+"Recruit the best soldiers of Gondor"
+End
+
+SpecialisoldierLack
+"Need Barracks Level3"
+End
+
+Speciazlhvarchers
+"Snipers Gondor Archers"
+End
+
+SpeciazlhvarchersDesc
+"Recruit the special Archers of Gondor"
+End
+
+SpeciazlhvarchersLack
+"Need ArcheryRange Level3"
+End
+
+Metaldefence
+"MetalDefence"
+End
+
+MetaldefenceDesc
+"This upgrade allow you to upgrade your main \n structures with Metal to increase the armor"
+End
+
+MetaldefenceLack
+"Need Forge Level2"
+End
+
+Metaldefencepot
+"Metal Defence"
+End
+
+MetaldefencepotDesc
+"Upgrade the structure with Metal \n increase a lot the armor"
+End
+
+MetaldefencepotLack
+"Need MetalDefence reasearched"
+End
+
+Menrisorse
+"Structures and unit Decrease"
+End
+
+MenrisorseDesc
+"All structures and units cost less to be built"
+End
+
+Mentempo
+"Less Time"
+End
+
+MentempoDesc
+"All units and upgrades are created in half time"
+End
+
+MentempoLack
+"Need GondorForge Level2"
+End
+
+megaspade
+"Super Sword"
+End
+
+megaspadeDesc
+"This upgrade will allow you to equip \n your units with better and powerful swords"
+End
+
+megaspadeLack
+"Need GondorForge Level3 \n and ForgedBlades researched"
+End
+
+megaspade2
+"SuperSwords"
+End
+
+megaspade2Desc
+"Equip your unit with SuperSwords. /n significately increase the damage"
+End
+
+megaspade2Lack
+"Need SuperSwords upgrade researched"
+End
+
+Thirdage
+"Third Age"
+End
+
+ThirdAgeDesc
+"Upgrade To The Third Age. All level3 upgrade for Structures available. Ivory tower gained. All GondorSoldiers, GondorArchers, and GondorKnights power up! Builders can build new structures. Some units can use more ability. Gandalf becomes the white"
+End
+
+rangeruh
+"Ranger Pillage"
+End
+
+rangeruhDesc
+"RangerKnights take resources when kill enemies"
+End
+
+100
+"Ranger Leadership"
+End
+
+100Desc
+"RangerKnights and near Cavalry \n gain +100% Experience"
+End
+
+macigin
+"Super FireStone"
+End
+
+maciginDesc
+"This upgrade allow you to use powerful \n firestones for trebuchets"
+End
+
+maciginLack
+"Need WorkShop at level3 and Firestones researched"
+End
+
+uao
+"Super FireStones"
+End
+
+uaoDesc
+"Upgrade your trebuchet with superfire stones. \n Increase Speed, Range, and Attack"
+End
+
+uaoLack
+"Need Super FireStones researched"
+End
+
+SecondAgeelf
+"second Age"
+End
+
+SecondAgeelfDesc
+"Upgrade to Second Age. All Level2 Upgrade for structures available. Enchasing Vines aquired. Lorien Archers, Lorien Warriors, Mithlond Sentries and Rivendell Lancers power up! Builder can buil new strucutures"
+End
+
+SecondAgeelfLack
+"Need an ElvenBarrack, a Green Pasture and EregionForge built"
+End
+
+thirdagelf
+"Third Age"
+End
+
+thirdagelfDesc
+"Upgrade to Third Age. All Level3 Upgrade for structures available. Eagle Nest aquired. Lorien Archers, Lorien Warriors, Mithlond Sentries and Rivendell Lancers power up! Some units can use new powers.Builder can buil new strucutures"
+End
+
+thirdagelfLack
+"Need ElvenBarracks, EregionForge and GreePasture at Level2"
+End
+
+flooddd
+"Flood Cavalry"
+End
+
+floodddDesc
+"FloodHorses can crush everything. Powerful against every units, exept pikeman. Weak against Magic"
+End
+
+floodddLack
+"Need GreenPasture at Level3"
+End
+
+potentielfi
+"Lightning Elven Warrior"
+End
+
+potentielfiDesc
+"These warriors can kill immediately every unit with their power"
+End
+
+potentielfiLack
+"Need ElvenBarracks Level3"
+End
+
+lagitatalefi
+"Super Range"
+End
+
+lagitatalefiDesc
+"This upgrade allow your archers to shot more far"
+End
+
+lagitatalefiLack
+"Need ElvenBarracks Level2"
+End
+
+elficavalieri
+"AdvancedCavalry"
+End
+
+CONTROLBAR:ToolTipPurchaseTechnologySpiderVenomSacks0
+"This upgrade increase the power of your Cavalry. They gain +50% armor and attack, and don't decelerate when crush"
+End
+
+entpowerf
+"Ent Power"
+End
+
+entpowerfDesc
+"This upgrade increase your ents' attack, range, and speed"
+End
+
+firedefence
+"Fire Defence"
+End
+
+firedefenceDesc
+"Allow your main structures to upgrade with a fire around them"
+End
+
+firedefenceLack
+"Need SiegeWorks at level3"
+End
+
+fdifpo
+"Fire Aura"
+End
+
+fdifpoDesc
+"Upgrade your structure so it burns enemy when they are near it"
+End
+
+fdifpoLack
+"Need FireDefence researched"
+End
+
+balrogminihorge
+"Mini-Balrog Horde"
+End
+
+balrogminihorgeDesc
+"Recruit the most dangerous creatures in all Middle-Earth"
+End
+
+balrogminihorgeLack
+"Need Third Age"
+End
+
+spettrifanastmi
+"Ghosts horde"
+End
+
+spettrifanastmiDesc
+"Recruit a horde of Ghosts. They curse their enemies when die"
+End
+
+experienza
+"Super Experience"
+End
+
+experienzaDesc
+"All your units and monsters gain Experience a lot faster"
+End
+
+factory
+"Monster Factory"
+End
+
+factoryDesc
+"From here you can recruit strange monsters"
+End
+
+SecondAgeM
+"Second Age"
+End
+
+SecondAgeMDesc
+"Upgrade to Second Age. All Level2 Upgrade for structures available. Morgul Sorcery aquired.Builder can buil new strucutures"
+End
+
+SecondAgeMLack
+"Need OrcPit, Haradrim Palace and Troll Cage Built"
+End
+
+thirdagem
+"Third Age"
+End
+
+
+thirdagemLack
+"Need HaradrimPalace, OrcPit, Troll cage and Siege Works at level2"
+End
+
+thirdagemDesc
+"Upgrade to Second Age. All Level3 Upgrade for structures available.Builder can buil new strucutures. Mini-Balrog can be recruited"
+End
+
+pikemanorcg
+"Pikeman Orcs"
+End
+
+pikemanorcgDesc
+"Recruit Pikeman Orcs. Strong against cavalry, weak against soldiers"
+End
+
+merde
+"Expert Orcs"
+End
+
+merdeDesc
+"Recruit these orcs that increase their power as they fight. Strong against structures"
+End
+
+merdeLack
+"Need OrcPit Level2"
+End
+
+spadahara
+"Haradrim SwordsMen"
+End
+
+spadaharaDesc
+"Strong against pikeman."
+End
+
+spadaharaLack
+"Need HaradrimPalace Level2"
+End
+
+CONTROLBAR:ConstructWildMountainGiant0
+"Fire Attack Troll"
+End
+
+CONTROLBAR:ToolTipBuildWildMountainGiant0
+"Recruit a Fire Attack Troll. Strong against units and structures"
+End
+
+trollllack
+"Need Troll cage Level3"
+End
+
+prendisorse
+"Scavenger"
+End
+
+prendisorseDesc
+"Your units take resources from killed enemies"
+End
+
+SecondAgeIS
+"Second Age"
+End
+
+SecondAgeISDesc
+"Upgrade to Second Age. All Level2 Upgrade for structures available. IronPlatter aquired.Builder can buil new strucutures"
+End
+
+SecondAgeISLack
+"Need a UrukPit, a WargPit and Tavern built"
+End
+
+thirdageIS
+"Third Age"
+End
+
+thirdageISDesc
+"Upgrade to ThirdAge. All Level3 Upgrade for structures available. Wizard Tower aquired.Builder can buil new strucutures"
+End
+
+thirdageISLack
+"Need UrukPit, WargPit, Tavern and Armory at level2"
+End
+
+minaresourc
+"Explosive Structure"
+End
+
+minaresourcDesc
+"This power is available only at level3. When the structure die, it will explode"
+End
+
+berferkh
+"Berserk Horde"
+End
+
+berferkhDesc
+"Recruit a Troop of berserks"
+End
+
+berferkhLack
+"Need UrukPit at level3"
+End
+
+urukiller
+"Uruk Killer"
+End
+
+urukillerDesc
+"Stron against Buildings"
+End
+
+urukillerLack
+"Need UrukPit at level2"
+End
+
+dragonis
+"Super Dragon"
+End
+
+dragonisDesc
+"Recruit a Fly Dragon that continue to breath fire"
+End
+
+dragonisLack
+"Need WargPit Level3"
+End
+
+wagpazzi
+"Crazy Wargs"
+End
+
+wagpazziDesc
+"All your Warg units damage doubled and WargRiders don't decelerate when crush"
+End
+
+schidiuruk
+"Cloud Bringers"
+End
+
+schidiurukDesc
+"Recruit this unit surrounded by clouds that debuff enemies"
+End
+
+Monete+
+"More Resources"
+End
+
+Monete+Desc
+"All your furnaces gain +50% resources"
+End
+
+Monete+Lack
+"Need Armor at Level2"
+End
+
+menounit
+"Old units"
+End
+
+menounitDesc
+"All hordes cost -50%"
+End
+
+menounitLack
+"Need Armory at Level3"
+End
+
+megafuria
+"Fury of Uruks"
+End
+
+megafuriaDesc
+"Allow your units to upgrade Fury of Uruks"
+End
+
+megafuriaLack
+"Need Isengard Forged Blades and HeavyArmor researched and Armory at level3"
+End
+
+mega+furia
+"Fury of Uruks"
+End
+
+mega+furiaDesc
+"Upgrade Fury of Uruks. Siginificately increase the damage and armor"
+End
+
+mega+furiaLack
+"Need Fury Of Uruks researched"
+End
+
+beastP
+"Beast Power"
+End
+
+beastPDesc
+"Upgrade your Mumakil with Beast Power"
+End
+
+beastpowergeneral
+"Beast Power"
+End
+
+beastpowergeneralDesc
+"Increase your monster Powers. Trolls become armored. Attack troll can use his club. You must upgrade to mumakil to have the same effect fo them"
+End
+
+poteiznapk
+"Blood hunter"
+End
+
+poteiznapkDesc
+"As they attack, they increase their and near troops attack and health"
+End
+
+fireyeah
+"Continuous Fire"
+End
+
+fireyeahDesc
+"The Dragon continue to breath fire"
+End

@@ -1,0 +1,255 @@
+Map:CrystalsOfAncientEnts/Desc
+"-Left Upper Position (Player 2) Must be Isengard (Hard). \n -Lower Right Position (Player 1) Must Be Good Faction (Elfs,Dwarfs Or Men) \n \n -You must Unlock Hidden Ancient City and Find 3 Crystals. \n \n -Each of Crystals Wakes up One of The Giant Ancinet Ent Guardians. \n -When all 3 Guardians Wakes up they will give You ultimate Weapon so You Can Destroy your Enemy. \n \n -Enjoy in this Adventure \n ** Elf Magic **"
+End
+
+CONTROLBAR:EntsEnergyWave
+"Ents EnergyWave"
+END
+
+CONTROLBAR:ToolTipEntsEnergyWave
+"Powerfull Energy Wave Destroys Enemy Units Around Ancient Ent"
+End
+
+CONTROLBAR:LegolasDeadlySniper
+"Legolas Deadly Sniper"
+END
+
+CONTROLBAR:ToolTipLegolasDeadlySniper
+"Use Legolas As Deadly Sniper"
+END
+
+CONTROLBAR:HobbitSam
+"Sam"
+END
+
+CONTROLBAR:HobbitFrodo
+"Frodo"
+END
+
+CONTROLBAR:HobbitMerry
+"Merry"
+END
+
+CONTROLBAR:HobbitPippin
+"Pippin"
+END
+
+CONTROLBAR:HobbitBilboBagins
+"Bilbo Bagins"
+END
+
+CONTROLBAR:BilboBaginsDescript
+"Bilbo"
+END
+
+SCRIPT:GameOverEvil
+"You Must Choose Isengard For Player 2 On The Left Position - Try Again"
+END
+
+SCRIPT:GameOverGood
+"You Must Choose Good faction For Player 1 On The Right Position (Men,Elfs or Dwarfs) - Try Again"
+END
+
+SCRIPT:FindingMonumentArea1
+"Something is Writen On This Monument"
+END
+
+SCRIPT:FindingMonumentArea2
+"It Says a long Time Ago an Advanced Civilization Had its own city in this Area But No one has seen this City a very long time"
+END
+
+SCRIPT:FindingMonumentArea3
+"Only when a Man of Pure Heart proves the Gods that is worthy of this Ancient City, and Light a Fire of Gods, city will Let Him in."
+END
+
+SCRIPT:SignalFireFinding
+"This Must be That Fire of Gods What was Written on the Monument, We Must Light That Fire And Find Ancient City of Gods"
+END
+
+SCRIPT:FairySpeech1
+"Welcome To Our City My friend"
+END
+
+SCRIPT:FairySpeech2
+"This City Was Hidden from Evil Forces For Thousand Of Years"
+END
+
+SCRIPT:FairySpeech3
+"This City is made to Keep Secrets from the First Ents that came to Earth from the stars of distant galaxies"
+END
+
+SCRIPT:FairySpeech4
+"Only 3 Prime Alien Ents Are Preserved to this day in Hibernation"
+END
+
+SCRIPT:FairySpeech5
+"If you Have A Pure Heart And Great Fearless Heroes You Can Wake up Ancient Ents and They Will Reward you With Great Power"
+END
+
+SCRIPT:FairySpeech6
+"I Will Send Ship To Pick Up Pure Heart Hero, Ship will bring him to our City"
+END
+
+SCRIPT:FairySpeech7
+"The Gods have brought you here to give you a mission to help all people in Middle Earth"
+END
+
+SCRIPT:FairySpeech8
+"Your Mission is to go in Caves of Moria and find First of 3 Crystals and bring that Crystal Back here"
+END
+
+SCRIPT:FairySpeech9
+"When you Bring Crystal Out of Moria Put that Crystal Below The Legs of First Ancient Ent Guardian And He Will Wake up"
+END
+
+SCRIPT:FairySpeech10
+"When All 3 Crystals Are in Place Below The Ents And All 3 Ents Are Awaken They Will give you ultimate weapon to defeat Evil Darkness"
+END
+
+SCRIPT:FairySpeech11
+"You can look Around Our city and when you Ready go inside this Cave and find Crystal"
+END
+
+SCRIPT:FairySpeech12
+"In the Meantime, while you're in there I'll cast a spell on the evil side that until you come out They will not attack your people"
+END
+
+SCRIPT:GimliOutOfMoria1
+"Huuh! I Barely Managed to get out"
+END
+
+SCRIPT:GimliOutOfMoria2
+"I Tried to catch up but I could not find You"
+END
+
+SCRIPT:GimliOutOfMoria3
+"Finally I found a way out - Looks Like We can't go Inside anymore"
+END
+
+SCRIPT:GimliOutOfMoria4
+"I see you Found the Crystal go and place that Crystal Below The First Ent"
+END
+
+SCRIPT:FrodoSpawn
+"Send Frodo Into That Transport Ship"
+END
+
+SCRIPT:FrodoInCave
+"Find Crystal in this Caves - Frodo Must Stay Alive Until he Deliver A Crystal"
+END
+
+SCRIPT:FrodoMeetGoblins
+"Be Careful! These caves are full of Goblins"
+END
+
+SCRIPT:FrodoMeetGimli1
+"Gimli: What are you looking for in this dangerous caves my little friend"
+END
+
+SCRIPT:FrodoMeetGimli2
+"Frodo: I'm looking for a Crystal that can awaken the ancient Ents"
+END
+
+SCRIPT:FrodoMeetGimli3
+"Gimli: The Crystal is located at the end of these caves - But be careful crystal is hidden for a reason"
+END
+
+SCRIPT:FrodoMeetGimli4
+"Frodo: Thank You my friend i will be careful"
+END
+
+SCRIPT:FrodoMeetGimli5
+"Gimli: Good Luck With your Quest,I will watch here That nobody Sneaks you from behind"
+END
+
+SCRIPT:FrodoTalkWithGhosts1
+"Ghosts: Don't Worry Little Hobit We will not harm you"
+END
+
+SCRIPT:FrodoTalkWithGhosts2
+"Ghosts: Our Army is Now Ally with Mens & Dwarfs"
+END
+
+SCRIPT:FrodoTalkWithGhosts3
+"Ghosts: If you need help from us, you just call us and we will help you in your Quest"
+END
+
+SCRIPT:FrodoRunFromFallingTower
+"We can't go Back Anymore"
+END
+
+SCRIPT:BallinsSpiders
+"I Hear Spiders In Bottom of This Well"
+END
+
+SCRIPT:Ballinstreasure
+"Pick Up All Treasure Chest We gonna Need It"
+END
+
+SCRIPT:Monument
+"This sword is definitely Belonged to one of the ghosts when they were alive"
+END
+
+SCRIPT:SRMonument
+"This sword looks like the one from Ghost Chamber - Maybe it's Connected with ghosts"
+END
+
+SCRIPT:SpiderRiderIn
+"Here was a great Battle - So Many of Deads"
+END
+
+SCRIPT:callingGhosts1
+"We Can't Fight With This Monster!!"
+END
+
+SCRIPT:callingGhosts2
+"Go Back And Call Ghosts for Help! - They Promised to Help"
+END
+
+SCRIPT:callingGhosts3
+"Grab That Sword! - That Sword Will Summon Ghosts"
+END
+
+SCRIPT:ClearKDArea
+"Area Is Clear, Now you Can Grab A Crystal"
+END
+
+SCRIPT:Crystal1PickedUp
+"Congratulations! Now you Can carry the Crystal to Wake up one of the Ancient Ents"
+END
+
+SCRIPT:FirstAncientEntTalk1
+"Thank You Little Hobbit For Bringin Me back My Crystal"
+END
+
+SCRIPT:FirstAncientEntTalk2
+"For Award I Will Open The Gates Of This City For You & Your Allies"
+END
+
+SCRIPT:FirstAncientEntTalk3
+"If Your People bring Rest of The Crystals And Wakes Up all my Brothers we'll help you conquer your enemies"
+END
+
+SCRIPT:FirstAncientEntTalk4
+"Use Gimli To Find Second Crystal - Gimli Must Stay Alive Until he Deliver A Crystal"
+END
+
+SCRIPT:FirstAncientEntTalk5
+"Second Crystal is Located Somwhere inside this Door"
+END
+
+SCRIPT:SignalFire2
+"Capture This Signal Fire To Reveal Position of Third Crystal"
+End
+
+SCRIPT:Crystal3PickedUp
+"Only Legolas Can Pick Up Last Crystal Send Him - Legolas Must Stay Alive Until he Deliver A Crystal"
+End
+
+SCRIPT:CrystalInRock
+"This Crystal was in Stone For Thousands of Years"
+End
+
+SCRIPT:AllEntsAwaken
+"For Reward you woke us All We will Teleport Trough Time Our Best Warrior, Use Him wisely to Defeat your Enemies"
+END

@@ -1,0 +1,547 @@
+Map:GladiatorEvolutionFIXED-Smeagle3456/Desc
+"In the realm of Argon, he rules over all. These heros have been changed significantly so they can even stand a chance against this beast.\nTop right corner is enemy computer.\n\nSmeagle3456, thanks to [EA] Sephiroth for loading screen picture."
+End
+
+Intros
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+SCRIPT:EvolutionIntro1
+"Hello and welcome to Gladiator Evolution by Smeagle3456.\n In this map there are sixteen waves of attacks as well as 5 super heros\n given to you and designed by me. This map has its own configuration file so refresh bfme2\n after playing so other maps wont go out of synch"
+End
+
+SCRIPT:EvolutionIntro2
+"This is the ruler of the darkness domain, Argon.\n It is your job to defeat him in this realm and claim victory over this race.\n For some more cool maps check out www.istariproductions.co.nr!"
+End
+
+SCRIPT:EvolutionIntro3
+"Thank you to [EA] Sephiroth for my loading screen picture. I guess that's all so enjoy yourselves everybody!"
+End
+
+Win/Lose
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+SCRIPT:Win
+"What has happened!? There was no possibility that you could have defeated me!"
+End
+
+SCRIPT:Lose
+"Muhahaha! You're all dead now!\nThere's no returning! Your souls will wander aimlessly amongst the rest here!"
+End
+
+Waves
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+SCRIPT:WaveCounter
+"Waves Left"
+End
+
+SCRIPT:Wave1
+"Wave 1 Completed"
+End
+
+SCRIPT:Wave2
+"Wave 2 Completed"
+End
+
+SCRIPT:Wave3
+"Wave 3 Completed"
+End
+
+SCRIPT:Wave4
+"Wave 4 Completed"
+End
+
+SCRIPT:Wave5
+"Wave 5 Completed"
+End
+
+SCRIPT:Wave6
+"Wave 6 Completed"
+End
+
+SCRIPT:Wave7
+"Wave 7 Completed"
+End
+
+SCRIPT:Wave8
+"Wave 8 Completed"
+End
+
+SCRIPT:Wave9
+"Wave 9 Completed"
+End
+
+SCRIPT:Wave10
+"Wave 10 Completed"
+End
+
+SCRIPT:Wave11
+"Wave 11 Completed"
+End
+
+SCRIPT:Wave12
+"Wave 12 Completed"
+End
+
+SCRIPT:Wave13
+"Wave 13 Completed"
+End
+
+SCRIPT:Wave14
+"Wave 14 Completed"
+End
+
+SCRIPT:Wave15
+"Wave 15 Completed"
+End
+
+SCRIPT:Wave16Pre
+"This is infuriating! It is time to take care of you myself!"
+End
+
+SCRIPT:Wave16
+"You have claimed victory over Argon!"
+End
+
+SCRIPT:Wargs
+"Feel The Wrath of these two powerful beasts!"
+End
+
+SCRIPT:Spiders
+"Servents of Maia, rise from the depths!!"
+End
+
+SCRIPT:GameStartsIn
+"Game Starts In"
+End
+
+SCRIPT:NextAttack
+"Next Attack In"
+End
+
+Hero Respawns
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+SCRIPT:HaldirRespawn
+"Haldir Respawns In"
+End
+
+SCRIPT:AragornRespawn
+"Aragorn Respawns In"
+End
+
+SCRIPT:GandalfRespawn
+"Gandalf Respawns In"
+End
+
+SCRIPT:GimliRespawn
+"Gimli Respawns In"
+End
+
+SCRIPT:ElrondRespawn
+"Elrond Respawns In"
+End
+
+CONTROLBARS
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+Gandalf
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+CONTROLBAR:WizardBlastNew
+"Power Wave"
+End
+
+CONTROLBAR:ToolTipWizardBlastNew
+"Blows enemies back in a chain reaction"
+End
+
+CONTROLBAR:AsernorothBane
+"Blade Of Arnor"
+End
+
+CONTROLBAR:ToolTipAsernorothBane
+"Requires Level 5\nGandalf strikes enemies at great speeds\nand shoots out a light blast each blow"
+End
+
+CONTROLBAR:WizardsHeal
+"Wizard's Heal"
+End
+
+CONTROLBAR:ToolTipWizardsHeal
+"Basic Athelas Power"
+End
+
+CONTROLBAR:WordOfPowerNew
+"Light Of Soul"
+End
+
+CONTROLBAR:ToolTipWordOfPowerNew
+"Requires Level 10\n Gandalf creates a giant dome of light that explodes\ndestroying any enemies near."
+End
+
+CONTROLBAR:Burner
+"Sun Rays"
+End
+
+CONTROLBAR:ToolTipBurner
+"Requires Level 7\nRays of light are sent from the heavens\nburning enemies in a large radius"
+End
+
+CONTROLBAR:LightningSwordNew
+"Bolt Of The Valar"
+End
+
+Elrond
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+CONTROLBAR:ToolTiplightningSwordNew
+"Requires Level 2\n Blue lightning is channeled into Gandalf's Sword, and shot out as a blood red bolt\n that burns enemies."
+End
+
+CONTROLBAR:PowerOfRivendell
+"Sword Of Rivendell"
+End
+
+CONTROLBAR:ToolTipPowerOfRivendell
+"Requires Level 3\n Lightning shoots from Elrond's sword to electrocute all enemies"
+End
+
+CONTROLBAR:MightOfLothlorien
+"Aura The Valar"
+End
+
+CONTROLBAR:ToolTipMightOfLothlorien
+"Heals Elrond and any surrounding allies"
+End
+
+CONTROLBAR:NewRe
+"Restoration"
+End
+
+CONTROLBAR:ToolTipNewRe
+"Requires Level 5\nEarlier Restoration"
+End
+
+CONTROLBAR:ElrondNew
+"Endurance of Elrond"
+End
+
+CONTROLBAR:ToolTipElrondNew
+"Requires Level 6\nElrond is invulnerable for a long duration"
+End
+
+CONTROLBAR:ElrondWave
+"Wrath of the Storm"
+End
+
+CONTROLBAR:ToolTipElrondWave
+"Requires Level 10\n Elrond shoots out a godly wave to kill enemies"
+End
+
+Aragorn
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+CONTROLBAR:AndurilNew
+"Blade Of The Dead"
+End
+
+CONTROLBAR:ToolTipAndurilNew
+"Requires Level 2\nWeilds Anduril to its true power\nEach strike creates a wave from the Army of The Dead"
+End
+
+CONTROLBAR:cripslam
+"Paralyzing Slam"
+End
+
+CONTROLBAR:ToolTipcripslam
+"Requires Level 4\nSends enemies in a small radius flying backwards\nAlso cripples targeted heros"
+End
+
+CONTROLBAR:AthelasNew
+"Fresh Athelas"
+End
+
+CONTROLBAR:ToolTipAthelasNew
+"Heals a great amount of health on Aragorn and surrounding allies"
+End
+
+CONTROLBAR:BaneOfSauron
+"Numenor Wrath"
+End
+
+CONTROLBAR:ToolTipBaneOfSauron
+"Requires Level 6\nClassic Elendil power"
+End
+
+CONTROLBAR:AOD
+"Summon The Dead"
+End
+
+CONTROLBAR:ToolTipAOD
+"Requires Level 10\nSummons the complete Army of the Dead"
+End
+
+CONTROLBAR:AragornWave
+"Treebeard Smash"
+End
+
+CONTROLBAR:ToolTipAragornWave
+"Requires Level 10\nShoots out a Forest Green Wave"
+End
+
+Haldir
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+CONTROLBAR:WaterWave
+"Numanil"
+End
+
+CONTROLBAR:ToolTipWaterWave
+"Requires Level 3\nDarkens Haldir's sword and creates a light blue wave of water each blow"
+End
+
+CONTROLBAR:Loudwater
+"Loudwater Fury"
+End
+
+CONTROLBAR:ToolTipLoudwater
+"Requires Level 5\nLearned from the Godess of water herself,Haldir blasts enemies with a blue wave of water"
+End
+
+CONTROLBAR:HaldirWord
+"Lock-Down"
+End
+
+CONTROLBAR:ToolTipHaldirWord
+"Requires Level 10\nShoots an icy wave from Haldir's bow"
+End
+
+CONTROLBAR:NewFlood
+"Water Stallion"
+End
+
+CONTROLBAR:ToolTipNewFlood
+"Requires Level 8\nWater stallions emit from Haldir to trample enemies"
+End
+
+CONTROLBAR:HV
+"Fluid Shot"
+End
+
+CONTROLBAR:ToolTipHV
+"Requires Level 6\nA swift arrow is shot from Haldir with insane damage"
+End
+
+Saruman
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+CONTROLBAR:WizardBlastNewS
+"Fire Wave"
+End
+
+CONTROLBAR:ToolTipWizardBlastNewS
+"The Wizard Blast creates an explosion of fire burning all in its path"
+End
+
+CONTROLBAR:FireBomb
+"Depths Of Orthanc"
+End
+
+CONTROLBAR:ToolTipFireBomb
+"Requires Level 2\nSaruman shoots a powerful Istari Light from his staff that burns enemies"
+End
+
+CONTROLBAR:SarumanFireWave
+"Wrath of Argon"
+End
+
+CONTROLBAR:ToolTipSarumanFireWave
+"Requires Level 10\nAn extremely powerful that not only blows back enemies\nbut burns them as well"
+End
+
+CONTROLBAR:FlamesOfRuin
+"Flames Of Ruin"
+End
+
+CONTROLBAR:ToolTipFlamesOfRuin
+"Requires Level 4\nDramatically boots Saruman's attack speed and damage"
+End
+
+CONTROLBAR:DragonCalling
+"Dragon Tunder"
+End
+
+CONTROLBAR:ToolTipDragonCalling
+"Requires Level 8\nTwice as powerful as the original Thunderbolt"
+End
+
+CONTROLBAR:SarumanLeader
+"Rise of Hell"
+End
+
+Gimli
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+CONTROLBAR:WrathOfTheGolem
+"Wrath Of The Golem"
+End
+
+CONTROLBAR:ToolTipWrathOfTheGolem
+"Requires Level 10\nCreates a large earthquake at Gimli's location"
+End
+
+CONTROLBAR:GimliWave
+"Ground Pound"
+End
+
+CONTROLBAR:ToolTipGimliWave
+"Requires Level 8\nSmall smash with a high damage to structures"
+End
+
+CONTROLBAR:gimbomb
+"Meteor Rain"
+End
+
+CONTROLBAR:ToolTipgimbomb
+"Requires Level 2\nMeteors fall from the sky in a medium radius"
+End
+
+CONTROLBAR:Enflame
+"Enflame"
+End
+
+CONTROLBAR:ToolTipEnflame
+"Requires Level 5\nGimli ignites himself, thus burning enemies each blow"
+End
+
+CONTROLBAR:SpawnWyrm
+"Wyrm of the West"
+End
+
+CONTROLBAR:ToolTipSpawnWyrm
+"Requires Level 5\nAwakens the Wyrm from an isolated desert in the west"
+End
+
+CONTROLBAR:Longshoot
+"Longshot"
+End
+
+CONTROLBAR:ToolTipLongshoot
+"There's a huge ability range on Gimli's axe throw\nand it can now throw great distances"
+End
+
+Argon
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+CONTROLBAR:ArgonFireWave
+"Incinerate"
+End
+
+CONTROLBAR:ToolTipArgonFireWave
+"Creates a small five wave\nburning all enemies in its path"
+End
+
+CONTROLBAR:BlackOfMorgoth
+"The Black Of Morgoth"
+End
+
+CONTROLBAR:ToolTipBlackOfMorgoth
+"Releases toxic fumes with double Argon's regular damage"
+End
+
+CONTROLBAR:MightOfArgon
+"Eruption"
+End
+
+CONTROLBAR:ToolTipMightOfArgon
+"The mightiest power from the Fire God himself.\nThis wave incinerates all surrounding enemies and has an extremely high damage"
+End
+
+CONTROLBAR:RoaringInferno
+"Roaring Inferno"
+End
+
+CONTROLBAR:ToolTipRoaringInferno
+"A more powerful version of the "Balrog Breath" power"
+End
+
+CONTROLBAR:FireFlight
+"Fire Flight"
+End
+
+CONTROLBAR:ToolTipFireFlight
+"Classic flying ability orignally for the Balrog"
+End
+
+CONTROLBAR:CallOfTheBalrog
+"Call Of Argon"
+End
+
+CONTROLBAR:ToolTipCallOfTheBalrog
+"Summons three fire drakes under Argon's control"
+End
+
+Triagron
+"::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+End
+
+CONTROLBAR:Trislam
+"Rending Slam"
+End
+
+CONTROLBAR:ToolTipTrislam
+"Creates and earthquake around Triagron with a high damage"
+End
+
+CONTROLBAR:TriagronDragon
+"Dragon Calling"
+End
+
+CONTROLBAR:ToolTipTriagronDragon
+"Summons a powerful dragon under Triagron's control"
+End
+
+CONTROLBAR:TriCrip
+"Cleaving Wounds"
+End
+
+CONTROLBAR:ToolTipTriCrip
+"Roots the target in place for thirty seconds"
+End
+
+CONTROLBAR:RockSolid
+"Rock Solid"
+End
+
+CONTROLBAR:ToolTipRockSolid
+"Increases Triagron's armour to such an extent that he is\ninvulnerable for a duration"
+End
+
+CONTROLBAR:TriBombard
+"Meteor Shower"
+End
+
+CONTROLBAR:ToolTipTriBombard
+"Summons many flaming rocks over a large radius"
+End
+
+CONTROLBAR:ThunderHammer
+"Thunder Hammer"
+End
+
+CONTROLBAR:ToolTipThunderHammer
+"Triagron's most powerful attack. Creates an earthquake on each hit stunning those strong enough to survive\nand damaging them over time"
+End

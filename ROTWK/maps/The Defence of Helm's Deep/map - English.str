@@ -1,0 +1,244 @@
+Map:TheDefenceofHelm'sDeep
+"The Defence of Helm's Deep"
+End
+
+Map:TheDefenceofHelm'sDeep/Desc
+"In this map you have to defend Helm's Deep against the evil forces of Isengard!\n\n HOW TO PLAY: \n-!!!Play on the top spot!!!\n-choose your color\n-You should restart your game before and after playing to avoid coding errors\n-choose a custom hero\n-Have Fun!\n\nGood game!\nIceWink"
+End
+
+CONTROLBAR:SummonElvenAlliesNew
+"Summon Elves Allies"
+END
+CONTROLBAR:TooltipSummonElvenAlliesNew
+"Summons the Elves \n Left click icon then left click on pathable location"
+END
+
+UPGRADE:RohanArcherRangeLevel2
+"Archer Range Level 2"
+END
+UPGRADE:RohanArcherRangeLevel3
+"Archer Range Level 3"
+END
+CONTROLBAR:ConstructRohanArcherRangeLevel2Upgrade
+"Upgrade the Archer Range to Level 2"
+END
+CONTROLBAR:ConstructRohanArcherRangeLevel3Upgrade
+"Upgrade the Archer Range to Level 3"
+END
+CONTROLBAR:ToolTipBuildRohanArcherRangeLevel2Upgrade
+"Level 2: Allows training of Elven Archers"
+END
+CONTROLBAR:ToolTipBuildRohanArcherRangeLevel3Upgrade
+"Level 3: Allows purchase of the Fire Arrow Upgrade"
+END
+
+
+
+UPGRADE:RohanStableLevel2
+"Stable Level 2"
+END
+UPGRADE:RohanStableLevel3
+"Stable Level 3"
+END
+CONTROLBAR:ConstructRohanStableLevel2Upgrade
+"Upgrade the Stable to Level 2"
+END
+CONTROLBAR:ToolTipBuildRohanStableLevel2Upgrade
+"Level 2: Allows training of Rohirrim Archers"
+END
+CONTROLBAR:ConstructRohanStableLevel3Upgrade
+"Upgrade the Stable to Level 3"
+END
+CONTROLBAR:ToolTipBuildRohanStableLevel3Upgrade
+"Level 3: Allows purchase of the Horse Shield Upgrade"
+END
+
+
+CONTROLBAR:ConstructRohanArmoryLevel2Upgrade
+"Upgrade the Armory to Level 2"
+END
+CONTROLBAR:ToolTipBuildRohanArmoryLevel2Upgrade
+"Level 2: Allows purchase of the Forged Blades Upgrade"
+END
+CONTROLBAR:ConstructRohanArmoryLevel3Upgrade
+"Upgrade the Armory to Level 3"
+END
+CONTROLBAR:ToolTipBuildRohanArmoryLevel3Upgrade
+"Level 3: Allows purchase of the Heavy Armor Upgrade"
+END
+
+CONTROLBAR:RohanGamlingRecruitNew
+"Recruit Gamling, Lieutenant of Westfold"
+END
+CONTROLBAR:RohanGamlingReviveNew
+"Revive Gamling, Lieutenant of Westfold"
+END
+CONTROLBAR:RohanGamlingHotkeyNew
+"Gamling"
+END
+CONTROLBAR:NewGimliLeap
+"Rohan Leap"
+END
+CONTROLBAR:ToolTipNewGimliLeap
+"Gamling jumps into the air \n and comes down crushing his enemies"
+END
+CONTROLBAR:HorseMaster
+"Helm's Hammer"
+END
+CONTROLBAR:ToolTipHorseMaster
+"The Old Hammer of Helm is a powerful weapon.\n Using it Gamling can strike down several enemies at a time"
+END
+CONTROLBAR:GamGuard
+"Summon the Royal Guard"
+END
+CONTROLBAR:ToolTipGamGuard
+"Gamling calls the powerful royal guards"
+END
+CONTROLBAR:GamLoyal
+"Loyalty"
+END
+CONTROLBAR:ToolTipGamLoyal
+"Gives a Bonus to all surrounding heroes\n Passive Ability"
+END
+CONTROLBAR:MoneyOutOfEnemies
+"Scavenger"
+END
+CONTROLBAR:ToolTipMoneyOutOfEnemies
+"All surrounding troops can collect money\n from the corpses of their enemies\n Passive Ability"
+END
+
+CONTROLBAR:HelmsHorn
+"Helm's Deep Horn"
+END
+CONTROLBAR:TooltipHelmsHorn
+"The Blow frightens the enemies\n It also enhartens our troops"
+END
+
+
+
+SCRIPT:Intro01
+"Aragorn : The Armies of Isengard are comming !\nI need to reach Helm's Deep to warn them !"
+END
+
+SCRIPT:Intro02
+"Aragorn : The Wolves of Isengard !"
+END
+
+SCRIPT:Intro03
+"Aragorn : Theses villagers are in trouble, I need to save them !"
+END
+
+SCRIPT:OBJ01
+"Aragorn must reach Helm's Deep alive"
+END
+
+SCRIPT:Presentation01
+"Legolas : Aragorn ! We thought you were dead !\n Open the gates !"
+END
+
+SCRIPT:Presentation02
+"Aragorn : Where is the King ? I need to speak to him urgently."
+END
+
+SCRIPT:Presentation03
+"King Théoden : Aragorn ! How glad am I to see you !"
+END
+
+SCRIPT:Presentation04
+"Aragorn : Isengard has emptied, the army is marching upon us.\n There are at least 10 000 of them !"
+END
+
+SCRIPT:Presentation05
+"King Théoden : No army has ever breached the Deeping Wall or set foot inside the Hornburg ,\n behind theses wall we shall survive them.\n They will break upon this fortress like water on rock!"
+END
+
+SCRIPT:Presentation06
+"King Théoden : The Walls are solid rock.\n Saruman's arm would have grown long indeed if he thinks he can reach us here."
+END
+
+SCRIPT:Timer01
+"The Armies of Isengard arrives in : "
+END
+
+SCRIPT:OBJ02
+"The Citadel has to hold !"
+END
+
+SCRIPT:Tip01
+"Prepare for the attack !\n You can recruit archers in the Archery Range,\n soldiers in the Farms and Rohirrims in the Stables"
+END
+
+SCRIPT:Elves01
+"Legolas : That is no Orc horn ! \nThe Elves of Lorien have come to help us !"
+END
+
+SCRIPT:Elves02
+"Haldir : I bring word from Elrond of Rivendell.\n An alliance once existed between Elves and men.\n We come to honor that allegiance."
+END
+
+SCRIPT:Begin
+"King Théoden : So it begins."
+END
+
+SCRIPT:Ladders
+"Aragorn : They bring Ladders !"
+END
+
+SCRIPT:WildMens
+"Legolas : The Dunlendings have come in number !\n Saruman has awakened old hatred to enrole them !"
+END
+
+SCRIPT:GateAttacked
+"Aragorn : The Causeway ! They're attacking the gate !"
+END
+
+SCRIPT:GateDown
+"King Théoden : The Gate is down !"
+END
+
+SCRIPT:Mines01
+"King Théoden: Is this it ?\n Is it all you can conjure Saruman ?"
+END
+
+SCRIPT:Mines02
+"Aragorn : They have brought Mines ! Bring the Berzerkers down Legolas !"
+END
+
+SCRIPT:WallDown
+"King Théoden : The wall is Down !\n Hold them !\n Stand Firm !"
+END
+
+SCRIPT:SunRising
+"King Théoden : The sun shall soon rise.\n The horn of Helm Hammerhand shall sound in the deep one last time!"
+END
+
+SCRIPT:Timer02
+"Dawn in : "
+END
+
+SCRIPT:HornTip
+"Use the horn of Helm Hammerhand by clicking on the Horn Tower.\n It will scare the enemies and enharten our troops"
+END
+
+SCRIPT:Dawn01
+"Gandalf : Théoden King stands alone."
+END
+
+SCRIPT:Dawn02
+"Eomer : Not alone. Rohirrims !\n To the king !"
+END
+
+SCRIPT:Ents01
+"Gandalf : The Ents have come with their Hurorns to help us !"
+END
+
+SCRIPT:Victory
+"The forces of the enemy have been uterly defeated !\n The people of Rohan have survived!"
+END
+
+SCRIPT:Defeat
+"Our defences have crumbled, no one shall survive ..."
+END
+
+
+

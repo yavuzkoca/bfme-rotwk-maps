@@ -1,0 +1,56 @@
+MAP:loke's double team tower wars for pros/desc
+"Welcome to Viking-Lokes Tower Wars. You guys know me from my first map that is very hard. And trust me this map is not easier. For all noobs don't remake map. It's supposed to be hard. Specially thx to Nielsini and Priester"
+End
+
+
+
+SCRIPT:Intro01
+"Loke's tower wars was released 28/3 2008."
+End
+
+SCRIPT:Intro02
+"Many hard waves will come during this time you play this map. Kill them before the reach the end of the roads."
+End
+
+
+SCRIPT:Intro03
+"Play strictly as a team and you will go far."
+End
+
+
+SCRIPT:Intro04
+"This map is not impossible! I have beat it with a friend."
+End
+
+SCRIPT:Intro05
+"Get ready! It starts soon. Good Luck and enjoy my map."
+End
+
+SCRIPT:Intro06
+"You have now come longer then the most tower wars players. But will you survie my last wave?"
+End
+
+SCRIPT:GameStart
+"Game Starts:"
+End
+
+SCRIPT:Wave
+"Wave:"
+End
+
+
+SCRIPT:Income
+"Income:"
+End
+
+
+
+SCRIPT:Finish
+"How the fuck am I going to get off here? Map made by Viking-Loke (viking-loke@hotmail.com)"
+End
+
+
+
+
+
+

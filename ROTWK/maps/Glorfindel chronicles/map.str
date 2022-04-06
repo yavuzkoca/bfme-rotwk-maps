@@ -1,0 +1,51 @@
+SCRIPT:BEGINNING
+"Glorfindel and his soldiers are under attack \n Use him and defend the city"
+End
+
+SCRIPT:GLORFINDELISLEAVING
+"Glorfindel says: It's to many I will have to leave the city!"
+End
+
+SCRIPT:TIMERFOREVILBOATSARRIVE
+"Mordor boats arrive in:"
+End
+
+SCRIPT:GLORFINDELFIRSTMISSION
+"Glorfindel:Hum...I still see great evil I must built some forces near this lake..."
+End
+
+SCRIPT:GLORFINDELVERYSURPRISED
+"Glorfindel:What's this sound? \n Prepare to battle my soldiers!"
+End
+
+SCRIPT:MOUTHOFSAURONARRIVES
+"Mouth of Sauron arrives in:"
+End
+
+SCRIPT:ELRONDSAYSTHENEXTMISSION
+"Elrond: Glorfindel! Glad you are okay... \n The enemy is coming...Prepare your forces. \n You should ask for the aid of the Ents..."
+End
+
+SCRIPT:TREEBEARDDECIDESTOHELP
+"Treebeard: Glorfindel! My friend. \n I shall aid you...."
+ENd
+
+SCRIPT:MOUTHOFSAURONSAYS
+"Mouth of Sauron: Lord Sauron is getting impacient, I will fight!"
+End
+
+SCRIPT:KNIGHTSOFDOLAMROTH
+"Knights of Dol Amroth arrives in:"
+End
+
+SCRIPT:KODAANDSAY
+"Knights of Dol Amroth says: We come to aid our allies!"
+End
+
+SCRIPT:SAURONWILLCOME
+"Sauron comes in:"
+End
+
+SCRIPT:SAURONTHEDARKLORD
+"Sauron: I will crush their hope of winning this battle..."
+End

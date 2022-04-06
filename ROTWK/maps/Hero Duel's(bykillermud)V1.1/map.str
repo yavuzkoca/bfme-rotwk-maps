@@ -1,0 +1,75 @@
+lives:01
+"Player 1 Lives: "
+end
+
+Lives:02
+"Player 2 Lives: "
+end
+
+Lives:03
+"Player 3 Lives: "
+end
+
+Live:04
+"Player 4 Lives: "
+end
+
+Start:01
+"Begins in: "
+end
+
+Mapinfo:01
+"Welcome to my map. You can see builders infront of you."
+end
+
+Mapinfo:02
+"One of them is yours. Move him into one of the boxes to get that hero."
+end
+
+mapinfo:03
+"but below your hero's is another box. That will teleport you to another place."
+end
+
+mapinfo:04
+"This place is for the more powerful players.But be aware once you go there you cannot go back."
+end
+
+mapinfo:05
+"Once you have your hero you must fight other players to win."
+end
+
+mapinfo:06
+"If you are killed you may rechoose your hero but dont die too much you only have 5 lives."
+end
+
+mapinfo:07
+"Hope you enjoy it.Ideas and bugs to william_hw93@hotmail.com, more maps at www.killermud.tk."
+end
+
+Countdown:01
+"Mt.Doom is cooling down, someone is at the center!!!"
+end
+
+Countdown:02
+"Erupts in: "
+end
+
+winc:01
+"Player 1 Wins in: "
+end
+
+winc:02
+"Player 2 Wins in: "
+end
+
+winc:03
+"Player 3 Wins in: "
+end
+
+winc:04
+"Player 4 Wins in: "
+end
+
+Mapinfo:08
+"Thank you to my main tester : SPdemon, and other testers."
+end

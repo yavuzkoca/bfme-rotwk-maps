@@ -1,0 +1,24 @@
+In This map you have to defend the city of Minas Tirith against Mordor!
+
+This Map Includes:
+- Assault waves
+- Grond
+- Nazgûls
+- Rohirrims
+- The undead army
+- Custom Objectives
+
+HOW TO PLAY:
+-!!!Play on the Top spot!!!
+-Choose the color (it can't be changed by any scripts)
+-You should restart the game before and after playing to avoid coding errors
+-Choose a custom hero
+-Have fun !
+
+Compatibility:
+This map is compatible with both BFME 2 and ROTWK but it has only been tested in bfme 2 so the map might
+not be balanced in ROTWK (I don't think so but i prefer telling you).
+
+Have Fun!
+
+IceWink

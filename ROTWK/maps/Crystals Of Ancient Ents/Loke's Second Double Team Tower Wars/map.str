@@ -1,0 +1,107 @@
+SCRIPT:Intro01
+"Loke's third Tower Wars map was released 11/4 2008"
+End
+
+SCRIPT:Intro02
+"Evil waves will come during this time you play this map and your goal is to kill them before they reach the end."
+End
+
+SCRIPT:Intro03
+"Build fast and well thought-out to survive. If you dont, you will die pretty fast"
+End
+
+SCRIPT:Intro04
+"Each player gets Ralling Call or War Chant, use it at the right moment"
+End
+
+SCRIPT:Intro05
+"The Eye Of Sauron will show you how road one and two goes."
+End
+
+SCRIPT:Intro06
+"A Very big thanks to all testers who have helped me effect this map."
+End
+
+SCRIPT:/Game Start
+"We bring swords from Lorien. Go elves attack!(Road one and two)"
+End
+
+SCRIPT:Rest 1-2
+"We might be small and fat, but we are still the strongest!(Road one and two)"
+End
+
+SCRIPT:Rest 2-3
+"From the dark tunnels of Moria. Here comes the Goblin wave.(All 3 roads)"
+End
+
+SCRIPT:Rest 3-4
+"Soilder of metalian standing by.(All 3 roads)"
+End
+
+SCRIPT:Rest 4-5
+"Noone is going to stop us!(All 3 roads)"
+End
+
+SCRIPT:Rest 5-6
+"My wargs are little tasty.(Road one and two)"
+End
+
+SCRIPT:Rest 6-7
+"We have an important commission and you are not going to stop us!(Road one and two)"
+End
+
+SCRIPT:Rest 7-8
+"Fight for what you belive in!(All 3 roads)"
+End
+
+SCRIPT:Rest 8-9
+"Get Ready to meet the dark Lord.!(Road one and two)"
+End
+
+SCRIPT:Rest 9-10
+"Let's see what the Rohirrims can do!(Road one and two)"
+End
+
+SCRIPT:Rest 10-11
+"The fat dwarves have conclude a pact with the Elves. You have to stop them!(Road one and two)"
+End
+
+SCRIPT:Rest 11-12
+"You think you are good because you have come this far? Mabye you are, but you wont come longer then this!(All 3 roads)"
+End
+
+SCRIPT:Rest 12-13
+"12 heroes and 3 eagles. Can you beat that?(All 3 roads)"
+End
+
+SCRIPT:Rest 13-14
+"We are small and fast.And we got armour. You can't kill us!(All 3 roads)"
+End
+
+SCRIPT:Rest 14-15
+"They are not big and not fat, but uggly. Loke entertament presents BALDER AND TOR!!!"
+End
+
+SCRIPT:Rest Balder
+"You almost killed us this time, but we will come back! We will survive!!!"
+End
+
+SCRIPT:Rest 15-16
+"You have now beated one of the hardest tower wars maps on bfme2. I hope you enjoyed it as much as i did when i created this map! Cya in game. Viking-Loke"
+End
+
+SCRIPT:GameStart
+"Game Starts:"
+End
+
+SCRIPT:Rest
+"Rest:"
+End
+
+SCRIPT:Wave
+"Wave:"
+End
+
+SCRIPT:Income
+"Income:"
+End

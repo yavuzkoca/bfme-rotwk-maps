@@ -1,0 +1,567 @@
+SCRIPT:1
+"Welcome to Puzzler's Dreadfort Survival!"
+End
+
+SCRIPT:2
+"You must defeat all 7 armies to win."
+End
+
+SCRIPT:3
+"Take these powers, you will need them. \n Lottery provides useful and unique units and spells."
+End
+
+SCRIPT:4
+"The gate looks a little worse for wear. I'll fix it up."
+End
+
+Goblins are coming
+"The Goblins arrive at sunrise. Their army is unstoppable. \n Our only chance is to kill their king."
+End
+
+Men are coming
+"The forces of Men ride against us. \n We must prepare for another assault."
+End
+
+Angmar is coming
+"Beyond these walls, men are summoned to fight for Angmar. \n Winter is coming."
+End
+
+Elves are coming
+"Our scouts have not returned. They must have been ambushed."
+End
+
+Isengard is coming
+"The forest burns wherever the army of Isengard advances. \n It burns tonight."
+End
+
+Dwarves are coming
+"The Dwarves are on their way. We must fortify our position."
+End
+
+Mordor is coming
+"The Dark Lord approaches. \n The townsfolk seek shelter, anywhere but here. \n They may... if we fight, they may stand a chance."
+End
+
+Goblins Arrival
+"Goblins arrive in:"
+End
+
+Men Arrival
+"Men arrive in:"
+End
+
+Angmar Arrival
+"Angmar arrives in:"
+End
+
+Elves Arrival
+"Elves attack in:"
+End
+
+Isengard Arrival
+"Isengard arrives in:"
+End
+
+Dwarven Arrival
+"Dwarves arrive in:"
+End
+
+Mordor Arrival
+"Mordor arrives in:"
+End
+
+Goblin wave
+"Your fate is decided."
+End
+
+Men wave
+"Our victory this day shall be remembered for centuries to come."
+End
+
+Angmar wave
+"Krrrrrrrrrrrrrssssh."
+End
+
+Elven wave
+"You will pay for what you have done."
+End
+
+Isengard wave
+"Fight for me or die for nothing."
+End
+
+Dwarven wave
+"You cannot match the strength of the Dwarves."
+End
+
+Mordor wave
+"One Ring to rule them all, One Ring to find them, \n One Ring to bring them all and in the darkness bind them."
+End
+
+Wave 1 Boss
+"Kill the Goblin King to defeat his army!"
+End
+
+Wave 2 Objective
+"Kill all heroes to defeat the army!"
+End
+
+Wave 3 Objective 1
+"Kill 8 Hwaldars to defeat the army!"
+End
+
+Wave 3 Objective 2
+"Kill 10 Hwaldars to defeat the army!"
+End
+
+Wave 3 Objective 3
+"Kill 12 Hwaldars to defeat the army!"
+End
+
+2 Hwaldars
+"2 Hwaldars remaining"
+End
+
+1 Hwaldar
+"1 Hwaldar remaining"
+End
+
+Wave 4 Objective
+"Survive for 5 minutes!"
+End
+
+Wave 5 Objective
+"Destroy both Orthanc towers!"
+End
+
+Wave 6 Objective
+"Kill all Dwarven heroes to defeat the army!"
+End
+
+Wave 7 Objective 1
+"Vanquish the balrogs to draw out the Dark Lord."
+End
+
+Wave 7 Objective 2
+"Destroy the Dark Lord once and for all!"
+End
+
+Poem 1
+"All that is gold does not glitter, \n Not all those who wander are lost;"
+End
+
+Poem 2
+"The old that is strong does not wither, \n Deep roots are not reached by the frost."
+End
+
+Poem 3
+"From the ashes a fire shall be woken, \n A light from the shadows shall spring;"
+End
+
+Poem 4
+"Renewed shall be blade that was broken, \n The crownless again shall be king."
+End
+
+Wave objective
+"Time until objective:"
+End
+
+NewTierUnlocked
+"A new tier of lottery prizes has been unlocked!"
+End
+
+Wave number
+"Wave:"
+End
+
+Gate Destroyed
+"A gate has been destroyed"
+End
+
+Keep Danger
+"A keep is under attack!"
+End
+
+Keep Doom
+"A keep is nearly destroyed!"
+End
+
+Shawshanked
+"They have tunneled into our fort!"
+End
+
+Heroes remaining
+"Heroes remaining:"
+End
+
+Balrogs remaining
+"Balrogs remaining:"
+End
+
+Hwaldars killed 1
+"Hwaldars killed (of 8):"
+End
+
+Hwaldars killed 2
+"Hwaldars killed (of 10):"
+End
+
+Hwaldars killed 3
+"Hwaldars killed (of 12):"
+End
+
+Survival
+"Survive for:"
+End
+
+Orthanc towers alive
+"Towers remaining:"
+End
+
+EomerDead
+"Eomer has been killed."
+End
+
+EowynDead
+"Eowyn has been killed."
+End
+
+TheodenDead
+"Theoden has been killed."
+End
+
+AragornDead
+"Aragorn has been killed."
+End
+
+FaramirDead
+"Faramir has been killed."
+End
+
+GandalfDead
+"Gandalf has been killed."
+End
+
+BoromirDead
+"Boromir has been killed."
+End
+
+CONTROLBAR:UpgradeKeepLevel2
+"Upgrade Keep to level 2"
+End
+
+CONTROLBAR:ToolTipUpgradeKeepLevel2
+"Allows you to produce stronger units, increases the keep's health\n and reduces build time for units and upgrades"
+End
+
+CONTROLBAR:UpgradeKeepLevel3
+"Upgrade Keep to level 3"
+End
+
+CONTROLBAR:ToolTipUpgradeKeepLevel3
+"Increases the keep's health and reduces build time for units and upgrades"
+End
+
+CONTROLBAR:SelectUpgradesGenericKeep
+"Upgrades section"
+End
+
+CONTROLBAR:ToolTipSelectUpgradesGenericKeep
+"Research upgrades for your faction"
+End
+
+CONTROLBAR:SelectRevivablesGenericKeep
+"Heroes section"
+End
+
+CONTROLBAR:ToolTipSelectRevivablesGenericKeep
+"Recruit your heroes"
+End
+
+TOOLTIP:LackLevel2KeepUpgrade
+"Requires level 2 keep upgrade"
+End
+
+Upgrade:KeepLevel2
+"Keep level 2"
+End
+
+Upgrade:KeepLevel3
+"Keep level 3"
+End
+
+CONTROLBAR:ToolTipBuildDwarvenBattleWagonNew
+"Requires Level 2 Keep \n Strong vs. Swordsmen, Archers and Cavalary \n Can be upgraded with various improvements"
+END
+
+CONTROLBAR:ToolTipBuildDwarvenMenOfDaleHordeNew
+"Strong vs. Infantry and Monsters"
+End
+
+CONTROLBAR:ToolTipBuildGondorRangerHordeNew
+"Strong vs. Infantry and Monsters"
+End
+
+CONTROLBAR:ToolTipBuildGondorKnightHordeNew
+"Requires Level 2 Keep \n Strong vs. Archers and Unit Production Buildings"
+END
+
+CONTROLBAR:ToolTipBuildGondorTowerShieldGuardHordeNew
+"Strong vs. Cavalry and most Heroes"
+END
+
+CONTROLBAR:ToolTipBuildElvenMirkwoodArcherHordeNew
+"Strong vs. Infantry and Monsters"
+End
+
+CONTROLBAR:ToolTipBuildElvenRivendellLancersNew
+"Requires Level 2 Keep \n Strong vs. Archers and Unit Production Buildings"
+END
+
+CONTROLBAR:ToolTipBuildIsengardBerserkerNew
+"Requires Level 2 Keep \n Strong vs. Infantry"
+END
+
+CONTROLBAR:ToolTipBuildIsengardWargRiderNew
+"Requires Level 2 Keep \n Strong vs. Archers and Unit Production Buildings"
+END
+
+CONTROLBAR:ToolTipBuildMordorHaradrimArcherHordeNew
+"Strong vs. Infantry and Monsters \n Can fire Barbed Arrows"
+End
+
+CONTROLBAR:TooltipConstructMordorDrummerTrollsNew
+"Requires Level 2 Keep \n Provides Leadership to nearby allies \n Can use his drumsticks to cause fear into nearby enemies"
+END
+
+CONTROLBAR:ToolTipBuildMordorAttackTrollNew
+"Requires Level 2 Keep \n Strong vs. Swordsmen, Cavalry, and Structures"
+End
+
+CONTROLBAR:ToolTipBuildWildMarauderHordeNew
+"Strong vs. Cavalry and most Heroes"
+END
+
+CONTROLBAR:ToolTipBuildWildSpiderRiderHordeNew
+"Requires Level 2 Keep \n Can switch between Bow and Spear \n Strong vs. Archers and Unit Production Buildings"
+END
+
+CONTROLBAR:ToolTipBuildWildMountainGiantNew
+"Requires Level 2 Keep \n Strong vs. Structures and Swordsmen"
+End
+
+CONTROLBAR:ToolTipBuildAngmarHillTrollHordeNew
+"Strong vs. Cavalry\n Can switch formation for improved defensive capabilities"
+End
+
+CONTROLBAR:ToolTipBuildAngmarSnowTrollHordeNew
+"Strong vs. Archers\n Can charge at enemies for improved combat performance"
+End
+
+CONTROLBAR:ToolTipBuildAngmarDarkDunedainHordeNew
+"Strong vs. Pikemen\n Can charge at enemies for improved combat performance"
+End
+
+CONTROLBAR:ToolTipBuildAngmarNecromancerHordeNew
+"Requires Level 2 Keep\n Battlefield Support Unit"
+End
+
+CONTROLBAR:ToolTipBuildAngmarDarkRangerHordeNew
+"Strong vs. Infantry and Monsters\n Can fire Longshot arrow volleys"
+End
+
+CONTROLBAR:SoSBonus 
+"The fury of the Orcs"
+End
+
+CONTROLBAR:TooltipSoSBonus 
+"Your units gain 100% damage for 45 seconds. \n Stacks with other leaderships"
+End
+
+CONTROLBAR:FoLBonus  
+"The power of Narya"
+End
+
+CONTROLBAR:TooltipFoLBonus  
+"Your units gain +75% armor and +50% attack speed for 45 seconds.\n Stacks with other leaderships"
+End
+
+CONTROLBAR:Lottery
+"Lottery"
+End
+
+CONTROLBAR:TooltipLottery
+"Try your luck for 750 gold \n Prizes include units, heroes and spellbook powers \n Lottery can only be used once in a given period of time"
+End
+
+Lottery Player
+"Player"
+End
+
+Lottery Prize
+"Prize"
+End
+
+Firebringers
+"A player has won the prize: Firebringers"
+End
+
+Kiss my Axe
+"A player has won the prize: Kiss my Axe"
+End
+
+Rangers
+"A player has won the prize: Rangers"
+End
+
+Dark Rangers
+"A player has won the prize: Dark Rangers"
+End
+
+Attack trolls
+"A player has won the prize: Trolls"
+End
+
+Eagle Allies
+"A player has won the prize: Eagle Allies"
+End
+
+Mirks
+"A player has won the prize: Mirks"
+End
+
+Fire Drake
+"A player has won the prize: Fire Drake"
+End
+
+Mumak
+"A player has won the prize: Mumawyrm"
+End
+
+Sorcerers
+"A player has won the prize: Sorcerers"
+End
+
+Noldors
+"A player has won the prize: Noldors"
+End
+
+Tom Bombadil
+"A player has won the prize: Tom Bombabil"
+End
+
+Black Riders
+"A player has won the prize: Black Riders"
+End
+
+Witch King
+"A player has won the prize: Witch King"
+End
+
+Gandalf
+"A player has won the prize: Gandalf"
+End
+
+Drogoth
+"A player has won the prize: Drogoth"
+End
+
+Sauron
+"A player has won the prize: Sauron"
+End
+
+Galadriel
+"A player has won the prize: Galadriel"
+End
+
+Rebuild
+"A player has won the prize: Rebuild"
+End
+
+Snowbind
+"A player has won the prize: Snowbind"
+End
+
+ArmyOfTheDead
+"A player has won the prize: Summon Army of the Dead"
+End
+
+Flood
+"A player has won the prize: Flood"
+End
+
+SummonBalrog
+"A player has won the prize: Summon Balrog"
+End
+
+CONTROLBAR:ToolTipBarbedArrowsNew
+"Causes meta impact and increased damage"
+End
+
+CONTROLBAR:ToolTipConstructDwarvenCatapultExpansionNEW
+"Long range defensive weapon \n Benefits from the Flaming Shot upgrade"
+End
+
+CONTROLBAR:ToolTipPurchaseTechnologyDwarvenFlamingShotNew
+"Allows you to upgrade your catapult expansions with Flaming Shot"
+End
+
+TOOLTIP:LackDwarvenFlamingShotNEW
+"Research this upgrade at your keep to enable this upgrade\n When equipped, significantly increases the catapult's damage"
+End
+
+CONTROLBAR:MumakilReposition
+"Mumawyrm"
+End
+
+CONTROLBAR:ToolTipMumakilReposition
+"Reposition this Mumakil anywhere on the map"
+End
+
+Difficulty
+"Difficulty:"
+End
+
+Gates compromised
+"Gates compromised:"
+End
+
+Holes total
+"Keeps destroyed:"
+End
+
+Number of Players
+"Number of Players:"
+End
+
+Spawn archers
+"Archers spawn in:"
+End
+
+Spawn soldiers
+"Soldiers spawn in:"
+End
+
+Spawn pikes
+"Pikes spawn in:"
+End
+
+Spawn cavalry
+"Cavalry spawn in:"
+End
+
+Spawn hero
+"Hero spawns in:"
+End
+
+Spawn siege
+"Siege spawns in:"
+End
+
+Choose corner
+"Choose new spawn corner"
+End
+
+Spawn corner number
+"Spawn corner"
+End

@@ -1,0 +1,39 @@
+SCRIPT:Intro01
+"Pasidon's Chaotic Tower Wars Released December 2006"
+End
+
+SCRIPT:Intro02
+"Waves of enemys will soon come down your roads and your goal is to kill them before they reach the end."
+End
+
+SCRIPT:Intro03
+"Build towers and archer units to kill the upcomming enemys."
+End
+
+SCRIPT:Intro04
+"Each player gets this powre to boot your unit's strength."
+End
+
+SCRIPT:Intro05
+"Prepare for battle! They could come at any moment..."
+End
+
+SCRIPT:TWOROADS
+"Get ready for both roads to be used next wave!  Tunnles may now be used to access the second road center."
+End
+
+SCRIPT:GameStart
+"Game Starts:"
+End
+
+SCRIPT:Rest
+"Rest:"
+End
+
+SCRIPT:Wave
+"Wave:"
+End
+
+SCRIPT:Income
+"Income:"
+End

@@ -1,0 +1,27 @@
+SCRIPT:Game Start
+"Game Start"
+END
+
+SCRIPT:Wave
+"Wave"
+END
+
+SCRIPT:Income
+"Income"
+END
+
+SCRIPT:Rest
+"Rest"
+END
+
+SCRIPT:Intro1
+"Hello there"
+END
+
+SCRIPT:Intro2
+"Welcome to the first tower wars of Gannicus"
+END
+
+SCRIPT:Intro3
+"Please enjoy! :D"
+END

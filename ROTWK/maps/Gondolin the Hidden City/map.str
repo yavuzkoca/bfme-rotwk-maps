@@ -1,0 +1,39 @@
+SCRIPT:IntroMaterialsforGondolin
+"Welcome to Gondolin, the Hidden City."
+End
+
+SCRIPT:Glorfindel
+"I do not believe my eyes! A man? In Gondolin?"
+End
+
+SCRIPT:Glorfindel2
+"Excuse me. I am Glorfindel, of the House of the Golden Flower. Let me show you around."
+End
+
+SCRIPT:Assembly
+"You could come and join the House of the White Wing in our Great Assembly. It's lead by another man, Tuor."
+End
+
+SCRIPT:Shrines
+"If you get a chance, pay homage to the Valar at our shrines."
+End
+
+SCRIPT:Citadel
+"Or, explore the great citadel of Gondolin, where King Turgon reigns beside images of the trees of Valinor."
+End
+
+SCRIPT:TowerofKing
+"From the Tower of the King shines an ancient beacon of the Eldar."
+End
+
+SCRIPT:Nature
+"You are only the second man, after Tuor, to see the beauty of our hidden kingdom. The Valar have blessed you."
+End
+
+SCRIPT:Gate
+"Defend our Great Gate from the unrelenting power of evil."
+End
+
+SCRIPT:GlorfindelFinal
+"It is my privilege to serve you."
+End

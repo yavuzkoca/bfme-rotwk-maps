@@ -1,0 +1,63 @@
+SCRIPT:LostWife
+"I beg ye, please help me. They have got me wife and child. Please help them. I beg ye."
+End
+
+SCRIPT:Reclaimthecap
+"Hullo there! You look like strong warriors. Help us rescue our captives east from here. I dont have anything to give you but we will be eternally thankful. These soldiers will go with you. Good luck."
+End
+
+SCRIPT:Information
+"Rescue all the hostages in the area."
+End
+
+SCRIPT:Rescued
+"Thank you! You have done us a great deed. The elves shall sing of this day."
+End
+
+SCRIPT:Rescuethecaptain
+"Hello! We need your help. Outr captain has been captured in a den of Wargs. Go free him so we can get back home."
+End
+
+SCRIPT:ImRescued
+"Thank you for rescueing me! My heart is still pounding from that giant wolf."
+End
+
+SCRIPT:End
+"We have vanquished most enemys in this land but one camp still remains. Some of my men will go with you to destroy that vile place."
+End
+
+SCRIPT:Reunited
+"Oh thank you. Thank you so much! I dont know what id do without them."
+End
+
+SCRIPT:End speech
+"Their treachery is gone! Let them never return back to this place!"
+End
+
+SCRIPT:Civillian talk
+"There is rumour of  giant wolf lurking around this land. Watch out, for the path ahead is dangerous."
+End
+
+SCRIPT:TheEnts
+"The ents will go to war."
+End
+
+SCRIPT:The WildMean
+"When we were attacked the wildmen took my wife. If you help me free her then you will be greatly rewarded."
+End
+
+SCRIPT:Found the woman
+"Get back to the village Maria and no harm will come to you. Thank you Aragorn. Take this It may be useful on your adventure. Take care my freinds."
+End
+
+SCRIPT:Dontwannahelp
+"I am sorry but I must find her. Carry on."
+End
+
+SCRIPT:Found her
+"There she is! You shall pay for your actions foul beasts!"
+End
+
+SCRIPT:A
+"Ah ha! Aragorn, we meet again."
+End

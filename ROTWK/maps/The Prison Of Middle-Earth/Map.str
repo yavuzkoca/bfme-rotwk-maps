@@ -1,0 +1,33 @@
+By Lascar
+"--------------------------------------------------------------------------------------------------------------------"
+End
+
+Map:ThePrisonOfMiddle-Earth/Desc
+"In a place ruled by great and ancient evil, the evil is so powerful than heroes have fought and died here.\nNow only a few are left...\nLeft to fight for peace in Middle-Earth!!!\n\nMade By {IP}Lascar\n\nSpecial Thanks to {IP}Aragorn94 for his contributions on the map"
+End
+
+SCRIPT:Intro1
+"7 Heroes are here to fight against great and evil power, 7 to make a last stand for Middle-Earth...\nWill you prevail or fall like the rest!!!!"
+End
+
+
+MadeBy
+"Made By \n{IP}Lascar a.k.a. Lascar"
+End
+
+
+Next Attack
+"Next Attack"
+End
+
+Sauron
+"Sauron: Now, i will destroy you. You will fall like the rest of them!!"
+End
+
+Witch-King
+"Witch-King: Ill will Sauron's work, Kneel and ill spare ur lives!!"
+End
+
+Witch-King2
+"Witch-King: No? Then die, show them no mercy"
+End

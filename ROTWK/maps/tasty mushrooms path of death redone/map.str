@@ -1,0 +1,27 @@
+SCRIPT:Wave
+"Mushroom Level:"
+END
+
+SCRIPT:PeaceTime
+"Mushroom Thieves Arrive In:"
+END
+
+SCRIPT:Intro1
+"Welcome to my 3 player tower wars."
+END
+
+SCRIPT:Intro2
+"Some abilities of heroes have a long decay time. \n Tornado, Word of Power, Shatter Hammer and Dominator are disabled."
+END
+
+SCRIPT:Intro3
+"If you dismounted your fellbeasts then you can't mount them again. \n You can put archers in Mordor towers." 
+END
+
+SCRIPT:Intro4
+"Waves will come from the bottom of the path."
+END
+
+SCRIPT:Intro5
+"KILL THEM ALL"
+END

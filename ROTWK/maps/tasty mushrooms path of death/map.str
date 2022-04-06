@@ -1,0 +1,15 @@
+SCRIPT:Wave
+"Mushroom Level:"
+END
+
+SCRIPT:PeaceTime
+"Mushroom Thieves Arrive In:"
+END
+
+SCRIPT:Intro1
+"Welcome to my 3 player tower wars."
+END
+
+SCRIPT:Intro2
+"KILL THEM ALL"
+END

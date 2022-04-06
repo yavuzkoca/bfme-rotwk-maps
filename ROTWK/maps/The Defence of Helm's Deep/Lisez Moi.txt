@@ -1,0 +1,22 @@
+Dans cette map vous devez défendre le Gouffre de Helm contre les forces de l'Isengard!
+
+Cette Map Inclut:
+- des vagues d'assaut
+- Des Béliers
+- Des Mines
+- Les renforts Rohirrims
+- Les renforts des Ents
+- Objectifs custom
+- La faction du Rohan ramenée dans ROTWK
+
+COMMENT JOUER:
+-!!!Jouez sur le spot du haut!!!
+-Choissez votre couleur (ne peut être changé par scripts)
+-Il est conseillé de redémarer le jeu avant et après avoir jouer pour éviter des erreurs de code
+-Amusez vous!
+
+Compatibilité:
+Cette map est compatible avec ROTWK Patch 2.02 uniquement.
+Bon Jeu!
+
+IceWink

@@ -1,0 +1,19 @@
+SCRIPT:WelcomeMessage
+"Welcome to Double Team Tower Wars.\n\nImprovements:\n* Fixed map terrain for player 4.\n* Bug where creeps cross player terrain no longer occurs.\n* Builders located in middle sections are now indestructible.\n* A player who cheats by attacking the other team will automatically be defeated."
+End
+
+SCRIPT:GameStart
+"Game will start in:"
+End
+
+SCRIPT:Wave
+"Next wave:"
+End
+
+SCRIPT:Rest
+"Rest time lasts for:"
+End
+
+SCRIPT:Income
+"Income for next wave:"
+End

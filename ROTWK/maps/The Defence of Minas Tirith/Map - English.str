@@ -1,0 +1,143 @@
+Map:TheDefenceofMinasTirith
+"The Defence of Minas Tirith"
+End
+
+Map:TheDefenceofMinasTirith/Desc
+"In this map you have to defend Minas Tirith against the evil forces of Mordor!\n\n HOW TO PLAY: \n-!!!Play on the top spot!!!\n-choose your color\n-You should restart your game before and after playing to avoid coding errors\n-choose a custom hero\n-Have Fun!\n\nGood game!\nIceWink"
+End
+
+SCRIPT:exemple
+"ceci est un exemple de texte"
+End
+
+SCRIPT:commandpoints
+"Command Points"
+End
+
+SCRIPT:level controled
+"Controled levels"
+End
+
+SCRIPT:Intro 01
+"Minas Tirith, The city of Kings ! It's outer wall was carved in the rock thanks to the art of the Numenoreans.\n The key of this unbreacheable protection is the gate, it's going to be our enemie's main target !\n Defend the white city against Mordor !"
+End
+
+SCRIPT:Intro 02
+"Gondor Soldier: Look ! It's the Lord Faramir, he is wounded !"
+End
+
+SCRIPT:Intro 03
+"Hold the white tower at all costs!"
+End
+
+SCRIPT:Intro 04
+"The forces of Mordor arrives in"
+End
+
+SCRIPT:Intro 05
+"Gondor's general: They're comming ! Shut the gates !"
+End
+
+SCRIPT:Goth speech
+"Gothmog: Forth you stupid orcs, cease the assault only when the city has been taken ! !"
+End
+
+SCRIPT:Siege Towers
+"Gandalf: They've got siege towers!Kill the Trolls! Kill the trolls!"
+End
+
+SCRIPT:Attack gate
+"Gandalf: They're going to attack the gate! Defend it !"
+End
+
+SCRIPT:Nazguls
+"Gondor's general: Nazgûls !"
+End
+
+SCRIPT:gothmog send grond
+"Gothmog: The Gate is too solid, but Grond can pierce it ! Bring me the wolf's head!"
+End
+
+SCRIPT:grond grond grond
+"Orcs: Grond ! Grond ! Grond ! ..."
+End
+
+SCRIPT:Gandalf grond
+"Gandalf: You are soldiers of Gondor! Whatever might come through that gate, you will hold your position !"
+End
+
+SCRIPT:WK gandalf
+"The Witch King: You failed gandalf! The World of Mens is going to collapse !"
+End
+
+SCRIPT:Gothmog Magic
+"Gothmog: Theses Mens will not die !!! Send them an arrow volley"
+End
+
+SCRIPT:seen Rohan
+"Gondor's general: We saw the Hosts of Rohan from the height of Echthelion's tower! Hold just a little bit longer, they're comming !"
+End
+
+SCRIPT:Timer Rohan
+"The Army of Rohan arrives in"
+End
+
+SCRIPT:From ranks
+"Gothmog: Forms ranks you maggots, form ranks !. Pikes in front , archers behind!"
+End
+
+SCRIPT:Theoden
+"Theoden: Arise! arise riders of Theoden! Spears shall be shaken ,shields shall be splintered, a Sword day, a red day !There the sun rises!"
+End
+
+SCRIPT:Death !!!
+"Army of Rohan: Death !!!!"
+End
+
+SCRIPT:Death of Gothmog
+"Rohan's general: Gothmog is dead! The army of Mordor is Leaderless!"
+End
+
+SCRIPT:Death of Theoden
+"The Witch King: Feast on his flesh!"
+End
+
+SCRIPT:free the city
+"Gondor's general: Kill all ennemies ! Free the city !"
+End
+
+SCRIPT:the end
+"Gondor's general: At last, we killed them all!"
+End
+
+SCRIPT:obj 01
+"Hold the citadel at all costs"
+End
+
+SCRIPT:obj 02
+"Hold the first floor"
+End
+
+SCRIPT:obj 03
+"Keep all your heroes alive"
+End
+
+SCRIPT:info 01
+"The more levels you will control, the more command points you will have"
+End
+
+SCRIPT:challenge
+"Challenge succeded: You held the gate against Grond !"
+End
+
+SCRIPT:obj 01 fail
+"The citadel is lost, the white city has fallen."
+End
+
+SCRIPT:obj 02 fail
+"Bonus Objective failed : \n Hold the first floor"
+End
+
+SCRIPT:obj 03 fail
+"Bonus Objective failed : \n Keep all your heroes alive"
+End

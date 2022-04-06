@@ -1,0 +1,13 @@
+
+
+SCRIPT:BLACKSAILS
+"Look! Black sails! The Mourmons have comed, and for my guess the spartans will come to!"
+End
+
+SCRIPT:INFINITE
+"Now you will face an unlimited wave of units, and to win you must keep them off in 10 minutes. GOOD LUCK!"
+End
+
+SCRIPT:WIN
+"Time Until You Win"
+End

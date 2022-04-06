@@ -1,0 +1,99 @@
+SCRIPT:pieces
+"The board is set; the pieces are moving."
+End
+
+SCRIPT:river
+"Orcs are crossing the river. Quickly, to your stations!"
+End
+
+SCRIPT:osgnaz
+"Nazgul! Take cover!"
+End
+
+SCRIPT:osgover
+"Osgiliath is overrun! Pull back! Pull back to Minas Tirith!"
+End
+
+SCRIPT:minmovtext
+"Minas Tirith: City of Kings\n Map made by Klw and edited/scripted by eliec."
+End
+
+SCRIPT:faramarrive
+"It's Lord Faramir - Open the gate!"
+End
+
+SCRIPT:chase1
+"Help! The Nazgul pursue us!"
+End
+
+SCRIPT:whitrid
+"It's the White Rider !"
+End
+
+SCRIPT:osgovertale
+"The orcs have taken the river and Pelennor.\n They will be here by nightfall."
+End
+
+SCRIPT:prepare
+"Prepare the defenses!"
+End
+
+SCRIPT:hintr
+"The orcs will attack the left side first!\n You will get a money boost shortly before they\n attack the right."
+End
+
+SCRIPT:night
+"Nightfall in:"
+End
+
+SCRIPT:lattack
+"Mordor attacks right side in:"
+End
+
+SCRIPT:break1
+"Move into the city; kill all in your path."
+End
+
+SCRIPT:break2
+"What of the wizard?"
+End
+
+SCRIPT:break3
+"I will break him."
+End
+
+SCRIPT:wt1
+"I will feast on your flesh."
+End
+
+SCRIPT:wt2
+"You will not touch him!"
+End
+
+SCRIPT:wt3
+"Do not stand between the nazgul\n and his prey!"
+End
+
+SCRIPT:aod1
+"Get off your ships - pirate scum - there's knifework here needs doing!"
+End
+
+SCRIPT:send
+"Send these foul creatures\nback to the abyss!"
+End
+
+SCRIPT:end1
+"The strength of men has held.\n Minas Tirith stands."
+End
+
+SCRIPT:end2
+"The fate of us all now lies in the hands of\ntwo small hobbits..."
+End
+
+SCRIPT:AragornKinggo
+"Take me safely to the seventh level and then you shall have victory! Take me to stand next to the White Tree!"
+End
+
+SCRIPT:AragornDiegame
+"So falls the true King of Men, fighting valiantly."
+End

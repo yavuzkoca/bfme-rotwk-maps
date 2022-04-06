@@ -1,0 +1,35 @@
+SCRIPT:Intro01
+"Redwarior's Hero Tower Wars."
+End
+
+SCRIPT:Intro02
+"Kill Them All."
+End
+
+SCRIPT:Intro03
+"Have Fun."
+End
+
+SCRIPT:Intro04
+"Thanks to the testers -Blackelite93,Death543, Malrond and Boooyahh My friends."
+End
+
+SCRIPT:Intro05
+"Game begins in 40 seconds get ready!"
+End
+
+SCRIPT:GameStart
+"Game start in:"
+End
+
+SCRIPT:Rest
+"Rest:"
+End
+
+SCRIPT:Wave
+"Wave:"
+End
+
+SCRIPT:Income
+"Income:"
+End

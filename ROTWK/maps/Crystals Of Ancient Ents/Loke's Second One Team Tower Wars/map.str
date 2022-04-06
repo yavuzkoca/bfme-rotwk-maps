@@ -1,0 +1,107 @@
+SCRIPT:Intro01
+"Loke's fourth Tower Wars map was released 7/6 2008"
+End
+
+SCRIPT:Intro02
+"On this map I have made a few changes since last time. The first 4 waves on this map is much easier then normal."
+End
+
+SCRIPT:Intro03
+"The reason is that even noobs are going to beat some of the waves. You cant use custom heroes on this map!"
+End
+
+SCRIPT:Intro04
+"Each player gets Ralling Call or War Chant, use it at the right moment"
+End
+
+SCRIPT:Intro05
+"The eye of Sauron will show you how the 4 roads goes."
+End
+
+SCRIPT:Intro06
+"A Very big thanks to all testers who have helped me effect this map."
+End
+
+SCRIPT:Intro07
+"The game will now start in less then 45 secounds. I hope you are ready and dont forget to play as a team!"
+End
+
+SCRIPT:/Game Start
+"Once we were big kings of great kingdoms, but now the darkness have take us."
+End
+
+SCRIPT:Rest 1-2
+"We might be small and fat, but we are still the strongest!"
+End
+
+SCRIPT:Rest 2-3
+"The Rohirrims of Rohan have come to fight!"
+End
+
+SCRIPT:Rest 3-4
+"From the darkness and from the dark tunnels of Moria. Here comes the spiders!"
+End
+
+SCRIPT:Rest 4-5
+"The ring has to be cast back in the fires of Mount Doom!"
+End
+
+SCRIPT:Rest 5-6
+"Bezerkers get ready!"
+End
+
+SCRIPT:Rest 6-7
+"Oh no it's the master! Run!"
+End
+
+SCRIPT:Rest 7-8
+"We cant win this battle but we must fight!"
+End
+
+SCRIPT:Rest 8-9
+"The 3 Giants have come to fight, and the warg Tor!"
+End
+
+SCRIPT:Rest 9-10
+"For the glory of Rohan!"
+End
+
+SCRIPT:Rest 10-11
+"Go spiders attack!"
+End
+
+SCRIPT:Rest 11-12
+"Here comes some of all Middle Earts Heroes!"
+End
+
+SCRIPT:Rest 12-13
+"We are horse men of Rohan and we fight for glory and victory!"
+End
+
+SCRIPT:Rest 13-14
+"We might all be strong separately, but together nothing can stop us! "
+End
+
+SCRIPT:Rest 14-15
+"I dont like this, but we will all have to fight together!"
+End
+
+SCRIPT:Rest Balder
+"Congratulations! You have now beated my Second One Team Tower Wars."
+End
+
+SCRIPT:GameStart
+"Game Starts:"
+End
+
+SCRIPT:Rest
+"Rest:"
+End
+
+SCRIPT:Wave
+"Wave:"
+End
+
+SCRIPT:Income
+"Income:"
+End

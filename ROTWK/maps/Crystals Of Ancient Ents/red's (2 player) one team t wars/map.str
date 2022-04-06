@@ -1,0 +1,39 @@
+SCRIPT:Intro01
+"Redwarior's Remake of Towerwars."
+End
+
+SCRIPT:Intro02
+"Goal: Kill all the creeps before they reach the end of the road."
+End
+
+SCRIPT:Intro03
+"Money: You get money after each round or wave."
+End
+
+SCRIPT:Intro04
+"Powers: FoDs recieve War Chant and FoLs recieve Rally Call."
+End
+
+SCRIPT:Intro05
+"Game begins in 30 seconds get ready!"
+End
+
+SCRIPT:TWOROADS
+"Both roads will be used in this next wave."
+End
+
+SCRIPT:GameStart
+"Game start in:"
+End
+
+SCRIPT:Rest
+"Rest:"
+End
+
+SCRIPT:Wave
+"Wave:"
+End
+
+SCRIPT:Income
+"Income:"
+End

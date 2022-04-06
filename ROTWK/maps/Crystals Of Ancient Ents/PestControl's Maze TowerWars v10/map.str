@@ -1,0 +1,135 @@
+SCRIPT:LIVE1
+"Player 1 lives:"
+End
+
+SCRIPT:LIVE2
+"Player 2 lives:"
+End
+
+SCRIPT:LIVE3
+"Player 3 lives:"
+End
+
+SCRIPT:LIVE4
+"Player 4 lives:"
+End
+
+SCRIPT:WAVE
+"Wave:"
+End
+
+SCRIPT:NEXTWAVE
+"Next Wave (Can be earlier):"
+End
+
+SCRIPT:BLOCK1
+"Player 1 blocked the road or the passage is too narrow. Give the creeps a good passage.\n you'll lose 2 lives each 5 seconds as long as the creeps can't reach the middle."
+End
+
+SCRIPT:BLOCK2
+"Player 2 blocked the road or the passage is too narrow. Give the creeps a good passage.\n you'll lose 2 lives each 5 seconds as long as the creeps can't reach the middle."
+End
+
+SCRIPT:BLOCK3
+"Player 3 blocked the road or the passage is too narrow. Give the creeps a good passage.\n you'll lose 2 lives each 5 seconds as long as the creeps can't reach the middle."
+End
+
+SCRIPT:BLOCK4
+"Player 4 blocked the road or the passage is too narrow. Give the creeps a good passage.\n you'll lose 2 lives each 5 seconds as long as the creeps can't reach the middle."
+End
+
+SCRIPT:MONEY
+"Money you'll receive before next wave:"
+End
+
+SCRIPT:WARN1
+"The upcoming wave is going to attack!"
+End
+
+SCRIPT:OOS
+"It will be tested now if the game is likely to go Out of Sync, if it have the chance to got OOS, it is likely it happens now.\n If the game goes Out of Sync, restart BFME2, and restart the game on this map. It is recommend \nto play this map on very low graphic quality. If it continuesly goes out of sync you can better play this map in single player.\n The test is done now to prevent an out of sync on a later time."
+End
+
+SCRIPT:OOS2
+"Out of Sync test done. The game is not very likely to crash!\n The game will start now, good luck.\nAt this map, you have to defend the creeps from reaching the middle by building tower and archers.\nIf you fail to kill an enemy you'll lose a life. You get money after each wave."
+End
+
+SCRIPT:OOS3
+"The game may start to lag (running slow) because of the Out of Sync test. The test takes 30 seconds."
+End
+
+SCRIPT:INTRO1MODE1
+"PestControl's Maze TowerWars (released on 13 may 2006)\n This map have a map.ini. Make sure you always restart your game after playing a map with a map.ini.\n Recognized mode: Free For All"
+End
+
+SCRIPT:INTRO1MODE2
+"PestControl's Maze TowerWars (released on 13 may 2006)\n This map have a map.ini. Make sure you always restart your game after playing a map with a map.ini.\n Recognized mode: Teams of 2 players. As this mode does not exist yet it will be played like free for all."
+End
+
+SCRIPT:INTRO1MODE3
+"PestControl's Maze TowerWars (released on 13 may 2006)\n This map have a map.ini. Make sure you always restart your game after playing a map with a map.ini.\n Recognized mode: Team of 4 players. As this mode does not exist yet it will be played like free for all."
+End
+
+SCRIPT:INTRO2
+"At this map, you have to defend the creeps from reaching the middle by building tower and archers.\nIf you fail to kill an enemy you'll lose a life. You get money after each wave.\n Later waves might be less balanced."
+End
+
+SCRIPT:INTRO3
+"This map may go out of sync when playing on-line. Try restart your game if it happen,\n if it continuesly happen you can better play it in single player.\n To reduce the lag on this map you can try to set the graphic details lower."
+End
+
+SCRIPT:VICTORY
+"Congratz! You killed all waves! Updates with more waves will come."
+End
+
+CONTROLBAR:ToolTipBattleTower1
+"Tower with extremely high damage."
+End
+
+CONTROLBAR:ToolTipBattleTower2
+"Tower with more damage and a huge range."
+End
+
+CONTROLBAR:ToolTipBattleTower3
+"Tower with low damage."
+End
+
+CONTROLBAR:ToolTipBattleTower4
+"Tower with huge damage."
+End
+
+CONTROLBAR:ToolTipBattleTower5
+"Tower with more damage."
+End
+
+CONTROLBAR:ToolTipHaradrim1
+"Build porters here."
+End
+
+CONTROLBAR:ConstructHaradrim1
+"Porter House"
+End
+
+CONTROLBAR:ArchryLvl2
+"3x faster buildspeed"
+End
+
+CONTROLBAR:ArchryLvl3
+"9x faster buildspeed"
+End
+
+CONTROLBAR:ToolTipArrowsUpgraden
+"First purchase this one and than click the button again (+500 extra costs) to get the upgrade."
+End
+
+CONTROLBAR:ToolMirrorNew
+"Heals your units. It also helps to defend your towers against attacking creeps because of it's high health."
+End
+
+SCRIPT:INMISSION
+"In TowerWars your goal is to defend the creeps (the units which come in waves) from reaching the middle, as you see all units lead to the middle. You can do this by building towers and archer. In Maze TowerWars they have different strenght. As you build on the road now, and the creeps walk on the road, you can build a maze. Make sure the path through your towers is large enough. If you fail to kill a creep you lose a life. You'll receive money after each wave. See the counters for interesting information."
+End
+
+SCRIPT:INMISSION2
+"Maze TowerWars is created by PestControl (v.1.0 released at 13 may 2006). Previous maps released: TowerWars (till 15b, the others are edits made by others) and PvP TowerWars. They can both be downloaded at mevault.ign.com. You can also cast a vote on my maps there. As this map have a map.ini don't forget to restart your game after and before playing this map. It's recommend to set your graphic details lower for this map because it gives much lag. This map can also be played in single player."
+End

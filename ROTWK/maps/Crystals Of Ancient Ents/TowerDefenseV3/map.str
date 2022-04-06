@@ -1,0 +1,79 @@
+SCRIPT:INTRO1
+"TowerDefenseV3 -Normal-. Made by Buccane"
+End
+
+SCRIPT:INTRO2
+"Zerstört alle Wellen bevor sie ins Dorf kommen."
+End
+
+SCRIPT:INTRO3
+"Welle 1 kommt in 20 sec. Baut Türme."
+End
+
+SCRIPT:INTRO4
+"Bauen könnt ihr: Türme, Bogenschützen, Helden oder Katas."
+End
+
+SCRIPT:INTRO5
+"Nach jeder Welle bekommt ihr Geld. Und manchmal auch mehr Kommandopoints."
+End
+
+SCRIPT:INTRO6
+"Gebt alles."
+End
+
+SCRIPT:INTRO7
+"Goblins/Zwerge bekommen 20% mehr Geld, Isengard/Mordor +40%"
+End
+
+SCRIPT:INTRO8
+"Dieses mehr Geld, als Bonus nach jeder vierten Welle."
+End
+
+SCRIPT:INTRO9
+"Tipp: Stellt eure Einheiten in den attack mode."
+End
+
+SCRIPT:WAVE
+"Welle"
+End
+
+SCRIPT:KILLING
+"Geld fürs Zerstören dieser Welle"
+End
+
+SCRIPT:WARN1
+"Wellen werden härter ab Welle 11."
+End
+
+SCRIPT:WARN2
+"Nächste Welle, wird härter."
+End
+
+SCRIPT:MONEY11
+"Alle Isengard and Mordor Spieler bekommen 800"
+End
+
+SCRIPT:MONEY12
+"Alle Goblin und Zwergen Spieler bekommen 400"
+End
+
+SCRIPT:MONEY21
+"Alle Isengard and Mordor Spieler bekommen 2000"
+End
+
+SCRIPT:MONEY22
+"Alle Goblin und Zwergen Spieler bekommen 1000"
+End
+
+SCRIPT:MONEY31
+"Alle Isengard and Mordor Spieler bekommen 2900"
+End
+
+SCRIPT:MONEY32
+"Alle Goblin und Zwergen Spieler bekommen 1450"
+End
+
+area
+"Du verläßt deine Area!! Gehe nicht über Straßen."
+End

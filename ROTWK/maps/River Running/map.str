@@ -1,0 +1,35 @@
+SCRIPT:Intro1
+
+"Welcome to my map. The Map contains a river which can only be passed after 5 minutes, because it rained very much one day ago\n and the water flows down out of the mountains. Have Fun!!"
+
+END
+
+SCRIPT:Fluten
+
+"Now you can pass the river and attack your enemy!!!."
+
+END
+
+SCRIPT:Army
+
+"You get some new units for war! But this are only the first units. The whole Army will come later!"
+
+END
+
+SCRIPT:WA
+
+"Your Armies have arrived!! TO WAR!!!!"
+
+END
+ 
+SCRIPT:a
+
+"Time until Army arrives:"
+
+END
+
+SCRIPT:b
+
+"Time until you can pass the river:"
+
+END

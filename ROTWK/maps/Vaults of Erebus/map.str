@@ -1,0 +1,16 @@
+
+Map:VaultsofErebus/desc
+"The Underworld holds many riches, for those who wish to find it. Arid plains surround the pit of gold. ***By Puppeteer***"
+End
+
+SCRIPT:Intro 1
+"The Cross Roads of the Underworld. Put Units in the Centre to Gain Extra Gold."
+End
+
+SCRIPT:Intro 2
+"Made by Puppeteer \nGo to Istari Productions 2 for the Best Mappers"
+End
+
+SCRIPT:Timer
+"Game Starts In:"
+End

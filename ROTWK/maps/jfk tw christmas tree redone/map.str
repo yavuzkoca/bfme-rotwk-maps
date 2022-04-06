@@ -1,0 +1,36 @@
+SCRIPT:Wave
+"Mushroom Level:"
+END
+
+SCRIPT:PeaceTime
+"Mushroom Thieves Arrive In:"
+END
+SCRIPT:Intro0
+"Welcome!"
+END
+
+SCRIPT:Intro1
+"Word of power, tornado and earthshaker are disabled."  
+END
+
+SCRIPT:Intro2
+"The abilities of sorcerer and some other abilities of heroes have a long decay time."
+END
+
+SCRIPT:Intro3
+"If you dismounted your fellbeasts then you can't mount them again." 
+END
+
+SCRIPT:Intro4
+"You can put archers in Mordor towers."
+END
+
+SCRIPT:Intro5
+"The beacon shows you where the waves start."
+END
+
+
+SCRIPT:Intro6
+"Have fun!"
+END
+

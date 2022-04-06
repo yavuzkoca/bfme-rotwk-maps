@@ -1,0 +1,236 @@
+SCRIPT:SOIIntro01
+"At the northern border of Middle Earth, far beyond the lands of Angmar lies a stronghold named The Sanctum Of Insanity \n Having almost zero information about this Dark place, \n three heroes decide to explore the stronghold and see what lies inside this Evil Sanctum..."
+END
+
+SCRIPT:SOIIntro02
+"You hear a dark voice speaking to you... \n Lord Draenor: 'What? Visitors? You shall not disrupt my plans, leave now or face your doom, Mortals!\n Guards! Deal with these weaklings..."
+END
+
+SCRIPT:SOIIntro03
+"The rumors must be true, long ago a team of Dwarven stonecutters dissapeared, maybe they were forced to build these large stone halls..."
+END
+
+SCRIPT:SOIIntro04
+"The Dragon Wing"
+END
+
+SCRIPT:SOIDW01
+"Long ago, when Lord Draenor was still mortal he made a deal with the mighty dragon Nefarian, King of the Chromatic Brood \n Using Uruk-Hai to tame the Chromatic Dragons, Draenor succeeded in breeding a new army of fire and iron."
+END
+
+SCRIPT:SOIDW02
+"Rek'Mur The Dragontamer: Haha, fools, you should never have come here, It's feeding time!"
+END
+
+SCRIPT:SOIDW03
+"Drakes have been spawned"
+END
+
+SCRIPT:SOIDW04
+"Rek'Mur The Dragontamer: I...have...failed..."
+END
+
+SCRIPT:SOIDW05
+"Uruk Spectator: Kill! Kill! Kill! Kill!" \n Lord Draenor: Let the games begin..."
+END
+
+SCRIPT:SOIDW06
+"Commander Bloodhammer: Strangers, please help us, we are all that's left of the missing Dwarven Army."
+END
+
+SCRIPT:SOIDW07
+"Next Wave in"
+END
+
+SCRIPT:SOIDW08
+"Commander Bloodhammer: Stand fast men!"
+END
+
+SCRIPT:SOIDW09
+"Last wave in"
+END
+
+SCRIPT:SOIDW10
+"Commander Bloodhammer: You are Dwarves of the Blue Mountain, Stand and fight!"
+END
+
+SCRIPT:SOIDW11
+"Lord Draenor: You are starting to annoy me, you will die anyway... Vulcan will deal with you..."
+END
+
+SCRIPT:SOIDW12
+"Commander Bloodhammer: Allow me to introduce myself, my name's Bloodhammer, Commander of the 9th Expedition Army \n 8 years ago, me and my soldiers were taken prison inside this sanctum \n We were forced to build for Draenor, 1 month ago we were finished with our work. \n Some of us were fed to the drakes or were killed for pleasure."
+END
+
+SCRIPT:SOIDW13
+"Commander Bloodhammer: I will help you defeat this Evil Sorcerer, you have my word...\n But first we'll have to deal with Vulcan, follow me but watch your step, this could get ugly..."
+END
+
+SCRIPT:SOIDW14
+"Commander Bloodhammer: Chaaaaaaaaarge!"
+END
+
+SCRIPT:SOIDW15
+"Commander Bloodhammer: Take cover! Rain Of Fire!"
+END
+
+SCRIPT:SOIDW16
+"Vulcan The Bonemelter has been slain"
+END
+
+SCRIPT:SOIDW17
+"Commander Bloodhammer: "Good job, now let's get out of here!"
+END
+
+SCRIPT:SOIDW18
+"The Dragon Wing has been cleared. \n The Wight Wing has opened."
+END
+
+SCRIPT:SOIWW01
+"The Wight Wing"
+END
+
+SCRIPT:SOIWW02
+"Commander Bloodhammer: "I'll see if I can find any survivors inside these halls. \n But do not worry laddies, you're not rid of me yet!"
+END
+
+SCRIPT:SOIWW025
+"Animus The Souleater: Who dares to disturb the living dead? Don't you know death when you see it?"
+END
+
+SCRIPT:SOIWW03
+"Animus The Souleater: "To the eternal prison with you!"
+END
+
+SCRIPT:SOIWW04
+"Animus The Souleater: "Draenor binds me no longer...\n Thank...you..."
+END
+
+SCRIPT:SOIWW05
+"When looking at the graves you notice the tombstone of Animus, an old Numenorean King from the second age. \n Looks like Draenor is familiar with ressurecting the dead..."
+END
+
+SCRIPT:SOIWW06
+"Demonic Summoner: Intruders! Guards! Don't let them near us, the summoning isn't finished yet!"
+END
+
+SCRIPT:SOIWW07
+"A summoner has been slain, Karsh is about to be unleashed!"
+END
+
+SCRIPT:SOIWW08
+"Avatar Of Karsh: "Who dares summon me? I am Karsh, the greatest assasin of Angmar! \n My hands itch and my blades are sharpened!"
+END
+
+SCRIPT:SOIWW09
+"Avatar Of Karsch: I am put to rest...again..."
+END
+
+SCRIPT:SOIWW10
+"The Wight Wing has been cleared \n The Citadel has opened"
+END
+
+SCRIPT:SOIFW01
+"The Citadel"
+END
+
+SCRIPT:SOIFW02
+"Warlord Hellscream: Warriors! Tonight is the night,\n When Uruk and Dragon combine their strengths and invade the southern lands! \n Uruk Dragontamer: Warlord! We have company!"
+END
+
+SCRIPT:SOIFW03
+"Commander Bloodhammer: Attack! For the Blue Mountain!"
+END
+
+SCRIPT:SOIFW04
+"Commander Bloodhammer: Fight on...ugh... \n Warlord Hellscream: Hahaha, you're no match for me, who's next?"
+END
+
+SCRIPT:SOIFW05
+"Warlord Hellscream: "I will not fail my master, blades of death!"
+END
+
+SCRIPT:SOIFW06
+"Warlord Hellscream: "Master...forgive me... \n Lord Draenor: You fools, come and face me and prepare to die!"
+END
+
+SCRIPT:SOIFW07
+"Lord Draenor: You've slain my greatest commander... You've wiped out my entire army \n But does it matter? No, I will reform my armies... I will...\n Too bad you won't see that day..."
+END
+
+SCRIPT:SOIFW08
+"Lord Draenor:I was once a great commander of Arnor, but they betrayed me.\n They banished me from their lands and took all my pride.\n I was desperate and would do anything for my revenge, I decided to join the armies of Angmar, of The Witch King. \n He thought me the ways of dark magic, and some considered me to be a nazgul..."
+END
+
+SCRIPT:SOIFW09
+"Lord Draenor:I was no Nazgul, not a slave of Sauron.\n Yet I had the powers of one and the skills of a swordsman and archer. I decided to travel north,\n there I met The Chromatic Dragon Lord Nefarian, he granted me immortality and later I was given permission to use his brood..."
+END
+
+SCRIPT:SOIFW10
+"Lord Draenor:And still you wish to face me in my own lair? So be it, I shall have no mercy upon your souls..."
+END
+
+SCRIPT:SOIFW11
+"Lord Draenor: Die in black shadows!"
+END
+
+SCRIPT:SOIFW12
+"Nefarian: Who dares to disturb The King Of The Chromatic Brood? My fire will be the end of you!"
+END
+
+SCRIPT:SOIFW13
+"Gandalf The White: The game's over Lord Draenor, your sanctum is surrounded. Surrender and we will spare your life... \n Lord Draenor: Foolish greybeard, it's not my time yet, I will return! *Lord Aduphnel blinks*"
+END
+
+SCRIPT:SOIE01
+"King Aragorn: We are gathered here to celebrate our glorious victory,\n an army of dwarves and three noble heroes drove back the armies of The foul sorcerer Adunaphel\n Many of them lost their lives, one of those was Commander Bloodhammer, may his soul rest in peace..."
+END
+
+SCRIPT:SOIE02
+"King Aragorn: Unfortunatly, Lord Draenor could escape. \n He is crippled, but not destroyed. We must keep our eyes open so this can never happen again...\n Soldiers, you fought brave and I, King Aragorn, salute you!"
+END
+
+SCRIPT:SOIE03
+"To be continued... Made by WrathChild006 \n Special Thanks to: Beserkidiot and Alexyz"
+END
+
+CONTROLBAR:SpecialAbilityThunderBolt
+"Thunderblast"
+End
+
+CONTROLBAR:ToolTipSpecialAbilityThunderBolt
+"Recquires:Rank 4\nFires a mighty bolt of\nThunder which blasts back foes"
+End
+
+CONTROLBAR:Power7th
+"Power of the 7th"
+End
+
+CONTROLBAR:ToolTipPower7th
+"Recquires:Rank 6\nCall upon the 7th power\nTo blast back enemy forces"
+End
+
+CONTROLBAR:BlackWind
+"Black Arrow Wind"
+End
+
+CONTROLBAR:ToolTipBlackWind
+"Recquires:Rank 8\nFires a barrage of black\nArrows to destroy enemies"
+End
+
+CONTROLBAR:BlackArrow
+"Black Arrow"
+End
+
+CONTROLBAR:ToolTipBlackArrow
+"Recquires:Rank 2\nShoots a black arrow at foes\nblasting them back and\nCausing fear"
+End
+
+
+CONTROLBAR:BlackDestruction
+"Black Destruction"
+End
+
+CONTROLBAR:ToolTipBlackDestruction
+"Recquires:Rank 10\nFires a devastating projectile\nThat anihilates enemy forces"
+End

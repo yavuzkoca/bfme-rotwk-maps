@@ -1,0 +1,47 @@
+Main_Gate_1
+"The Western Gate has fallen into shadow! "
+End
+
+Main_Gate_2
+"The Eastern Gate has fallen into shadow! "
+End
+
+Second_Gate_1
+"The Western Gateway can hold no longer, the halls have been breached!"
+End
+
+Second_Gate_2
+"The Eastern Gateway can hold no longer, the halls have been breached!"
+End
+
+Side_Gate_1
+"They have entered the Mountain Pass!"
+End
+
+Side_Gate_2
+"The Mountain Pass has fallen to the enemy, the halls are no longer safe! "
+End
+
+Rubble_Clear
+"The baricade has been cleared, the Mountain pass is now open! "
+End
+
+begin credit
+"Brought to you by HEL Productions"
+End
+
+end credit
+" Thanks Now and Forever! Sincerely, Steve Campen (High Elven Lord)"
+End
+
+begin words
+"These lands have grown dark and cold..."
+End
+
+second words
+"But there is a light..."
+End
+
+third words
+" A small light in the darkness..."
+End

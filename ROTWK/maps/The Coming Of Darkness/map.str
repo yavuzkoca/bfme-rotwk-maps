@@ -1,0 +1,370 @@
+SCRIPT:2MCOUNTER
+"Lives left"
+END
+
+SCRIPT:HERORES1
+"Sam has been killed and ressurected,\n Lost 1 life."
+END
+
+SCRIPT:HERORES2
+"Pippin has been killed and ressurected,\n Lost 1 life."
+END
+
+SCRIPT:HERORES3
+"Merry has been killed and ressurected,\n Lost 1 life."
+END
+
+SCRIPT:2MIntro01
+"It's the annual Springfest in The Shire! The most peacefull refuge in Middle Earth \n The moon is full and it's close to midnight...\n What's that? Something is moving out of the forest!"
+END
+
+SCRIPT:2MIntro02
+"Karsh: I hope we're not interrupting?"
+END
+
+SCRIPT:2MIntro03
+"Flee! Run for your lives!"
+END
+
+SCRIPT:2MC101
+"You have to get out of there! Use your weapons when needed... \n HINT: Each hobbit has strengths and weaknesses, use them well..."
+END
+
+SCRIPT:2MCSAM
+"Sam: He is an excellent choice to take lethal hits"
+END
+
+SCRIPT:2MCPIPPIN
+"Pippin: His rocks never miss"
+END
+
+SCRIPT:2MCMERRY
+"Merry: Capable to mend even the deepest wounds"
+END
+
+SCRIPT:2MC102
+"Hobbit: Please! Somebody help me! \n Aaaaaaaah!"
+END
+
+SCRIPT:2MC103
+"The smell of horror awakens your senses, something is watching you..."
+END
+
+SCRIPT:2MC104
+"Princess Huhuran: It's feeding time!"
+END
+
+SCRIPT:2MC105
+"Princess Huhuran: My brood, aid me!"
+END
+
+SCRIPT:2MC106
+"Princess Huhuran: My nightmare is over... what a pitttyyyyy..."
+END
+
+SCRIPT:2MC201
+"Innocent Hobbit: What's going on? I'm scared, hey! Did you hear that?"
+END
+
+SCRIPT:2MC202
+"Werewolf: Can I have a taste?"
+END
+
+SCRIPT:2MC301
+"You notice that there's something behind these bushes..."
+END
+
+SCRIPT:2MC302
+"Ranger: Greetings hobbits, we are under constant attack by those abominations, this is madness! \n We are running low on supplies, we cannot hold these foul creatures any longer!"
+END
+
+SCRIPT:2MC303
+"Ranger Scout: Captain! They've returned!"
+END
+
+SCRIPT:2MC304
+"HINT: Go near the waterfall to heal your wounds..."
+END
+
+SCRIPT:2MC305
+"Next wave in"
+END
+
+SCRIPT:2MC306
+"Last wave in"
+END
+
+SCRIPT:2MC307
+"Ranger: Looks like they gave up the fight... for now... \n Now hurry hobbits, get out of here before more of them arrive!"
+END
+
+SCRIPT:2MC401
+"Tom Bombadil: The corruption is taking hold of me...\n Flee Hobbits, I cannot controll myself! I must unleash it!"
+END
+
+SCRIPT:2MC4015
+"Looks like the corruption got hold of some hobbits too...\n Put them out of their misery..."
+END
+
+SCRIPT:2MC402
+"Tom Bombadil: I... must... controll it..."
+END
+
+SCRIPT:2MC403
+"Tom Bombadil: You should've ran away when you still could..."
+END
+
+SCRIPT:2MC404
+"Tom Bombadil: Destroy you I will, Destroy you I must, Destroying you will feed my lust..."
+END
+
+SCRIPT:2MC405
+"Tom Bombadil: The Corruption binds me no longer, thank you hobbits...\n However... This curse must be lifted before it spreads far beyond The Shire,\n Karsh and his army must be stopped!"
+END
+
+SCRIPT:2MC406
+"Music runs through your ears, you smell the lovely scent of cinnamon\n This can only be one person... \n It's Tom Bombadil!"
+END
+
+SCRIPT:2MC407
+"Tom Bombadil: I must leave now, I will return when you are in dire need...\n Old Tom Bombadillo, bright blue his jacket is and his boots are yellow!"
+END
+
+SCRIPT:2MC501
+"Sam: It's quiet, too quiet..."
+END
+
+SCRIPT:2MC502
+"Entering this place sends a chill down your spine, death lingers here..."
+END
+
+SCRIPT:2MC601
+"Funerus The Deathspeaker: What do we have here? Soldiers, do not let them destroy our plans! \n Darkness falls over Middle Earth!"
+END
+
+SCRIPT:2MC602
+"Funerus The Deathspeaker: I'll have to come down there and deal with you myself...\n I will enjoy this..."
+END
+
+SCRIPT:2MC603
+"Funerus The Deathspeaker: Karsh is just a part of my great plan, \n My army will conquer Middle Earth and a new age will begin...\n An age of Darkness!"
+END
+
+SCRIPT:2MC604
+"Funerus The Deathspeaker: That isn't part...of...the plan..."
+END
+
+SCRIPT:2MC701
+"Red Riding Hood: I'm waiting for my boyfriend for 30 minutes now,\n Hmmmm, I guess I'll just have to please myself in killing you!"
+END
+
+SCRIPT:2MC702
+"Red Riding Hood: My cubs, feast on their Hobbit flesh!"
+END
+
+SCRIPT:2MC703
+"Red Riding Hood: My darling, you're here! You're just in time for the kill!\nThe Big Bad Wolf: Who is afraid of The Big...Bad\n Wolf..."
+END
+
+SCRIPT:2MC704
+"Big Bad Wolf enrages in"
+END
+
+SCRIPT:2MC705
+"The Big Bad Wolf: I'm sorry, our love wasn't meant to last!..."
+END
+
+SCRIPT:2MC706
+"Red Riding Hood: Avenge me... Sweatheart..."
+END
+
+SCRIPT:2MC707
+"Big Bad Wolf: At least I'm single again..."
+END
+
+SCRIPT:2MC801
+"Sam: Something's coming this way, get down!"
+END
+
+SCRIPT:2MC802
+"Merry: The corruption is getting stronger as we speak,\n we need to hurry!"
+END
+
+SCRIPT:2MC901
+"Pippin: So much for a warm welcome..."
+END
+
+SCRIPT:2MC902
+"Hold Corrupted Hobbits' Attack for"
+END
+
+SCRIPT:2MC903
+"Merry: I see we're in the middle of a troublesome situation..."
+END
+
+SCRIPT:2MC904
+"Pippin: Rangers!"
+END
+
+SCRIPT:2MC905
+"Sam: We're almost there now, lets keep up the pace!"
+END
+
+SCRIPT:2MC1001
+"You can feel it, you are close to the heart of the corruption...\n Karsh must be here..."
+END
+
+SCRIPT:2MC1002
+"Karsh: You are too late Halflings...\n The corruption has infested The Shire and will soon spread far beyond it's borders...\n My power has grown tremendously, you cannot defeat me and my army with just the 3 of you!"
+END
+
+SCRIPT:2MC1003
+"Tom Bombadil: Come on hobbits! Time to lend our friends some help!"
+END
+
+SCRIPT:2MC1004
+"Karsh: So be it, my army of shadow will consume you!"
+END
+
+SCRIPT:2MC1005
+"Karsh enrages in"
+END
+
+SCRIPT:2MC1006
+"Karsh is weakened in"
+END
+
+SCRIPT:2MC1007
+"Hobbit sacrifice in"
+END
+
+SCRIPT:2MC1007
+"Karsh is weakened"
+END
+
+SCRIPT:2MC1008
+"Let the rituals...begin..."
+END
+
+SCRIPT:2MC1009
+"Karsh: Finally! The corruption is complete... No weapon can harm me any longer!"
+END
+
+SCRIPT:2MC1010
+"Karsh: Death...\n Pain...\n Destruction...\n Chaos...\n All over now..."
+END
+
+SCRIPT:2MC1011
+"By destroying Karsh, the corruption has faded,\n The Shire and the rest of Middle-Earth can continue live in peace...\n But... for how long?"
+END
+
+SCRIPT:2MC1012
+"Made by members of Istari Productions.\n We hope you enjoyed it :)"
+END
+
+SCRIPT:2MC1013
+"Tom Bombadil: Oooh, no more partying for Old Bombadillo...\n I hate... bad endings..."
+END
+
+Sam
+"----------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:Resist
+"Resist"
+END
+CONTROLBAR:ToolTipResist
+"Raises Sam's armor\n for a short period\n of time."
+END
+
+CONTROLBAR:DemoralisingShout
+"Demoralising Shout"
+END
+CONTROLBAR:ToolTipDemoralisingShout
+"Sam his shouts of rage\n demoralise the enemy\n lowering their\n damage and armor."
+END
+
+CONTROLBAR:Stomp
+"Stomp"
+END
+CONTROLBAR:ToolTipStomp
+"Sam stomps on the ground\n Causing a shockwave which deals damage\n and knocksback the enemies\n around him."
+END
+
+CONTROLBAR:HeroicStrike
+"Heroic Strike"
+END
+CONTROLBAR:ToolTipHeroicStrike
+"A heroic blow which deals severe damage."
+END
+
+CONTROLBAR:AdrenalineRush
+"Adrenaline Rush"
+END
+CONTROLBAR:ToolTipAdrenalineRush
+"Sam gets filled with adrenaline\n permanently raising\n his health."
+END
+
+Pippin
+"---------------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:RapidFire
+"Rapid Fire"
+END
+CONTROLBAR:ToolTipRapidFire
+"Increases Pippin's attack speed\n and damage of his rocks."
+END
+
+CONTROLBAR:Volley
+"Volley"
+END
+CONTROLBAR:ToolTipVolley
+"Pippin launches a volley of rocks\n hurting enemies in a certain area."
+END
+
+CONTROLBAR:SilverRock
+"Silver Rock"
+END
+CONTROLBAR:ToolTipSilverRock
+"Available in sword mode only\nPippin throws a rock made of pure silver\n The rock deals severe damage\n to all Dark units."
+END
+
+Merry
+"---------------------------------------------------------------------------------------------------"
+END
+
+CONTROLBAR:PoH
+"Prayer Of Healing"
+END
+CONTROLBAR:ToolTipPoH
+"Mends allies in a certain area."
+END
+
+CONTROLBAR:PoF
+"Prayer Of Fortitude"
+END
+CONTROLBAR:ToolTipPoF
+"Raises the health of Merry and allies around him"
+END
+
+CONTROLBAR:BoP
+"Blessing Of Protection"
+END
+CONTROLBAR:ToolTipBoP
+"Merry is able to encase allies and himself\n into a protecting barrier\n making them immune\n to all damage for\n a short time."
+END
+
+CONTROLBAR:HolyLight
+"Holy Light"
+END
+CONTROLBAR:ToolTipHolyLight
+"Merry casts a divine light on an enemy\n causing severe damage."
+END
+
+CONTROLBAR:Smite
+"Smite"
+END
+CONTROLBAR:ToolTipSmite
+"Merry gathers all his powers\n and smites all enemy targets around him.\n Causing severe damage\n and knocks back enemies."
+END

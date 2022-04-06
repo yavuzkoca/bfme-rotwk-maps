@@ -1,0 +1,127 @@
+SCRIPT:Intro1
+"ok bump \n - \n  Welcome to Tastys brutal towerwars. These waves are extremely hard, play as a team to claim victory."
+END
+
+SCRIPT:Intro2
+"ok bump \n - \n Some hero powers recharge slowly, some more quickly. Furthermore, Dominate, Skulls and siege bombard are disabled."
+END
+
+SCRIPT:StartGame
+"Mushroom Thieves Arrive In:"
+END
+
+SCRIPT:Wave
+"Wave:"
+END
+
+CONTROLBAR:FighterEagle
+"Fighter Eagle"
+End
+
+CONTROLBAR:FighterDescription
+"Small Fast Eagle."
+End
+
+CONTROLBAR:EAGLEGATHERING
+"Eagle Gathering"
+End
+
+CONTROLBAR:EAGLEGATHERERINGINFO
+"Recruit Eagles To Join Your Cause."
+End
+
+CONTROLBAR:TransporterEagle
+"Transporter Eagle"
+End
+
+CONTROLBAR:TransporterDescription
+"Slower Eagle That Transports Up To 2 Units."
+End
+
+OBJECT:EAGLEGATHERING
+"Eagle Gathering"
+End
+
+OBJECT:EAGLEGATHERERINGINFO
+"Recruit Eagles To Join Your Cause."
+End
+
+OBJECT:ElvenBarracksDescription
+"Gathering Of Eagles"
+END
+
+CONTROLBAR:BomberEagle
+"Kamakazi Eagle"
+End
+
+CONTROLBAR:BomberDescription
+"Kickass Kamakazi Eagle"
+End
+
+CONTROLBAR:IceEagle
+"Stun Eagle"
+End
+
+CONTROLBAR:IceDescription
+"Stuns Your Enemies For A Short Duration."
+End
+
+CONTROLBAR:TestName
+"Stun Nazgul"
+End
+
+CONTROLBAR:IceNazgul
+"Stun Nazgul"
+End
+
+CONTROLBAR:IceNazgulDescription
+"Stuns Your Enemies For A Short Duration."
+End
+
+CONTROLBAR:FighterNazgul
+"Fighter Nazgul"
+End
+
+CONTROLBAR:FighterNazgulDescription
+"Small Fast Nazgul."
+End
+
+CONTROLBAR:TransporterNazgul
+"Transporter Nazgul"
+End
+
+CONTROLBAR:TransporterNazgulDescription
+"Slower Nazgul That Transports Up To 2 Units."
+End
+
+CONTROLBAR:BomberNazgul
+"Kamakazi Nazgul"
+End
+
+CONTROLBAR:BomberNazgulDescription
+"Kickass Kamakazi Nazgul"
+End
+
+CONTROLBAR:NAZGULGATHERING
+"Nazgul Gathering"
+End
+
+CONTROLBAR:NAZGULGATHERERINGINFO
+"Recruit Nazguls To Join Your Cause."
+End
+
+CONTROLBAR:BuffNazgul
+"Buff Nazgul"
+End
+
+CONTROLBAR:BuffNazgulDescription
+"Gives Leadership Bonus To Units Nearby."
+End
+
+CONTROLBAR:BuffEagleDescription
+"Gives Leadership Bonus To Units Nearby."
+End
+
+CONTROLBAR:BuffEagle
+"Buff Eagle"
+End

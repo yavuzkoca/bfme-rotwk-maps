@@ -1,0 +1,16 @@
+SCRIPT:King Arveleg comes
+"King Arveleg fights for team 1-4"
+End
+
+SCRIPT:King Arveleg
+"King Arveleg fights for team 5-8"
+End
+
+SCRIPT:Sauron
+"Both players can control Sauron"
+End
+
+SCRIPT:Sauron talks
+"Too long has this battle lasted. Now they shall suffer me."
+End
+

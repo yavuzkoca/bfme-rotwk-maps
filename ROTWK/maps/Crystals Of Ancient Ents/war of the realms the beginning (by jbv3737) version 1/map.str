@@ -1,0 +1,784 @@
+Map:WarOfTheRealmsTheBeginning(ByJBV3737)Version1/Desc
+"Before Even The First Age There Was a Divine Race Called the Valar, These Valar Can Create Anything They Wish, They Hold a Tournament Of War Of The Realms, In Which Each Valar Creates A Realm Which Can Battle Among The Other Realms For Victory, Read The Maps Full Description For Info And Rules.\nMade By JBV3737\nVisit www.istariproductions.co.nr For More Maps!\n\nWhen Ring Heroes Are on The Intro Lesson Is Enabled, To Skip the Intro Lesson Turn of Ring Heroes!\n\nVITAL NOTE: TO PREVENT OUT OF SYNCH\nBefore Starting Ask Everyone if they have a clean INI.file, and they just restarted there bfme2 game by exiting it and restarting it up. Aswell check for Extreme Laggers which will be very hard to transfer and load the large map!\n\nRules and Gameplay:\n1. Valar can not be attacked or Hurt\n2. Valar Can not attack anything.\nGameplay: making Alliances Costs 1000$ and 500$ to Break, Units do Spawn In Each Realm But Each Realm has a way of Building Units.\n\nOut Of Synch Note:\n Almost all cases of “Out of Synch” is caused by players having different version ini.files while playing each other online (Another example of this is cheaters/hackers). INI.files are the part of the game that makes units have there abilities, attack and armor the images, everything in the game that needs to be put in place. the ini.file puts it there. It goes Out Of Synch because Two or more players don’t match each others ini.files, how is this? By playing a Map that has a ini.file override, maps such as Ring Wars, My Gladiator Underworld Series And Also This Map by me, Or any map that changes and has a ini.file, It is alright to repeat a map that has the same ini.file. But that is not the problem and is not the cause of the problem, its the version of the ini.file does not go back to its default form after a game. How to Avoid Out of synch all together is to get EVERYONE(You too) To Or Has just Restarted Their hole Battle For Middle Earth 2 Game before joining and playing this map, or any map! Laggers can also make out of synch, I suggest you find people that have very good connections before trying to Play, Transferand Load this map!"
+End
+
+SCRIPT:Intro1
+"Made By JBV3737"
+End
+
+SCRIPT:Intro2
+"Welcome, The War Of The Realms Is About To Be Created\nI hope You All Have Clean INI.files To Prevent Out Of Synch\nFor More Info On How To Prevent It Read The Maps Full Description For Info In The Host Game Menu Map Description!"
+End
+
+SCRIPT:Intro3
+"This Map Is Can Be Very Laggy I Suggest Everyone Have There Graphics Set Lower So Their Computer Can Run Smoothly\nLag Can Be a Big Problem In War Of The Realms So I Suggest the Host to Keep Laggers From Playing."
+End
+
+SCRIPT:MapLessonMessage1
+"Heroes Have Endless Lives, They Respawn In 5 Minutes After Death\nBalrog Respawns In 30 Minutes After Death And Arrives 10 Minutes After The Starting Of The Game.\nUnits Do Spawn In Each Realm And Each Realm has a way of Building Units.\nLairs Can Be Destroyed But There Rubble Cannot, They will Always Rebuild After a Long Time."
+End
+
+SCRIPT:MapLessonMessage2
+"Buildings Are Free For Several Realms But Constructing Time Is Slow\nI Suggest you Build As Much As You Can Right Away.\nIf This Map Goes Out Of Synch, PLEASE Read The Maps Full Description\nFor Info In The Host Game Menu Map Description And Learn Why It Did!"
+End
+
+SCRIPT:MapMessage1
+"Made By JBV3737\nEnjoy Your Self Here, And Please Keep Your INI.files Clean\nRESTART YOUR ENTIRE Battle For Middle Earth 2 Game Before Going On To Play Another Map Or This Map!"
+End
+
+SCRIPT:LessonIntro1
+"Ring Heroes are Active, W.o.R. Lesson Activated, The Host must have Ring Heroes turned Off to skip the lesson.\nEach Realm gets 1 Valar, the Valar can not be attacked or killed nor they can not attack or kill.\nThe Valar are used for making Alliances and Declaring war by Breaking Alliances.\nLets begin with Alliances, Please Stay Attention If You are New to This Map!"
+End
+
+SCRIPT:LessonIntro2
+"The Valar do all of the Alliances, The Valar asking for the Alliance Must Go on the ''A Sqaure'' of the Desired \n Realm, The Other Realm Must Accept the Alliance. Here is a Scenario Of Earth Realm Making an Alliance \n With Fire Realm. Making an Alliance Costs 1000$ from each Realms In The Alliance. The Alliance will not happen \n Untill Fire Realm Has Accepted the Alliance, Fire Realm’s Valar must go on their ''X Sqaure'' to accept the Alliance."
+End
+
+SCRIPT:LessonIntro3
+"Fire Realm Can Now Decide Weather or not to make the Alliance. If you do accept be Careful, any ally may Breaking An Alliance \n on you at Any Time they wish. You may also do the same by moving your Valar over the desired Ally Realm '' W Sqaure '' \n Breaking An Alliance does not Require your Ally’s Valar to be on his Realm’s ''X Sqaure''." 
+End
+
+SCRIPT:LessonIntro4
+"How you Break an Alliance Is By Moving your Valar over the Desired Ally’s ''W Sqaure'' \n Earth Realm Will now Declare War On Fire Realm."
+End
+
+SCRIPT:LessonIntro5
+"Each Realm Has a Spacial Unit or Fortress In which If Destroyed will Destroy the Entire Realm! They Must Be Defended \n In War Of The Realms You must defeat your Enemies Fortress Or Spacial Unit That Represent that Realm \n I Will Now Show You Them, These Will Not Be The Real Ones,  They Are Only For showing You what They Look Like."
+End
+
+SCRIPT:LessonIntro6  
+"The Lesson Of War Of The Realms Basics Is Over, I Will Now Give you all Control over your Realms, Have FUN!\n I Will Show Some More Messages While you are playing About other Minor Rules and Gameplay.\nI hope that you all have clean INI.files So Out Of Synch is not a problem, \n FOR MORE INFO READ THE MAP DESCRIPTION IN HOST GAME/LOBBY/JOIN GAME ROOM MENU! "
+End
+
+SCRIPT:LessonP1Fort
+"This Is The Earth Realm's Fortress, It Has Medium Health But Auto Rebuilds Very Fast. \n If you are Earth Realm And This Dies, You Lose."
+End
+
+SCRIPT:LessonP2Fort
+"This Is Fire Realm’s Mother Dragon, Very Powerful \n Good Armor, Has Two Abilities to Help Her Realm. \n If you are Fire Realm And She Dies, You Lose."
+End
+
+SCRIPT:LessonP3Fort
+"This Is The Beast Realm’s Fortress, It Has Lots Of Health \n Rebuilds Slow, And Can Build Several Types Of Troll Units. \n If you are Beast Realm And This Dies, You Lose."
+End
+
+SCRIPT:LessonP4Fort
+"This Is The Green Realm’s Fortress, It Has The Most Health And Armor \n It Does not Rebuild! You Must Use The Rebuild Spell Book Power To Heal it. \n If you are Green Realm And This Dies, You Lose."
+End
+
+SCRIPT:LessonP5Fort
+"This Is The Harad Realm’s Fortress, It Has The Good Health And Does Rebuilds Over Time. \n If you are Harad Realm And This Dies, You Lose."
+End
+
+SCRIPT:LessonP6Fort
+"This Is Spider Realm’s Arctherna, Also known as Mother Spider, Very Powerful \n Very Good Armor, Has Several Abilities to Help Her Realm. \n If you are Spider Realm And She Dies, You Lose."
+End
+
+SCRIPT:LessonIntroFakeAlliance
+"Earth Realm And Fire Realm Would Now Have Formed An Alliance \n An Alliance Costs 1000$ From Each Realm Of The Alliance. \n If One Or More Of The Realms Do Not Have 1000$ The Alliance Will Not Be Made"
+End
+
+SCRIPT:LessonIntroFakeWar
+"Earth Realm And Fire Realm Would Now Have Broken Their Alliance \n An Broken An Alliance Costs 500$ From The Realm That Wants To Break The Alliance. \n If The Realm That Wants to Break The Alliance Does Not Have 500$ The Alliance Will Not Be Broken."
+End
+
+TimeUntillStart
+"Time Untill Intro Finishes"
+End
+
+LessonTimer
+"Time Untill W.o.R. Lesson Finishes"
+End
+
+PlayersHurt
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+Player1Hurt1
+"Earth Realms Fortress Is Half Health! If It Is Destroyed Earth Realm Will Perish!"
+End
+Player1Hurt2
+"WARNING: Earth Realms Fortress Is Almost Destroyed! If It Is Destroyed Earth Realm Will Perish!"
+End
+
+Player2Hurt1
+"Fire Realms Mother Dragon Is Half Health! If It Is Destroyed Fire Realm Will Perish!"
+End
+Player2Hurt2
+"WARNING: Fire Realms Mother Dragon Is Almost Destroyed! If It Is Destroyed Fire Realm Will Perish!"
+End
+
+Player3Hurt1
+"Beast Realms Fortress Is Half Health! If It Is Destroyed Beast Realm Will Perish!"
+End
+Player3Hurt2
+"WARNING: Beast Realms Fortress Is Almost Destroyed! If It Is Destroyed Beast Realm Will Perish!"
+End
+
+Player4Hurt1
+"Green Realms Fortress Is Half Health! If It Is Destroyed Green Realm Will Perish!"
+End
+Player4Hurt2
+"WARNING: Green Realms Fortress Is Almost Destroyed! If It Is Destroyed Green Realm Will Perish!"
+End
+
+Player5Hurt1
+"Harad Realms Fortress Is Half Health! If It Is Destroyed Harad Realm Will Perish!"
+End
+Player1Hurt2
+"WARNING: Harad Realms Fortress Is Almost Destroyed! If It Is Destroyed Harad Realm Will Perish!"
+End
+
+Player6Hurt1
+"Spider Realms Mother Spider Is Half Health! If It Is Destroyed Spider Realm Will Perish!"
+End
+Player6Hurt2
+"WARNING: Spider Realms Mother Spider Is Almost Destroyed! If It Is Destroyed Spider Realm Will Perish!"
+End
+
+P1 Alliances/Enemies
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+p1p2ally
+"Earth Realm Has Formed \n An Alliance With Fire Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p1p2enemy
+"Earth Realm Has Declared \n War With Fire Realm \n 500$ Has Been Taken From Earth Realm."
+End
+
+p1p3ally
+"Earth Realm Has Formed \n An Alliance With Beast Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p1p3enemy
+"Earth Realm Has Declared \n War With Beast Realm \n 500$ Has Been Taken From Earth Realm."
+End
+
+p1p4ally
+"Earth Realm Has Formed \n An Alliance With Green Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p1p4enemy
+"Earth Realm Has Declared \n War With Green Realm \n 500$ Has Been Taken From Earth Realm."
+End
+
+p1p5ally
+"Earth Realm Has Formed \n An Alliance With Harad Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p1p5enemy
+"Earth Realm Has Declared \n War With Harad Realm \n 500$ Has Been Taken From Earth Realm."
+End
+
+p1p6ally
+"Earth Realm Has Formed \n An Alliance With Spider Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p1p6enemy
+"Earth Realm Has Declared \n War With Spider Realm \n 500$ Has Been Taken From Earth Realm."
+End
+
+
+
+
+P2 Alliances/Enemies
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+p2p1ally
+"Fire Realm Has Formed \n An Alliance With Earth Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p2p1enemy
+"Fire Realm Has Declared \n War With Earth Realm \n 500$ Has Been Taken From Fire Realm."
+End
+
+p2p3ally
+"Fire Realm Has Formed \n An Alliance With Beast Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p2p3enemy
+"Fire Realm Has Declared \n War With Beast Realm \n 500$ Has Been Taken From Fire Realm."
+End
+
+p2p4ally
+"Fire Realm Has Formed \n An Alliance With Green Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p2p4enemy
+"Fire Realm Has Declared \n War With Green Realm \n 500$ Has Been Taken From Fire Realm."
+End
+
+p2p5ally
+"Fire Realm Has Formed \n An Alliance With Harad Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p2p5enemy
+"Fire Realm Has Declared \n War With Harad Realm \n 500$ Has Been Taken From Fire Realm."
+End
+
+p2p6ally
+"Fire Realm Has Formed \n An Alliance With Spider Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p2p6enemy
+"Fire Realm Has Declared \n War With Spider Realm \n 500$ Has Been Taken From Fire Realm."
+End
+
+
+P3 Alliances/Enemies
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+p3p1ally
+"Beast Realm Has Formed \n An Alliance With Earth Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p3p1enemy
+"Beast Realm Has Declared \n War With Earth Realm \n 500$ Has Been Taken From Beast Realm."
+End
+
+p3p2ally
+"Beast Realm Has Formed \n An Alliance With Fire Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p3p2enemy
+"Beast Realm Has Declared \n War With Fire Realm \n 500$ Has Been Taken From Beast Realm."
+End
+
+p3p4ally
+"Beast Realm Has Formed \n An Alliance With Green Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p3p4enemy
+"Beast Realm Has Declared \n War With Green Realm \n 500$ Has Been Taken From Beast Realm."
+End
+
+p3p5ally
+"Beast Realm Has Formed \n An Alliance With Harad Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p3p5enemy
+"Beast Realm Has Declared \n War With Harad Realm \n 500$ Has Been Taken From Beast Realm."
+End
+
+p3p6ally
+"Beast Realm Has Formed \n An Alliance With Spider Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p3p6enemy
+"Beast Realm Has Declared \n War With Spider Realm \n 500$ Has Been Taken From Beast Realm."
+End
+
+P4 Alliances/Enemies
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+p4p1ally
+"Green Realm Has Formed \n An Alliance With Earth Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p4p1enemy
+"Green Realm Has Declared \n War With Earth Realm \n 500$ Has Been Taken From Green Realm."
+End
+
+p4p2ally
+"Green Realm Has Formed \n An Alliance With Fire Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p4p2enemy
+"Green Realm Has Declared \n War With Fire Realm \n 500$ Has Been Taken From Green Realm."
+End
+
+p4p3ally
+"Green Realm Has Formed \n An Alliance With Beast Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p4p3enemy
+"Green Realm Has Declared \n War With Beast Realm \n 500$ Has Been Taken From Green Realm."
+End
+
+p4p5ally
+"Green Realm Has Formed \n An Alliance With Harad Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p4p5enemy
+"Green Realm Has Declared \n War With Harad Realm \n 500$ Has Been Taken From Green Realm."
+End
+
+p4p6ally
+"Green Realm Has Formed \n An Alliance With Spider Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p4p6enemy
+"Green Realm Has Declared \n War With Spider Realm \n 500$ Has Been Taken From Green Realm."
+End
+
+P5 Alliances/Enemies
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+p5p1ally
+"Harad Realm Has Formed \n An Alliance With Earth Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p5p1enemy
+"Harad Realm Has Declared \n War With Earth Realm \n 500$ Has Been Taken From Harad Realm."
+End
+
+p5p2ally
+"Harad Realm Has Formed \n An Alliance With Fire Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p5p2enemy
+"Harad Realm Has Declared \n War With Fire Realm \n 500$ Has Been Taken From Harad Realm."
+End
+
+p5p3ally
+"Harad Realm Has Formed \n An Alliance With Beast Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p5p3enemy
+"Harad Realm Has Declared \n War With Beast Realm \n 500$ Has Been Taken From Harad Realm."
+End
+
+p5p4ally
+"Harad Realm Has Formed \n An Alliance With Green Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p5p4enemy
+"Harad Realm Has Declared \n War With Green Realm \n 500$ Has Been Taken From Harad Realm."
+End
+
+p5p6ally
+"Harad Realm Has Formed \n An Alliance With Spider Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p5p6enemy
+"Harad Realm Has Declared \n War With Spider Realm \n 500$ Has Been Taken From Harad Realm."
+End
+
+P6 Alliances/Enemies
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+p6p1ally
+"Spider Realm Has Formed \n An Alliance With Earth Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p6p1enemy
+"Spider Realm Has Declared \n War With Earth Realm \n 500$ Has Been Taken From Spider Realm."
+End
+
+p6p2ally
+"Spider Realm Has Formed \n An Alliance With Fire Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p6p2enemy
+"Spider Realm Has Declared \n War With Fire Realm \n 500$ Has Been Taken From Spider Realm."
+End
+
+p6p3ally
+"Spider Realm Has Formed \n An Alliance With Beast Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p6p3enemy
+"Spider Realm Has Declared \n War With Beast Realm \n 500$ Has Been Taken From Spider Realm."
+End
+
+p6p4ally
+"Spider Realm Has Formed \n An Alliance With Green Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p6p4enemy
+"Spider Realm Has Declared \n War With Green Realm \n 500$ Has Been Taken From Spider Realm."
+End
+
+p6p5ally
+"Spider Realm Has Formed \n An Alliance With Harad Realm \n 1000$ From Each Realm Has Been Taken."
+End
+p6p5enemy
+"Spider Realm Has Declared \n War With Harad Realm \n 500$ Has Been Taken From Spider Realm."
+End
+
+
+Hero Spawns/Timers
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+P1LurtzRespawnTimer
+"Earth Realm's Lurtz Returns In"
+End
+P1LurtzDeath
+"Lurtz Has Been Destroyed"
+End
+P1LurtzReturn
+"Lurtz Has Arrived To Fight For The Earth Realm!"
+End
+
+
+P1UglukRespawnTimer
+"Earth Realm's Ugluk Returns In"
+End
+P1UglukDeath
+"Ugluk Has Been Destroyed"
+End
+P1UglukReturn
+"Ugluk Has Arrived To Fight For The Earth Realm!"
+End
+
+P2BalrogSpawn
+"Fire Realm's Balrog Returns In"
+End
+P2BalrogArrive
+"The Mighty Balrog Has Arrived To Fight For The Fire Realm!"
+End
+BalrogDeath
+"The Mighty Balrog Has Been Destroyed"
+End
+
+P3GorzakRespawnTimer
+"Beast Realm's Gorzak Returns In"
+End
+P3GorzakDeath
+"Gorzak Has Been Destroyed"
+End
+P3GorzakReturn
+"Gorzak Has Arrived To Fight For The Beast Realm!"
+End
+
+P4LegolasArrive
+"Legolas Has Arrived To Fight For The Green Realm!"
+End
+P4LegolasRespawnTimer
+"Green Realm's Legolas Returns In"
+End
+P4LegolasDeath
+"Legolas Has Been Destroyed"
+End
+
+P4ThranduilArrive
+"King Thranduil Has Arrived To Fight For The Green Realm!"
+End
+P4ThranduilRespawnTimer
+"Green Realm's Thranduil Returns In"
+End
+P4ThranduilDeath
+"King Thranduil Has Been Destroyed"
+End
+
+P4ElrondArrive
+"Elrond Has Arrived To Fight For The Green Realm!"
+End
+P4ElrondRespawnTimer
+"Green Realm's Elrond Returns In"
+End
+P4ElrondDeath
+"Elrond Has Been Destroyed"
+End
+
+P4WizardEntArrive
+"The Wizard Ent Has Arrived To Fight For The Green Realm!"
+End
+P4WizardEntRespawnTimer
+"Green Realm's Wizard Ent Returns In"
+End
+P4WizardEntDeath
+"Wizard Ent Has Been Destroyed"
+End
+
+
+P5VarilRespawnTimer
+"Harad Realm's Varil Returns In"
+End
+P5VarilDeath
+"Varil Has Been Destroyed"
+End
+P5VarilReturn
+"Varil Has Arrived To Fight For The Harad Realm!"
+End
+
+P6ShelobRespawnTimer
+"Spider Realm's Shelob Returns In"
+End
+P6ShelobDeath
+"Shelob Has Been Destroyed"
+End
+P6ShelobReturn
+"Shelob Has Arrived To Fight For The Spider Realm!"
+End
+
+Fire Realm
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:RedWordOfPower
+"Word Of Hell"
+End
+CONTROLBAR:ToolTipRedWordOfPower
+"Make Balrog Bring Forth The Fires Of The Underworld Unto Himself To Destroy all Surrounding Enemies.\nLeft Click To Activate."
+End
+
+CONTROLBAR:DragonBladeMaster
+"Fiery Rage"
+End
+CONTROLBAR:ToolTipDragonBladeMaster
+"Gives The Dragon +50% Armor\n+50% Damage\n+100% Faster\nLeft Click To Activate."
+End
+
+CONTROLBAR:DragonSpawnFireDrakes
+"Roar Of The Guardians Drakes"
+End
+CONTROLBAR:TooltipDragonSpawnFireDrakes
+"Spawn Three Guardian Fire Drakes\nLeft Click On Image Then Left Click On An Area To Activate."
+End
+
+Green Realm
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:WizardEntBladeMaster
+"Sentinel Of Growth"
+End
+CONTROLBAR:ToolTipWizardEntBladeMaster
+"Required: Rank 3\nCreates A Growth Spell That Temporary Gives  + 400% Armor And Weapon Bonuses. While Active The Ent Can Not\nMove To A New Location.\nLeft Click To Activate."
+End
+
+CONTROLBAR:WizEntWave
+"Word Of The Ents"
+End
+CONTROLBAR:ToolTipWizEntWave
+"Required: Rank 5\nA Shockwave Of Power That Damages Surrounding Enemies\nLeft Click To Activate."
+End
+
+CONTROLBAR:ToggleElvenWarriorHordeFormation
+"Guardian Formation"
+End
+CONTROLBAR:ToolTipToggleElvenWarriorHordeFormation
+"When In Guardian Formation The Elven Warriors Resist Fear And Have Armor +25%, -75% Speed.\nLeft Click To Enable."
+End
+
+CONTROLBAR:ConstructElvenMallornTree1
+"Build Mallorn Tree"
+END
+CONTROLBAR:ToolTipMallornTree1
+"Generates Resources \n Higher Levels Grant More Income And Health"
+END
+
+CONTROLBAR:ToolTipEregionForge1
+"Researches Elven Unit Upgrades \n Generates More Income \n Starts At Level 3"
+END
+
+Spider Realm
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:ConstructBlueSpider
+"Construct Giant Blue Spider"
+End
+CONTROLBAR:ToolTipBuildBlueSpider
+"Construct A Giant Blue Spider, Very Poisonous, Good Against Swordsmen And Taking Down Big Beasts, Weak Vs Fire, Pikemen and Heroes."
+End
+
+CONTROLBAR:ConstructRandomSpiderling
+"Construct Random Spiderling"
+End
+CONTROLBAR:ToolTipBuildRandomSpiderling
+"Construct A Random Spiderling, Some Are Very Poisonous, Some Have Good Health."
+End
+
+CONTROLBAR:ConstructSpider1
+"Construct Guardian Spider"
+End
+CONTROLBAR:ToolTipBuildSpider1
+"Construct A Armored Guardian Spider That Is Not Poisonous But Very Powerful, Good Against Gates And Buildings"
+End
+
+CONTROLBAR:WildShelobPoisonedStinger1
+"Poison Spray"
+End
+CONTROLBAR:ToolTipWildShelobPoisonedStinger1
+"Sprays Deadly Poison At A Target That Causes Extreme Damage Over Time In a Medium Area Radius Around The Target.\nLeft Click On Image Then Left Click On A Enemy Target To Activate. "
+End
+
+CONTROLBAR:SpawnBlueSpiders
+"Giant Blue Spiders"
+End
+CONTROLBAR:TooltipSpawnBlueSpiders
+"Spawn Eight Giant Blue Spiders\nLeft Click On Image Then Left Click On An Area To Activate."
+End
+
+CONTROLBAR:WildShelobInstillTerror1
+"Screech Of Arctherna"
+End
+CONTROLBAR:TooltipWildShelobInstillTerror1
+"Causes Enemies To Flee In Terror In A Large Radius.\nLeft Click To Activate."
+End
+
+Earth Realm
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:UglukBladeMaster
+"Uglùk's Rage"
+End
+CONTROLBAR:ToolTipUglukBladeMaster
+"Required: Rank 3\n+100% Armor\n+100% Damage\nLeft Click To Activate."
+End
+
+CONTROLBAR:UglukDreadVisage
+"Doubtful Enemy"
+End
+CONTROLBAR:ToolTipUglukDreadVisage
+"Required: Rank 5\nAll Enemies Around Uglùk Become Greatly Weaker\nPassive Ability, Always On When At Rank 5 Or Above."
+End
+
+CONTROLBAR:UglukBomb
+"Throw Explosive Mine"
+End
+CONTROLBAR:ToolTipUglukBomb
+"Required: Rank 10\nGet Uglùk To Throw A Big Explosive Mine At Enemies.\nLeft Click On Image Then Left Click On A Enemy Target To Activate."
+End
+
+CONTROLBAR:UglukLeadership
+"Uglùk's Leadership"
+End
+CONTROLBAR:ToolTipUglukLeadership
+"All Allies Near Uglùk Get +50% Armor\n+50% Attack Damage\n+100% Experience.\nPassive Ability, Always On."
+End
+
+CONTROLBAR:ToolTipMordorOrcPit1
+"Trains Orc Warriors and Generates More Income\nStarts At Level 3"
+END
+
+CONTROLBAR:ToolTipIsengardArmory1
+"Researches Weapon And Armor Upgrades \n Generates More Income \n Starts At Level 3"
+END
+
+CONTROLBAR:ToolTipBuildMordorCatapult1
+"Build A Long Range Catapult \n Strong vs. Structures And Gates"
+END
+
+CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel21
+"+10% Faster Build Speed\nAdd More Health To The Structure."
+END
+
+CONTROLBAR:TooltipUpgradeIsengardSiegeWorksLevel31
+"Allows the construction of Siege Ballistas \n +25% Faster Build Speed \n Add More Health To The Structure."
+END
+
+CONTROLBAR:ToolTipFurnace1
+"Generates Resources \n Higher Levels Grant More Income And Health"
+END
+
+Beast Realm
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+CONTROLBAR:ConstructDwarvenArcheryRangeLevel2Upgrade1
+"Beast Realm Fortress Level 2"
+End
+CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel2Upgrade1
+"10% Faster Build Speed\nGenerates More Income\nAdds 1500 Health\nThis Upgrade Does Automatically Happen Over Time"
+End
+
+CONTROLBAR:ConstructDwarvenArcheryRangeLevel3Upgrade1
+"Beast Realm Fortress Level 3"
+End
+CONTROLBAR:ToolTipBuildDwarvenArcheryRangeLevel3Upgrade1
+"25% Faster Build Speed\nGenerates More Income\nAdds 1500 Health\nThis Upgrade Does Automatically Happen Over Time"
+End
+
+CONTROLBAR:GorzakBladeMaster
+"Wrath Of Gorzak"
+End
+CONTROLBAR:ToolTipGorzakBladeMaster
+"Required: Rank 10\nGorzak Is Granted +50% Armor\n+25% Damage\n+15% Faster & +25% Heal Rate\nLeft Click To Activate."
+End
+
+CONTROLBAR:GorzakDread
+"Doubtful Enemy"
+End
+CONTROLBAR:ToolTipGorzakDread
+"Required: Rank 5\nAll Enemies Around Gorzak Become Greatly Weaker.\nPassive Ability, Always On When At Rank 5 Or Above."
+End
+
+CONTROLBAR:ConstructWarg1
+"Warg Horde"
+END
+
+CONTROLBAR:ToolTipBuildWarg1
+"Build A Strong Horde Of Wargs Strong\nStarts At Rank 2."
+END
+
+CONTROLBAR:ToolTipBuildGoblinCaveTroll1
+"Strong vs. Structures"
+END
+
+CONTROLBAR:ToolTipBuildMordorAttackTroll1
+"Strong vs. Everything"
+End
+
+CONTROLBAR:ToolTipBuildGoblinCaveTroll1
+"Strong vs. Structures"
+END
+
+CONTROLBAR:ToolTipBuildWildMountainGiant1
+"Strong vs Structures and Swordsmen"
+END
+
+Harad Realm
+"-----------------------------------------------------------------------------------------------------------"
+End
+
+
+CONTROLBAR:ToggleEasterlingSwordsMenFormation
+"Brick Formation"
+End
+CONTROLBAR:ToolTipToggleEasterlingSwordsMenFormation
+"Grants + 25% Armor\n- 25% Damage To Enemies\nGrants More Resists To Fear.\nLeft Click To Enable."
+End
+
+
+CONTROLBAR:ToggleNewPikeMenFormation
+"Pike Wall Formation"
+End
+CONTROLBAR:ToolTipToggleNewPikeMenFormation
+"Grants + 50% Armor\n- 25% Horde Speed\nGrants More Resists To Be Knocked Back\nLeft Click To Enable."
+End
+
+CONTROLBAR:OutlawLeadership1
+"Outlaw Leadership"
+END
+CONTROLBAR:ToolTipOutlawLeadership1
+"Requires Level 5 \n Nearby Allies Earn Resources Per Kill \n Passive Ability, Always On When At Rank 5 Or Above."
+END
+
+CONTROLBAR:VarilWarrior
+"Warrior"
+End
+CONTROLBAR:ToolTipVarilWarrior
+"Required: Rank 10\nGrants Varil + 25% Armor\nAnd + 25% Damage To Enemies  \nPassive Ability, Always On When At Rank 10."
+End
+
+CONTROLBAR:SpecialAbilityVarilToggleWeapon
+"Toggle Sword Or Bow"
+End
+CONTROLBAR:ToolTipSpecialAbilityVarilToggleWeapon
+"Make Varil Toggle Between\n His Sword Or Bow.\nLeft Click To Toggle."
+End
+
+CONTROLBAR:Leadership1
+"Leadership"
+End
+CONTROLBAR:ToolTipGoblinKingBattleFrenzy1
+"Required: Rank 4 \n Allies Near Varil Gain \n +50% Damage, +50% Armor, \n And Earn Experience Twice As Fast.\nPassive Ability, Always On When At Rank 4 Or Above."
+End
+
+CONTROLBAR:ConstructRohanFarm1
+"Build Harad Farm"
+END
+CONTROLBAR:ToolTipRohanFarm1
+"Generates Resources \n Higher Levels Grant More Income And Health"
+END
+
+CONTROLBAR:ConstructMordorHaradrimHorde1
+"Build Haradrim Lancers Horde"
+END
+CONTROLBAR:ToolTipBuildMordorHaradrimHorde1
+"Build A Horde Of Haradrim Lancers That Throw Spears At Medium Range, And Stab Enemies At Close Range\nHorde Starts At Rank 2"
+END
+
+CONTROLBAR:ConstructMordorHaradrimPalace1
+"Build Haradrim Palace"
+END
+CONTROLBAR:ToolTipMordorHaradrimPalace1
+"Trains Fully Upgraded Haradrim Lancers, Archers and Easterlings Pikemen"
+END
+
+CONTROLBAR:ConstructMordorMumakil1
+"Mumakil"
+END
+CONTROLBAR:ToolTipBuildMordorMumakil1
+"Construct Random Harad Mumakil, Will Build One Of Two Types Of Mumakil, One Type Does Not Have Haradrim and a Hodwah But Is Stronger."
+END
+
+CONTROLBAR:ConstructMordorMumakilPen1
+"Build Mumakil Pen"
+END
+CONTROLBAR:ToolTipMordorMumakilPen1
+"Trains Two Types Of Mumakil, One\nType Does Not Have Haradrim and a Hodwah But Is Stronger."
+END

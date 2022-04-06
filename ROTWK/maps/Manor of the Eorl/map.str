@@ -1,0 +1,19 @@
+Map:ManoroftheEorl/Desc
+"The mini-citadel built upon levelled hills in southern Langstrand, try to take possession of/defend this castle to the end ***By Puppeteer***"
+End
+
+SCRIPT:Quarry
+"The abandoned quarry used for the construction of the levelled hills; there may still be treasures left there."
+End
+
+SCRIPT:Reinforce
+"Reinforcements have arrived!"
+End
+
+SCRIPT:Intro
+"This map was made by Puppeteer \nHave Fun!"
+End
+
+SCRIPT:Timer
+"Attacker's Reinforcements:"
+End
