@@ -1,0 +1,90 @@
+Map:LeagueofLords
+"League of Lords"
+END
+Map:LeagueofLords/Desc
+"This is a 3v3 map plus 2 AI. Put 2 AI player top-left and bottom-right corners. :)\n\n Tutorial: Enable 'RING HEROES' for TUTORIAL.\n\n By Mako & Gannicus\n Updated 07.07.18"
+END
+
+SCRIPT:GL&HF
+"Good Luck and Have Fun by Mako"
+End
+
+SCRIPT:Intro1
+"Goal of each team is to destroy the Orthanc Tower of the enemy. Here there is the Orthanc of Team A."
+End
+
+SCRIPT:Intro2
+"Here is the Orthanc of Team B."
+End
+
+SCRIPT:Intro3
+"How can you destroy it? Each player has 1 builder near his base. He can move his builder in one of these 3 squares where 3 units are located:\n Angmar Orc Warrior\n Angmar Rhuduaur Slinger\n and Angmar Rhuduaur Spearman.\n As long as the porter stays in an angmar unit square, your AI ally player spawns an horde of units that stay in your square. See the example!"
+End
+
+SCRIPT:Intro4
+"Player X want his AI ally to start spawning hordes of Angmar Rhuduaur Spearman"
+End
+
+SCRIPT:Intro5
+"Now each player can do the following in his base. The spawned unit will follow a specific path to get near the enemy base.\n Each player can choose which type of unit to spawn on only 1 path!\n The player that chooses Back position controls tha path in the middle. \n The others right and left paths.\n At this point, the units spawned by the teams, controlled by your respective AI ally, move to the enemy tower attacking everything they meet."
+End
+
+SCRIPT:Intro6
+"So do you have to select which unit your AI ally spawn? NO!\n Near your Orthanc base there are 3 Dwarven Pads.\n Select them and you can purchase whatever hero you want."
+End
+
+SCRIPT:Intro7
+"Many things are changed as Lurtz Cripple (you can't damage hero crippled), Spellbook, Citadel, Devastation, Scavenger (4x), Scavenger's Hero (6x), Cost and Time of Drake and Eagle, added healing to Towers (2% per sec.) and to Orthanc (5% per sec.) and Healths of structures, Bountyvalues. Take a look!"
+End
+
+SCRIPT:Intro8
+"All right? Good luck and Have Fun by Mako.\n Special thanks to Gannicus."
+End
+
+SCRIPT:GameStartIn
+"Game will start in:"
+End
+
+SCRIPT:Units Killed by Player 1
+"Units Killed by Player 1:"
+End
+
+SCRIPT:Units Killed by Player 2
+"Units Killed by Player 2:"
+End
+
+SCRIPT:Units Killed by Player 3
+"Units Killed by Player 3:"
+End
+
+SCRIPT:Units Killed by Player 4
+"Units Killed by Player 4:"
+End
+
+SCRIPT:Units Killed by Player 5
+"Units Killed by Player 5:"
+End
+
+SCRIPT:Units Killed by Player 6
+"Units Killed by Player 6:"
+End
+
+SCRIPT:Units Killed by Player 7
+"Units Killed by Player 7:"
+End
+
+SCRIPT:Units Killed by Player 8
+"Units Killed by Player 8:"
+End
+
+SCRIPT:HeroesKilledByTeamA
+"Heroes Killed by Team A:"
+End
+
+SCRIPT:HeroesKilledByTeamB
+"Heroes Killed by Team B:"
+End
+
+SCRIPT:WAVE2
+"New Units!"
+End
