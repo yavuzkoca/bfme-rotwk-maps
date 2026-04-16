@@ -1,0 +1,179 @@
+MapIntro:01
+"Welcome to Puzzler's League of Lords!"
+End
+
+MapIntro:02
+"First, buy a hero from this expansion pad \n For now, you can only buy one"
+End
+
+MapIntro:03
+"Now buy a unit from the forbidden pool"
+End
+
+MapIntro:04
+"Garrison the unit in the tower so that it spawns on the map"
+End
+
+MapIntro:05
+"You can sell the units back at the forbidden pool when you are done with them"
+End
+
+MapIntro:06
+"Win your victory by destroying the other team's fort!"
+End
+
+SpawningActivation
+"Unit spawning starts in:"
+End
+
+ArcherLimitOn
+"Ring Heroes mode is on so the archer limit is in effect"
+End
+
+ArcherLimitOff
+"Ring Heroes mode is off so the archer limit is not in effect"
+End
+
+Level2
+"A player has upgraded their pool to level 2! \n All players may now own 2 heroes."
+End
+
+Level3
+"A player has upgraded their pool to level 3! \n All players may now own 3 heroes."
+End
+
+Level4
+"A player has upgraded their pool to level 4! \n All players may now own 4 heroes."
+End
+
+NearlyDead
+"A fort is nearly destroyed!"
+End
+
+CONTROLBAR:PurchaseUpgradeForbiddenPool
+"Upgrade Forbidden Pool"
+End
+
+UPGRADED:ForbiddenPool
+"Forbidden Pool"
+End
+
+UPGRADE:ForbiddenPool
+"Grants access to adept units"
+End
+
+UPGRADE:ForbiddenPool2
+"Grants access to elite units"
+End
+
+UPGRADE:ForbiddenPool3
+"Grants access to super units"
+End
+
+Melee
+"Melee units"
+End
+
+ChooseMelee
+"Show units which attack at close range"
+End
+
+Archers
+"Ranged units"
+End
+
+ChooseArchers
+"Show units which attack from a distance"
+End
+
+Supers
+"Super units"
+End
+
+ChooseSupers
+"Show units which annihilate at a close range \n These units are teleported directly onto the map"
+End
+
+TomBombadil
+"Tom Bombadil"
+End
+
+RecruitTomBombadil
+"Strong vs all units"
+End
+
+HugeTroll
+"Huge Troll"
+End
+
+RecruitHugeTroll
+"Strong vs structures"
+End
+
+Oathbreakers
+"Oathbreakers"
+End
+
+RecruitOathbreakers
+"Strong vs mortals \n Vulnerable to Magic, Hero and Frost damage"
+End
+
+HugeTroll
+"Huge Troll"
+End
+
+RecruitHugeTroll
+"Strong vs structures"
+End
+
+Gollum
+"Explosive Gollum"
+End
+
+RecruitGollum
+"Remained stealthed until detected within a close range \n Can detonate to cause explosive damage"
+End
+
+BlowUp
+"Gollum immediately blows himself up"
+End
+
+Shade
+"Shade of the Wolf"
+End
+
+RecruitShade
+"Strong vs all units and structures"
+End
+
+Dragon
+"Dragon"
+End
+
+RecruitDragon
+"Strong vs all units and structures"
+End
+
+Balrog
+"Balrog"
+End
+
+RecruitBalrog
+"Strong vs all units and structures"
+End
+
+Galadriel
+"Galadriel"
+End
+
+RecruitGaladriel
+"Strong vs all units and structures"
+End
+
+SauronLabel
+"Sauron"
+End
+
+RecruitSauron
+"Strong vs all units and structures"
+End
