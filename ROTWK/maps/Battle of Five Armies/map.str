@@ -1,0 +1,247 @@
+SCRIPT:Intro1
+"GANDALF: HALT!!! Dread has come upon you all! Alas it has come more swiftly than I guessed."
+End
+
+SCRIPT:Intro2
+"GANDALF: The Goblins are upon you! Behold! The bats are above his army like a sea of locusts!\nThey ride upon wolves, and Wargs are in their trains!"
+End
+
+SCRIPT:Intro3
+"GANDALF: Come! There is yet time for council. Let Dain son of Nain come swiftly to us!"
+End
+
+SCRIPT:Warning
+"Should all the heroes fall, the battle is over."
+End
+
+SCRIPT:Elvenking
+"Elves, to me! Strike them all down!!!"
+End
+
+SCRIPT:Bard
+"Go forth Men of Dale! Charge and give them no quarter!"
+End
+
+SCRIPT:KingDainsArmy
+"Come dwarves of the Iron Hills! We have been called into battle!!! Khazad Ai Menû!"
+End
+
+SCRIPT:EaglesCome
+"Down with the goblins!"
+End
+
+SCRIPT:EvilGroupTimer
+"Gundabad Army Arrives:"
+End
+
+SCRIPT:EvilArmyTimer
+"The Army of Bolg Arrives:"
+End
+
+SCRIPT:ElfTimer
+"Elvenking's Army Reserve Arrives:"
+End
+
+SCRIPT:MenTimer
+"Bard's Army Reserve Arrives:"
+End
+
+SCRIPT:DwarfTimer
+"Dain's Army Reserve Arrives:"
+End
+
+SCRIPT:EagleTimer
+"Gwaihir Arrives:"
+End
+
+CONTROLBAR:LW_ToolTip_Beorn
+"Beorn is a large man and shapeshifter"
+End
+
+CONTROLBAR:BeornLeadership
+"Aura of the Spirit"
+End
+
+CONTROLBAR:ToolTipBeornLeadership
+"Beorn's prescence provides a +100% damage, +75% armor, and +10% speed to allies\n\nPassive ability      Does not stack"
+End
+
+CONTROLBAR:BeornEarthShaker
+"Shat&tering of the Earth"
+End
+
+CONTROLBAR:ToolTipBeornEarthShaker
+"Requires Level 4\nBeorn strikes at the ground to cause a massive earthquake\nLeft click then left click on to an area"
+End
+
+CONTROLBAR:BeornSummonNatureFriends
+"Call the Fo&rest Dúnedain"
+End
+
+CONTROLBAR:TooltipBeornSummonNatureFriends
+"Requires Level 6\nBeorn summons the Dúnedain to aid him in battle\nLeft click then left click on to an area"
+End
+
+CONTROLBAR:BeornRageOfTheBeast
+"&Rage of the Beast"
+End
+
+CONTROLBAR:ToolTipBeornRageOfTheBeast
+"Requires Level 9\nBeorn unleashes the strength of his beast form and gains a +200% damage, +150% armor, and +50% speed\nLeft click to activate"
+End
+
+CONTROLBAR:BeornHeroLeadership
+"Hero of Carrock"
+End
+
+CONTROLBAR:ToolTipBeornHeroLeadership
+"Requires Level 10\nThrough his displays of virtue, Beorn grants +100% damage, +90% armor, +20% speed, and +50% experience to his allies\n\nPassive ability      Does not stack"
+End
+
+CONTROLBAR:LW_ToolTip_Bard
+"Bard is the legendary archer of Dale"
+End
+
+CONTROLBAR:BardLeadership
+"Captain of Esgaroth"
+End
+
+CONTROLBAR:ToolTipBardLeadership
+"Bard grants a +75% damage, +50% armor, and +30% range to his allies\n\nPassive ability      Does not stack"
+End
+
+CONTROLBAR:DaleBlackArrow
+"Bard's &Black Arrow"
+End
+
+CONTROLBAR:ToolTipBardBlackArrow
+"Requires Level 2\nAn arrow handed down to Bard from his ancestors that can kill most enemies in one hit\nLeft click then left click on a target"
+End
+
+CONTROLBAR:SummonDaleArchers
+"Elite A&rchers of Dale"
+End
+
+CONTROLBAR:TooltipSummonDaleArchers
+"Requires Level 7\nBard summons a group of Men of Dale to fight for him\nLeft click and then left click on a clear area"
+End
+
+CONTROLBAR:BardLastStand
+"&Hunter's Stance"
+End
+
+CONTROLBAR:ToolTipBardLastStand
+"Requires Level 10\nBard takes a deadly stance that doubles damage and attack speed but reduces armor by 30% for the duration.\nLeft click to activate"
+End
+
+CONTROLBAR:LW_ToolTip_Thorin
+"Thorin is the leaders of the dwarves of the Lonely Mountain"
+End
+
+CONTROLBAR:ThorinLeadership
+"Lord of the Dwarves"
+End
+
+CONTROLBAR:ToolTipThorinLeadership
+"Thorin grants a +75% damage, +60% armor, and +10% speed to his allies\n\nPassive ability      Does not stack"
+End
+
+CONTROLBAR:ThorinLeap
+"Dwa&rven Shockwave"
+End
+
+CONTROLBAR:ToolTipThorinLeap
+"Requires Level 2\nThorin jumps high in the air and hits the ground causing meta impact\nLeft click and left click on target area"
+End
+
+CONTROLBAR:SmashAxe
+"Smas&h Axe"
+End
+
+CONTROLBAR:TooltipSmashAxe
+"Thorin throws an axe with a blow that would shatter its target\nLeft click then left click on a target"
+End
+
+CONTROLBAR:WarHardiness
+"Hardiness of War"
+End
+
+CONTROLBAR:ToolTipWarHardiness
+"Requires Level 8\nThorin's endurance grants him a pernament boost in health\nPassive ability"
+End
+
+CONTROLBAR:DwarvenPride
+"Dwarven &Pride"
+End
+
+CONTROLBAR:ToolTipDwarvenPride
+"Requires Level 10\nThorin is invulnerable to all attacks and greatly increases damage\nLeft click to activate"
+End
+
+CONTROLBAR:LW_ToolTip_Smaug
+"Smaug the Golden is a powerful dragon of the Lonely Mountain"
+End
+
+CONTROLBAR:SmaugDesolation
+"Deso&lation"
+End
+
+CONTROLBAR:ToolTipSmaugDesolation
+"Breathe a devastating flame that created the Desolation of Smaug\nLeft click then left click on an area"
+End
+
+CONTROLBAR:GiantFireBall
+"Grand F&ireball"
+End
+
+CONTROLBAR:ToolTipGiantFireBall
+"Launch a large fireball at your enemy\nLeft click then left click on a target"
+End
+
+CONTROLBAR:DarkFlame
+"De&mon Flame"
+End
+
+CONTROLBAR:TooltipDarkFlame
+"Attack with a deadly flame that will burn through anyone\nLeft click and then left click on an area"
+End
+
+CONTROLBAR:LW_ToolTip_LOE
+"Gwaihir is the Lord of the Eagles of Middle Earth"
+End
+
+CONTROLBAR:EagleLord
+"Master of the S&kies"
+End
+
+CONTROLBAR:ToolTipEagleLord
+"Requires Level 2\nGwaihir gains a +85% damage and +125% armor for a duration\nLeft click to activate"
+End
+
+CONTROLBAR:HealingRemedy
+"&Healing Remedy"
+End
+
+CONTROLBAR:ToolTipHealingRemedy
+"Requires Level 6\nGwaihir heals himself and other eagles a large amount of health\nLeft click to activate"
+End
+
+CONTROLBAR:DawnsDayment
+"Broken Dawn's Dayment"
+End
+
+CONTROLBAR:ToolTipDawnsDayment
+"Requires Level 8\nGwaihir grants a +25% damage, +100% armor, and +50% experience to allies\n\nPassive ability      Does not stack"
+End
+
+CONTROLBAR:ChainBane
+"&Chain's Bane"
+End
+
+CONTROLBAR:ToolTipChainBane
+"Requires Level 10\nA blessed wizard light that makes Gwaihir immune for a long duration\nLeft click to activate"
+End
+
+Map:battleoffivearmies/Desc
+"With the supposed death of Smaug, the men of Laketown (Esgaroth), the dwarves of the Iron Hills and the Lonely Mountain, and the Elvenking's legions join together to fight the goblin army.\n(Map idea based on The Hobbit from eragon6178, everything else by Link058)"
+End

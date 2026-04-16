@@ -1,0 +1,43 @@
+
+SCRIPT:Allegience
+"We will help you defend our home. Let this be our last stand."
+End
+
+SCRIPT:Catapults
+"Bring on the catapults..."
+End
+
+SCRIPT:Monster
+"The beasts! The beasts have been freed!"
+End
+
+SCRIPT:TheMission
+"The enemy is holing our queen hostage in the Babylon Tower. Free her and burn this kingdom to the ground!"
+End
+
+SCRIPT:Sauron
+"Leave the rest to me."
+End
+
+SCRIPT:TheKingComes
+"King Sauron comes in"
+End
+
+SCRIPT:HiddenGuy
+"one of our camouflaged soldiers has joined this battle. Get him up to the top and rescue our queen!"
+End
+
+SCRIPT:Rescued
+"Thank you for freeing me. Here take what money I have. Ahh!!!!!!"
+End
+
+SCRIPT:Queentalks
+"Took you long enough.... But thank ye."
+End
+
+
+SCRIPT:Attack
+"The attacks begin in"
+End
+
+
