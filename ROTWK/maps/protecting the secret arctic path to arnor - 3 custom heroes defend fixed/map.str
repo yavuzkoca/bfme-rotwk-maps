@@ -1,0 +1,78 @@
+SCRIPT:ReinforcementTeam1
+"We have arrived from the forests of Lindon to help you vanquish the evil."
+End
+SCRIPT:Until01
+"The Game will begin in 30 seconds - if a wave fail to spawn CROSS the River most likely leftovers!"
+End
+SCRIPT:Witchking01
+"Worthless creatures, submit to me and I will grant you a swift death. - map + ini + .str file made by PowerOfJustice"
+End
+SCRIPT:Witchking02
+"Pathetic resistant humans, give up to hopelessness!!"
+End
+SCRIPT:Witchking04
+"Taste the terror of Mordor, tremble before the Might of Lord Sauron."
+End
+SCRIPT:Wave01
+"The first wave approaches make ready - you got 3 lives totally shared between all CaH units and your fellow players."
+End
+SCRIPT:Wave02
+"The Second assault is inbound prepare yourself"
+End
+SCRIPT:Wave03
+"They are preparing another wave, we must be ready"
+End
+SCRIPT:GoblinKingTaunt01
+"Come my servants lets dispose of these pesky humans and claim this place for the Goblins!"
+End
+SCRIPT:Wave1Cleared
+"We survived their first wave, prepare for the next one."
+End
+SCRIPT:Wave2Cleared
+"We destroyed their second assault, stay strong heroes."
+End
+SCRIPT:Wave3Cleared
+"We must stand resilient to these invaders push on champions!"
+End
+SCRIPT:Wave4Cleared
+"We will not be beaten so easily their fourth wave has been crushed beneath our righteous might!"
+End
+SCRIPT:GothMogReignSuppreme
+"The time of the Orc has come!, come forth my breathrens today we will have human flesh!"
+End
+SCRIPT:Wave5Cleared
+"We have broken the onslaught of Mordor, perhaps there's still a chance."
+End
+SCRIPT:HwaldarMockery
+"Claim these lands for the hillmen, and for the Iron Crown! TAKE back our lands!"
+End
+SCRIPT:Wave6Cleared
+"We crushed the army of wildmens, one question remains unanswered, what more can he push over to our solid walls."
+End
+SCRIPT:RogashSay
+"Rogash take gold and green lands from humans!!"
+End
+SCRIPT:Wave7Cleared
+"Troll of the North is Defeated, victorious once more!"
+End
+SCRIPT:ArnorAssistance
+"The Sons of Arnor will sit Idle no longer! Help is coming! King Argeleb has arrived to lend his assistance."
+End
+SCRIPT:Wave8Cleared
+"We crushed the hand of the Witchking, the table is turning to our will!."
+End
+SCRIPT:KarshSpeak
+"They shall suffer as I do....."
+End
+SCRIPT:Wave9Cleared
+"The only threat that remains is the Witchking of Angmar himself!, We crushed the shadow of the North, now lets face their so called Master!"
+End
+SCRIPT:ArgelebVictoryNears
+"Victory is near! Fight on brothers the Light shall prevail!"
+End
+SCRIPT:WitchKingFinalTaunt
+"Did you really think that you would be protected behind these mere walls, and the aid of the Eldar, pah I will dispose of you myself."
+End
+SCRIPT:VictoryForArnor
+"Victory is ours, No more shall the west suffer for the reign of Angmar- today Middle-Earth stand's free once more! rejoice heroes and rest for upcoming battles, but today you have earned your rest."
+End

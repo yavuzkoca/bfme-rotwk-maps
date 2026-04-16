@@ -1,0 +1,394 @@
+SCRIPT:1
+"Welcome to Cappuccino Defence (halloween)!"
+End
+
+
+SCRIPT:2
+"You must survive Your Now."
+End
+
+
+SCRIPT:3
+"Take these powers, you will need them. \n Lottery can provide useful and unique units and spells!"
+End
+
+
+SCRIPT:4
+"The gate looks a little worse for wear. I'll fix it up."
+End
+
+SCRIPT:HINT
+"Get your archers down from the walls and use bombard to kill enemy archers, to prevent having your archers dying! \n Gates are recommended to be closed on this wave!"
+End
+
+NewTierUnlocked
+"A new tier of lottery prizes has been unlocked!"
+End
+
+SCRIPT:Wave
+"Wave:"
+End
+
+Gate Destroyed
+"A gate has been destroyed"
+End
+
+Keep Danger
+"A keep is under attack!"
+End
+
+Keep Doom
+"A keep is nearly destroyed!"
+End
+
+Shawshanked
+"They have tunneled into our fort!"
+End
+
+Kill Galadriel
+"Kill all Galadriels to win!"
+End
+
+Kill Sauron
+"Kill all Saurons to win!"
+End
+
+Galadriels remaining
+"Saurons remaining:"
+End
+
+Galadriels remaining
+"Saurons remaining:"
+End
+
+CONTROLBAR:UpgradeKeepLevel2
+"Upgrade Keep to level 2"
+End
+
+
+CONTROLBAR:ToolTipUpgradeKeepLevel2
+"Allows you to produce stronger units, increases the keep's health\n and reduces build time for units and upgrades"
+End
+
+ProWaves
+"Good luck, mortals. You have chosen a difficult path."
+End
+
+
+CONTROLBAR:UpgradeKeepLevel3
+"Upgrade Keep to level 3"
+End
+
+
+CONTROLBAR:ToolTipUpgradeKeepLevel3
+"Increases the keep's health and reduces build time for units and upgrades"
+End
+
+
+
+CONTROLBAR:SelectUpgradesGenericKeep
+"Upgrades section"
+End
+
+
+CONTROLBAR:ToolTipSelectUpgradesGenericKeep
+"Research upgrades for your faction"
+End
+
+
+CONTROLBAR:SelectRevivablesGenericKeep
+"Heroes section"
+End
+
+
+CONTROLBAR:ToolTipSelectRevivablesGenericKeep
+"Recruit your heroes"
+End
+
+
+
+
+TOOLTIP:LackLevel2KeepUpgrade
+"Requires level 2 keep upgrade"
+End
+
+
+
+
+
+Upgrade:KeepLevel2
+"Keep level 2"
+End
+
+
+Upgrade:KeepLevel3
+"Keep level 3"
+End
+
+
+
+CONTROLBAR:ToolTipBuildDwarvenBattleWagonNew
+"Requires Level 2 Keep \n Strong vs. Swordsmen, Archers and Cavalary \n Can be upgraded with various improvements"
+END
+
+
+CONTROLBAR:ToolTipBuildDwarvenMenOfDaleHordeNew
+"Strong vs. Infantry and Monsters"
+End
+
+
+
+
+CONTROLBAR:ToolTipBuildGondorRangerHordeNew
+"Strong vs. Infantry and Monsters"
+End
+
+
+CONTROLBAR:ToolTipBuildGondorKnightHordeNew
+"Requires Level 2 Keep \n Strong vs. Archers and Unit Production Buildings"
+END
+
+
+
+CONTROLBAR:ToolTipBuildGondorTowerShieldGuardHordeNew
+"Strong vs. Cavalry and most Heroes"
+END
+
+
+
+CONTROLBAR:ToolTipBuildElvenMirkwoodArcherHordeNew
+"Strong vs. Infantry and Monsters"
+End
+
+
+
+CONTROLBAR:ToolTipBuildElvenRivendellLancersNew
+"Requires Level 2 Keep \n Strong vs. Archers and Unit Production Buildings"
+END
+
+
+
+CONTROLBAR:ToolTipBuildIsengardBerserkerNew
+"Requires Level 2 Keep \n Strong vs. Infantry"
+END
+
+
+
+CONTROLBAR:ToolTipBuildIsengardWargRiderNew
+"Requires Level 2 Keep \n Strong vs. Archers and Unit Production Buildings"
+END
+
+CONTROLBAR:ToolTipBuildMordorHaradrimArcherHordeNew
+"Strong vs. Infantry and Monsters \n Can fire Barbed Arrows"
+End
+
+
+CONTROLBAR:TooltipConstructMordorDrummerTrollsNew
+"Requires Level 2 Keep \n Provides Leadership to nearby allies \n Can use his drumsticks to cause fear into nearby enemies"
+END
+
+
+
+CONTROLBAR:ToolTipBuildMordorAttackTrollNew
+"Requires Level 2 Keep \n Strong vs. Swordsmen, Cavalry, and Structures"
+End
+
+CONTROLBAR:ToolTipBuildWildMarauderHordeNew
+"Strong vs. Cavalry and most Heroes"
+END
+
+
+
+CONTROLBAR:ToolTipBuildWildSpiderRiderHordeNew
+"Requires Level 2 Keep \n Can switch between Bow and Spear \n Strong vs. Archers and Unit Production Buildings"
+END
+
+CONTROLBAR:ToolTipBuildWildMountainGiant
+"Requires Level 2 Keep \n Strong vs. Structures and Swordsmen"
+End
+
+CONTROLBAR:ToolTipBuildAngmarHillTrollHordeNew
+"Strong vs. Cavalry\n Can switch formation for improved defensive capabilities"
+End
+
+CONTROLBAR:ToolTipBuildAngmarSnowTrollHordeNew
+"Strong vs. Archers\n Can charge at enemies for improved combat performance"
+End
+
+CONTROLBAR:ToolTipBuildAngmarDarkDunedainHordeNew
+"Strong vs. Pikemen\n Can charge at enemies for improved combat performance"
+End
+
+CONTROLBAR:ToolTipBuildAngmarNecromancerHordeNew
+"Requires Level 2 Keep\n Battlefield Support Unit"
+End
+
+CONTROLBAR:ToolTipBuildAngmarDarkRangerHordeNew
+"Strong vs. Infantry and Monsters\n Can fire Longshot arrow volleys"
+End
+
+CONTROLBAR:SoSBonus 
+"The fury of the Orcs"
+End
+
+CONTROLBAR:TooltipSoSBonus 
+"Your units gain +100% damage for 45s. \n Stacks with other leaderships \n Recharge time: 9 min"
+End
+
+
+
+
+CONTROLBAR:FoLBonus  
+"The power of Narya"
+End
+
+
+CONTROLBAR:TooltipFoLBonus  
+"Your units gain +75% armor and  +50% attack speed for 45s. \n Stacks with other leaderships \n Recharge time: 9 min"
+End
+
+
+CONTROLBAR:Lottery
+"Lottery"
+End
+
+
+CONTROLBAR:TooltipLottery
+"Try your luck for 750 gold \n Prizes include units, heroes and spellbook powers \n Lottery can only be used once in a given period of time"
+End
+
+Lottery Player
+"Player"
+End
+
+Lottery Prize
+"Prize"
+End
+
+Firebringers
+"A player has won the prize: Firebringers"
+End
+
+Kiss my Axe
+"A player has won the prize: Kiss my Axe"
+End
+
+Rangers
+"A player has won the prize: Rangers"
+End
+
+Dark Rangers
+"A player has won the prize: Dark Rangers"
+End
+
+Attack trolls
+"A player has won the prize: Trolls"
+End
+
+Kaboom
+"A player has won the prize: Kaboom"
+End
+
+Mirks
+"A player has won the prize: Mirks"
+End
+
+Fire Drake
+"A player has won the prize: Fire Drake"
+End
+
+Mumak
+"A player has won the prize: Mumawyrm"
+End
+
+Sorcerers
+"A player has won the prize: Sorcerers"
+End
+
+Noldors
+"A player has won the prize: Noldors"
+End
+
+Tom Bombadil
+"A player has won the prize: Tom Bombabil"
+End
+
+Black Riders
+"A player has won the prize: Black Riders"
+End
+
+Witch King
+"A player has won the prize: Witch King"
+End
+
+Gandalf
+"A player has won the prize: Gandalf"
+End
+
+Drogoth
+"A player has won the prize: Drogoth"
+End
+
+Sauron
+"A player has won the prize: Sauron \n He will take damage over time."
+End
+
+Galadriel
+"A player has won the prize: Galadriel \n She will take damage over time."
+End
+
+Rebuild
+"A player has won the prize: Rebuild"
+End
+
+Snowbind
+"A player has won the prize: Snowbind"
+End
+
+ArmyOfTheDead
+"A player has won the prize: Army of the Dead"
+End
+
+Flood
+"A player has won the prize: Flood"
+End
+
+SummonBalrog
+"A player has won the prize: Balrog"
+End
+
+CONTROLBAR:ToolTipBarbedArrowsNew
+"Causes meta impact and increased damage \n DamageType: Hero_Ranged"
+End
+
+CONTROLBAR:ToolTipConstructDwarvenCatapultExpansionNEW
+"Long range defensive weapon\nBenefits from the Flaming Shot upgrade"
+End
+
+CONTROLBAR:ToolTipPurchaseTechnologyDwarvenFlamingShotNew
+"Allows you to upgrade your catapult expansions with Flaming Shot"
+End
+
+TOOLTIP:LackDwarvenFlamingShotNEW
+"Research this upgrade at your keep to enable this upgrade\n When equipped, significantly increases the catapult's damage"
+End
+
+CONTROLBAR:MumakilReposition
+"Mumawyrm"
+End
+
+CONTROLBAR:ToolTipMumakilReposition
+"Reposition this Mumakil anywhere on the map"
+End
+
+Rumble
+"These Dwarves are up to something..."
+End
+
+SCRIPT:GameStart
+"Game starts in:"
+End
+
+SCRIPT:Rest
+"Rest for:"
+End

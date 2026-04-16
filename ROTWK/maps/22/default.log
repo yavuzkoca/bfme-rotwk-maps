@@ -1,0 +1,98 @@
+
+================================================================================
+EXCEPTION_ACCESS_VIOLATION:
+The thread tried to read from or write to a virtual
+address for which it does not have the appropriate access.
+Access address 0x00000001 was read from.
+
+Exception occured at
+7c342829 MSVCR71.dll+0x2829, strchr+0x18.
+
+Version: internal
+
+EAX:0x00003a00 EBX:0x0000003a ECX:0x00000001
+EDX:0x00000001 ESI:0x0e6b4cd0 EDI:0x0e629a28
+EIP:0x7c342829 ESP:0x0019b724 EBP:0x0019bfe4
+Flags:%00000000001000010000001000000010
+CS:0x0023 DS:0x002b SS:0x002b
+ES:0x002b FS:0x0053 GS:0x002b
+
+CW:%0000000001111111
+SW:%0100000000100001
+TW:%1111111111111111
+ErrOfs:      0x00000000 ErrSel:  0x00000000
+DataOfs:     0x00000000 DataSel: 0x00000000
+Cr0NpxState: 0x00000000
+ST(0) 00000000000678be0540 95.234421
+ST(1) 0000000000000080ff3f 1.000000
+ST(2) 00000000006d09c103c0 -24.129602
+ST(3) 00000000002071f7fe3f 0.966570
+ST(4) 0000000000000080ff3f 1.000000
+ST(5) 0000000000000080ff3f 1.000000
+ST(6) 0000000000000080ff3f 1.000000
+ST(7) 00000000000000000000 0.000000
+
+8 addresses:
+(unknown)(0): MSVCR71.dll+10281 strchr+24
+(unknown)(0): Worldbuilder.exe+8331720 GameClientRandomVariable::getValue+330088
+(unknown)(0): Worldbuilder.exe+8331050 GameClientRandomVariable::getValue+329418
+(unknown)(0): Worldbuilder.exe+2820113 Matrix4D::Matrix4D+2768167
+(unknown)(0): MFC71.DLL+72039 (unknown)
+(unknown)(0): MFC71.DLL+71544 (unknown)
+(0): (unknown mod) (unknown)
+(0): (unknown mod) (unknown)
+
+Bytes around EIP:
+7c342809 24 04 c3 8d 42 ff 5b c3 33 c0 8a 44 24 08 53 8b $.√çBˇ[√3¿äD$.Sã
+7c342819 d8 c1 e0 08 8b 54 24 08 f7 c2 03 00 00 00 74 15 ÿ¡‡.ãT$.˜¬....t.
+7c342829 8a 0a 83 c2 01 3a cb 74 da 84 c9 74 51 f7 c2 03 ä.É¬.:Àt⁄Ñ…tQ˜¬.
+7c342839 00 00 00 75 eb 0b d8 57 8b c3 c1 e3 10 56 0b d8 ...uÎ.ÿWã√¡„.V.ÿ
+7c342849 8b 0a bf ff fe fe 7e 8b c1 8b f7 33 cb 03 f0 03 ã.øˇ˛˛~ã¡ã˜3À..
+
+================================================================================
+EXCEPTION_ACCESS_VIOLATION:
+The thread tried to read from or write to a virtual
+address for which it does not have the appropriate access.
+Access address 0x00000001 was read from.
+
+Exception occured at
+7c342829 MSVCR71.dll+0x2829, strchr+0x18.
+
+Version: internal
+
+EAX:0x00003a00 EBX:0x0000003a ECX:0x00000001
+EDX:0x00000001 ESI:0x0fefbb30 EDI:0x0fbe9990
+EIP:0x7c342829 ESP:0x0019b710 EBP:0x0019bfd0
+Flags:%00000000000000010000001000000010
+CS:0x0023 DS:0x002b SS:0x002b
+ES:0x002b FS:0x0053 GS:0x002b
+
+CW:%0000000001111111
+SW:%0100000000100001
+TW:%1111111111111111
+ErrOfs:      0x76ce888f ErrSel:  0x00000000
+DataOfs:     0x00000000 DataSel: 0x00000000
+Cr0NpxState: 0x00000000
+ST(0) 000000000074f8850540 66.985260
+ST(1) 0000000000000080ff3f 1.000000
+ST(2) 00000000000000000000 0.000000
+ST(3) 00000000000000000000 0.000000
+ST(4) 0000000000000080ff3f 1.000000
+ST(5) 0000000000000080fe3f 0.500000
+ST(6) 0000000000000080ff3f 1.000000
+ST(7) 00000000000000000000 0.000000
+
+6 addresses:
+(unknown)(0): MSVCR71.dll+10281 strchr+24
+(unknown)(0): Worldbuilder.exe+8340184 GameClientRandomVariable::getValue+327864
+(unknown)(0): Worldbuilder.exe+8339514 GameClientRandomVariable::getValue+327194
+(unknown)(0): Worldbuilder.exe+2821361 IRegion2D::operator=+2769310
+(unknown)(0): MFC71.DLL+72039 (unknown)
+(unknown)(0): MFC71.DLL+71544 (unknown)
+
+Bytes around EIP:
+7c342809 24 04 c3 8d 42 ff 5b c3 33 c0 8a 44 24 08 53 8b $.√çBˇ[√3¿äD$.Sã
+7c342819 d8 c1 e0 08 8b 54 24 08 f7 c2 03 00 00 00 74 15 ÿ¡‡.ãT$.˜¬....t.
+7c342829 8a 0a 83 c2 01 3a cb 74 da 84 c9 74 51 f7 c2 03 ä.É¬.:Àt⁄Ñ…tQ˜¬.
+7c342839 00 00 00 75 eb 0b d8 57 8b c3 c1 e3 10 56 0b d8 ...uÎ.ÿWã√¡„.V.ÿ
+7c342849 8b 0a bf ff fe fe 7e 8b c1 8b f7 33 cb 03 f0 03 ã.øˇ˛˛~ã¡ã˜3À..
