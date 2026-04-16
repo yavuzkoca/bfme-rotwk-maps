@@ -1,0 +1,112 @@
+SCRIPT:TBORObjective_1DefendTheHobbit
+"Defend Frodo at all costs \n failure will see the One Ring on Saurons hand once more!"
+End
+
+SCRIPT:TBORObjective_2DefeatSauron
+"The Dark Lord Approaches \n He will destroy the World of Men \n You must stop him!"
+End
+
+SCRIPT:TBORHeishere
+"He is here!"
+End
+
+SCRIPT:TBORObjective_KeepFrodoAlive
+"Kepp Frodo alive for 15 minutes to earn a reward!"
+End
+
+SCRIPT:TBORObjective_DestroyHaradCamp
+"Destroy the four Harad Camp structures to the South in 30 minutes to prevent Enemy reinforcements!"
+End
+
+SCRIPT:TBORObjective_Repelharadassault
+"The legions of the Haradrim begin their assault \n repel the attack!"
+End
+
+SCRIPT:TBORTimer_1
+"Bonus-Keep Frodo alive for"
+End
+
+SCRIPT:TBORMissionfailed
+"Frodo has fallen"
+End
+
+SCRIPT:TBORBlackriders
+"Khamûl is coming for Frodo! \n Shield him from the Black Riders!"
+End
+
+SCRIPT:TBORRecruitRangers
+"Send Faramir to call the Rangers at the Forbidden Pool to your aid"
+End
+
+
+SCRIPT:TBORTimer_2
+"Sauron arrives in"
+End
+
+SCRIPT:TBORTimer_3
+"Destroy Harad Camp to the south to prevent enemy reinforcements"
+End
+
+SCRIPT:TBORTimer_4
+"First wave arrives in"
+End
+
+SCRIPT:TBORTimer_5
+"Second wave arrives in"
+End
+
+SCRIPT:TBORTimer_6
+"The Witch-King of Angmar arrives in"
+End
+
+SCRIPT:TBORWave1approaches
+"Mordor reinforcements are approaching from the west! \n Stand your ground men!"
+End
+
+SCRIPT:TBORWave2approaches
+"A large battle group of Mordor forces attack the northern bridges! \n You are soldiers of Gondor! \n No matter what comes over that bridge, \n you will stand your ground!"
+End
+
+SCRIPT:TBORWitchking
+"The Witch-King of Angmar has entered the battle! \n He brings with him GROND!"
+End
+
+SCRIPT:TBORGrondline1
+"Great engines crawled across the field; and in the midst was a huge ram..."
+End
+
+SCRIPT:TBORGrondline2
+"great as a forest-tree a hundred feet in length, swinging on mighty chains."
+End
+
+SCRIPT:TBORGrondline3
+"Long had it been forging in the dark smithies of Mordor..."
+End
+
+SCRIPT:TBORGrondline4
+"hideous head, founded of black steel, was shaped in the likeness of a ravening wolf; on it spells of ruin lay."
+End
+
+SCRIPT:TBORGrondline5
+"Great beasts drew it, orcs surrounded it, and behind walked mountain-trolls to wield it."
+End
+
+SCRIPT:TBORGrondline6
+"Grond they named it, in memory of the Hammer of the Underworld of old!"
+End
+
+SCRIPT:TBORTovictory
+"The Lord of the Nazgûl is no more, \n as well as Grond! \n Now destroy the Witch-Kings Tower and end this Battle for the Ring!"
+End
+
+SCRIPT:TBORTheeaglesarecoming
+"Gwaihir, The Windlord, has arrived to help defeat the armies of Mordor! \n Use him wisely!"
+End
+
+SCRIPT:TBOREomerSpearThrow
+"Use Eomer's "Spear Throw" ability to bring down the beasts!"
+End
+
+SCRIPT:TBORFrodospotted
+"The Witch-King has spotted Frodo!"
+End

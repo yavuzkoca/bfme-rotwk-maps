@@ -1,0 +1,27 @@
+SCRIPT:Wave
+"START:"
+END
+
+SCRIPT:PeaceTime
+"You will be on my list among the dead:"
+END
+
+SCRIPT:Intro1
+"Welcome to my 3 player tower wars by .Cappuccino."
+END
+
+SCRIPT:Intro2
+"The armies of the dwarves are coming now. Are you ready?."
+END
+
+SCRIPT:Intro3
+"Fortify well and do some building towers to eliminate them." 
+END
+
+SCRIPT:Intro4
+"Get ready that they are coming or danger is coming."
+END
+
+SCRIPT:Intro5
+"KILL THEM ALL"
+END
