@@ -1,0 +1,59 @@
+MapIntro:01
+"Welcome To Ring Wars created by I_Show_No_Mercy     Now map edited by SilverBane on 29.11.2013"
+End
+
+MapIntro:02
+"Please pay attention I am going to list all the things you need to know!"
+End
+
+MapIntro:03
+"The Beacons tell you where your adventure begins build the unit that you would like to spawn and the unit will appear in front of your fortress."
+End
+
+MapIntro:04
+"These beacons represent to unique units. If you move a unit to the square with the number, and have that number of resources (in thousands) the unit will be created. There is no limit to how many you can create."
+End
+
+MapIntro:05
+"Make Sure you activate your ring power scavenger or you WILL NOT get money you have to fight to get money."
+End
+
+MapIntro:06
+"The better the units are, the slower they will spawn so keep that in mind."
+End
+
+MapIntro:07
+"Be Careful how many Fortresses you build you only have to lose one to be defeated"
+End
+
+MapIntro:08
+"If you want to play a regular map you must restart the program to avoid out of syncs."
+End
+
+MapIntro:09
+"Make sure you restart the game if you plan to play a map other than Ring Wars or any game you play WILL go OUT OF SYNC!! press the X on the box if you plan to restart the program."
+End
+
+MapIntro:10
+"Another Reminder DONT FORGET TO RESTART THE GAME IF YOU PLAN TO PLAY A DIFFERENT MAP!!!"
+End
+
+Changes In 1.04uo
+"In this version drogoth is now 15,000 and grond 20,000 and you may now buy the balrog for 40,000 and he has no timer and also note that I didnt make the ini file or the map they were made by I_Show_No_Mercy,I just edited a small part of them!"
+End
+
+MapInfo:03
+"Player 3 Money"
+End
+
+MapInfo:04
+"Player 4 Money"
+End
+
+MapInfo:02
+"Player 2 Money"
+End
+
+MapInfo:01
+"Player 1 Money"
+End
