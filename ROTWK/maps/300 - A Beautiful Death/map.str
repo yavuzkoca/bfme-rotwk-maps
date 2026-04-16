@@ -1,0 +1,43 @@
+UseSpearThrow1
+"Spear Throw"
+End
+
+UseSpearThrow2
+"Your Spartan will use his spear in a powerfull blow"
+End
+
+UseShield1
+"Cocktail"
+End
+
+UsePike1
+"Spears only"
+End
+
+UseShield2
+"Your Spartan will use shield to protect himself"
+End
+
+UsePike2
+"Your Spartan will use only his Pike in fight"
+End
+
+SCRIPT:01
+"The Oracle was bringing home to Sparta a powerfull scroll that could be verry useful to us !"
+End
+
+SCRIPT:02
+"But it's boat has wrecked on a little island not far !"
+End
+
+SCRIPT:03
+"Maybe someone survived and could still give us that parchment ..."
+End
+
+SCRIPT:04
+"Send someone to check that island ! I assure you it's worth!"
+End
+
+SCRIPT:05
+"The dying aprentice  reveals to the stranger the secrets of healing !"
+End
