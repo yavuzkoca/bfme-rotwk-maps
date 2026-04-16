@@ -1,0 +1,27 @@
+Map:NanduhirionWater
+"Nanduhirion Water"
+End
+
+SCRIPT:Intro01
+"You need to choice your hero (shoot to him)\nBefore Arveleg will do his KABOOM!!!"
+END
+
+SCRIPT:Intro02
+"When the timer ends\nYou will have to go through the gate (in the middle)\nOtherwise the area behind the gate will kill you!!!"
+END
+
+SCRIPT:Gates
+"Gates will close in: "
+END
+
+SCRIPT:MainGates
+"Main Gates will close in: "
+END
+
+SCRIPT:SuddenDeath
+"Sudden death in: "
+END
+
+SCRIPT:KillZone
+"Kill zone will activate in: "
+END

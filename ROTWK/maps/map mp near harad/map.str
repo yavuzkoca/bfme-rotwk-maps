@@ -1,0 +1,9 @@
+
+//------------------------------------------------------------
+Map:mapnearharad
+"Near Harad"
+END
+Map:mapnearharad/Desc
+"Near Harad was an indefinite region of Harad that lay to the south of Gondor and Mordor, beyond the River Harnen. \nCreeps: 2x Trolls , 2x Goblins , 2x Warg\nNeutral Structures: 2x Signal , 2x Inn"
+END
+//------------------------------------------------------------

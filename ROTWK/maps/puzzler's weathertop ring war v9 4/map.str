@@ -1,0 +1,247 @@
+MapIntro:01
+"Welcome to Ring Wars! \n Adapted for RotWK by Puzzler33"
+End
+
+MapIntro:02
+"First, buy a unit from this waterfall"
+End
+
+MapIntro:03
+"Great! \n Now garrison the unit in this tower"
+End
+
+MapIntro:04
+"The unit horde will spawn in your base every few seconds"
+End
+
+MapIntro:05
+"You can also revive powerful heroes at the fortress"
+End
+
+MapIntro:06
+"Win your victory by destroying all enemy fortresses!"
+End
+
+Level2
+"A player has upgraded their pool to level 2!"
+End
+
+Level3
+"A player has upgraded their pool to level 3!"
+End
+
+Level4
+"A player has upgraded their pool to level 4!"
+End
+
+CONTROLBAR:PurchaseUpgradeForbiddenPool
+"Upgrade Forbidden Pool"
+End
+
+UPGRADED:ForbiddenPool
+"Forbidden Pool"
+End
+
+UPGRADE:ForbiddenPool
+"Grants access to adept units"
+End
+
+UPGRADE:ForbiddenPool2
+"Grants access to elite units"
+End
+
+UPGRADE:ForbiddenPool3
+"Grants access to super units"
+End
+
+Melee
+"Melee units"
+End
+
+ChooseMelee
+"Show units which attack at close range"
+End
+
+Archers
+"Ranged units"
+End
+
+ChooseArchers
+"Show units which attack from a distance"
+End
+
+Supers
+"Super units"
+End
+
+ChooseSupers
+"Show units which annihilate at a close range"
+End
+
+TomBombadil
+"Tom Bombadil"
+End
+
+RecruitTomBombadil
+"Strong vs all units"
+End
+
+HugeTroll
+"Huge Troll"
+End
+
+RecruitHugeTroll
+"Strong vs structures"
+End
+
+Oathbreakers
+"Oathbreakers"
+End
+
+RecruitOathbreakers
+"Strong vs mortals \n Vulnerable to Magic, Hero and Frost damage"
+End
+
+MountedOathbreakers
+"Mounted Oathbreakers"
+End
+
+RecruitMountedOathbreakers
+"Strong vs mortals \n Vulnerable to Magic, Hero and Frost damage"
+End
+
+FloodHorse
+"Flood Horse"
+End
+
+RecruitFloodHorse
+"Strong vs all units \n Vulnerable to Fire, Frost, Hero and Magic damage"
+End
+
+HugeTroll
+"Huge Troll"
+End
+
+RecruitHugeTroll
+"Strong vs structures"
+End
+
+Gollum
+"Explosive Gollum"
+End
+
+RecruitGollum
+"Remained stealthed until detected within a close range \n Can detonate to cause explosive damage"
+End
+
+BlowUp
+"Gollum immediately blows himself up"
+End
+
+Shade
+"Shade of the Wolf"
+End
+
+RecruitShade
+"Strong vs all units and structures"
+End
+
+Dragon
+"Dragon"
+End
+
+RecruitDragon
+"Strong vs all units and structures"
+End
+
+Balrog
+"Balrog"
+End
+
+RecruitBalrog
+"Strong vs all units and structures"
+End
+
+Galadriel
+"Galadriel"
+End
+
+RecruitGaladriel
+"Strong vs all units and structures"
+End
+
+SauronLabel
+"Sauron"
+End
+
+RecruitSauron
+"Strong vs all units and structures"
+End
+
+NewDevastation
+"Deals high damage to all enemy monsters and machines \n Trees are instantly turned into resources"
+End
+
+ComeToMe
+"Come To Me"
+End
+
+Describe:ComeToMe
+"Blasts back enemy hordes within a close range \n Pulls targeted hero towards Saruman"
+End
+
+FireWave
+"Fire Wave"
+End
+
+Describe:FireWave
+"A fiery shockwave that blasts back units within a large range \n Damages friend and foe alike"
+End
+
+BarbedArrows
+"Barbed Arrows"
+End
+
+Describe:BarbedArrows
+"Requires Level 7 \n Increases the damage inflicted by arrows \n Passive ability"
+End
+
+Describe:ElvenCloakThranduil
+"Requires Level 3 \n Allows Thranduil to stealth while standing still \n Passive ability"
+End
+
+Describe:WildWalk
+"Requires Level 4 \n Allows Thranduil to stealth while moving \n Can also shoot while stealthed if in trees \n Passive ability"
+End
+
+Describe:ThornofVengeance
+"Requires Level 7 \n Powerful single shot attack that knocks back enemies and deals high damage"
+End
+
+GoldenArrows
+"Golden Arrows"
+End
+
+Describe:GoldenArrows
+"Requires Level 10 \n Thranduil shoots Golden Arrows for a short time \n Deals high damage and stuns enemy units"
+End
+
+Describe:Elendil
+"Requires Level 2 \n Aragorn becomes resistant to knockback \n and causes nearby enemy units to flee"
+End
+
+Describe:BladeMaster
+"Requires Level 6 \n Aragorn temporarily gains +100% damage and +100% armour"
+End
+
+Describe:Slayer
+"Requires Level 6 \n Gimli gains +50% damage and \n increased attack and movement speed"
+End
+
+Describe:Smash
+"Requires Level 10 \n Causes an earthquake around Gimli's location"
+End
+
+Describe:MorgulCorruption
+"Requires Level 4 \n Drains health from the targeted enemy and causes temporary paralysis \n Targeted enemy will become a wight upon death"
+End

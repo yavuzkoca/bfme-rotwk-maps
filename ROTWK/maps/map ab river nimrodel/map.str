@@ -1,0 +1,9 @@
+
+//------------------------------------------------------------
+Map:mapabrivernimrodel
+"River Nimrodel"
+END
+Map:mapabrivernimrodel/Desc
+"Nimrodel was the small river that rose in the eastern foothills of the Misty Mountains, and flowed east to meet the Celebrant on the western borders of Lothlorien. \nCreeps: 2x Trolls , 2x Spider , 2x Wargs\nNeutral Structures: 2x Inn \nSize 386x320"
+END
+//------------------------------------------------------------
