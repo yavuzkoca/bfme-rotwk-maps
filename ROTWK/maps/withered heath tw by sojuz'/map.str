@@ -1,0 +1,51 @@
+SCRIPT:1a
+"Withered Heath Tower War by Sojuz' /30 01 2015"
+End
+
+SCRIPT:1bb
+"Pay attention to the platforms. It is the place where your reinforcments are going to arrive. "
+End
+
+SCRIPT:1b
+"At the beginning You will get two units in two draws. More will come after following waves. Every time allocation is made by randomizing from the specific pool of archer units. It is impossible for entire team to obtain ex. two mirks in one draw."
+End
+
+SCRIPT:1c
+"Good luck and have fun!"
+End
+
+SCRIPT:1d
+"Game start in:"
+End
+
+SCRIPT:1
+"Eomer arrived"
+End
+
+SCRIPT:1aa
+"Legolas arrived"
+End
+
+SCRIPT:1aaa
+"Thranduil arrived"
+End
+
+SCRIPT:1aaaa
+"Haldir arrived"
+End
+
+SCRIPT:2
+"NEW UNIT"
+End
+
+SCRIPT:3
+"Wave:"
+End
+
+SCRIPT:3a
+"Final"
+End
+
+SCRIPT:4
+"Income:"
+End

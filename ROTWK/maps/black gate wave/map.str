@@ -1,0 +1,91 @@
+Map:BlackGateWave/Desc
+"Affrontez des vagues ennemis et gagnez des points \n Vagues : Infinie \n Diablo"
+End
+
+Notif_tier_2
+"Vague Tier 2 en approche !! \n Bonne chance !"
+End
+
+Notif_tier_3
+"Vague Tier 3 en approche !! \n Bonne chance !"
+End
+
+Notif_tier_4
+"Vague Tier 4 en approche !! \n Ca commence à etre pas mal ! \n Bonne chance !"
+End
+
+Notif_tier_5
+"Vague Tier 5 en approche !! \n Les ennemis ne s'arreteront pas tant que vous serez en vie ! \n Bonne chance !"
+End
+
+/P1Total
+"Score du joueur 1 : "
+End
+
+/P2Total
+"Score du joueur 2 : "
+End
+
+/P3Total
+"Score du joueur 3 : "
+End
+
+/P4Total
+"Score du joueur 4 : "
+End
+
+TimerScreen
+"Manche 1 dans : "
+End
+
+Timer_pause
+"Prochaine vague dans : "
+End
+
+Show_pause3
+"Prochaine vague dans : "
+End
+
+timer__tier2
+"Loterie tier 2 dans :"
+End
+
+timer__tier3
+"Loterie tier 3 dans :"
+End
+
+timer__tier4
+"Loterie tier 4 dans :"
+End
+
+Welcome
+"La loterie la loterie ! \n Mon precieux..."
+End
+
+/tier 2
+"Tier 2 disponible \n La foret noire est avec vous mon seigneur "
+End
+
+/tier 3
+"Tier 3 disponible \n Tout ce que nous avons a decider est : \n Comment devons nous tuer nos ennemis ?"
+End
+
+/tier 4
+"Tier 4 disponible \n Mon heure est venue !"
+End
+
+CONTROLBAR:Lottery
+"Loterie"
+End
+
+CONTROLBAR:TooltipLottery
+"Tentez votre chance pour 750 gold \n Les lots incluent des unites, des heros et pour pouvoirs \n Elle peut etre utilisee une fois toutes les 5 minutes"
+End
+
+Lottery Player
+"Player"
+End
+
+Lottery Prize
+"Prize"
+End

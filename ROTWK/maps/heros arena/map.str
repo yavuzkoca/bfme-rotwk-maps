@@ -1,0 +1,59 @@
+Map:HerosArena
+"Heros Arena"
+END
+
+Map:HerosArena/Desc
+"Tuez vos ennemis et survivez pour debloquer des bonus \n 35 vagues \n start : 1000 \n Diablo"
+END
+
+debut_1
+"Bienvenue \n Choisissez un hero sur le symbole au sol et preparez vous a vous battre !"
+End
+
+start_message
+"Manche 1 dans :"
+End
+
+timer_pause1_texte
+"Manche 11 dans :"
+End
+
+timer_pause2_texte
+"Manche 21 dans :"
+End
+
+timer_pause3_texte
+"Manche 31 dans :"
+End
+
+timer_pause4_texte
+"Manche 34 dans :"
+End
+
+timer_pause5_texte
+"Manche 35 dans :"
+End
+
+pause1_message
+"10 manches GG \n Vous gagnez un peu d'argent, profitez en bien !"
+End
+
+pause2_message
+"20 manches GG \n Vous gagnez un nouveau pouvoir, profitez en bien !"
+End
+
+pause3_message
+"30 manches GG \n Vous gagnez beaucoup d'argent et de la pop \n Bonne chance pour la suite !"
+End
+
+pause4_message
+"33 manches GG \n La Dame de la Lorien va arriver! \n Bonne chance !"
+End
+
+pause5_message
+"34 manches GG \n Plus qu'une manche mais le seigneur Sauron est en chemin, preparez vous !"
+End
+
+wavedeath_message
+"Vous avez donc choisit la mort ..."
+End

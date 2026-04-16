@@ -1,0 +1,138 @@
+SCRIPT:1
+	"The map has been made by le2400943."
+END
+
+
+SCRIPT:2
+	"Hurry ! Soldiers are coming to destroy ur base ! They will be here in 2 minutes."
+END
+
+
+SCRIPT:3
+	"Next wave will start in"
+END
+
+
+SCRIPT:4
+	"Wave number"
+END
+
+
+SCRIPT:5
+	"Wave 1: Some cannon fodder for training"
+END
+
+
+SCRIPT:6
+	"Wave 2: Gondor soldiers"
+END
+
+
+SCRIPT:7
+	"Wave 3: Mithlond Sentry"
+END
+
+
+SCRIPT:8
+	"Wave 4: Wargs"
+END
+
+
+SCRIPT:9
+	"Wave 5: Spiders & Trolls"
+END
+
+
+SCRIPT:10
+	"Wave 6: Rivendel Lancers"
+END
+
+
+SCRIPT:11
+	"Wave 7: Battlewagons"
+END
+
+
+SCRIPT:12
+	"Wave 8: Rohirrim Charge"
+END
+
+
+SCRIPT:13
+	"Wave 9: Let's do a bit of fire ..."
+END
+
+
+SCRIPT:14
+	"Wave 10: The Dwarf Royal Family"
+END
+
+
+SCRIPT:15
+	"Wave 11: Grond, Grond, Grond !"
+END
+
+
+SCRIPT:16
+	"Wave 12: Zealots"
+END
+
+
+SCRIPT:17
+	"Wave 13: Marauders"
+END
+
+
+SCRIPT:18
+	"Wave 14: Bersekers"
+END
+
+
+SCRIPT:19
+	"Wave 15: The Battering Rams"
+END
+
+
+SCRIPT:20
+	"Wave 16: The Demolishers"
+END
+
+
+SCRIPT:21
+	"Wave 17: The Traitors"
+END
+
+
+SCRIPT:26
+	"Wave 18: The White Wizards"
+END
+
+
+SCRIPT:27
+	"Wave 19: The Fellowship"
+END
+
+
+SCRIPT:22
+	"Wave 20: The Lords of the Ring."
+END
+
+
+SCRIPT:23
+	"Congratulations, you won ! The special prize is: The One Ring !"
+END
+
+
+SCRIPT:24
+	"What a bunch of greedy, the alliance has already fallen, for the ownership of the Ring..."
+END
+
+
+SCRIPT:25
+	"You selected the hard mode. Good luck, you will need it !"
+END
+
+
+Delete theses last lines if you REALLY want to unlock the map for worldbuilder. But le2400943 will not be happy ...
+	"ok then... if you take time to read map.str file, you can be good on worldbuilder =)"
+END

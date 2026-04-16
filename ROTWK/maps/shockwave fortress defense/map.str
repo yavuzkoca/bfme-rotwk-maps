@@ -1,0 +1,46 @@
+
+SCRIPT:1
+"Ahh Shit...Here we go again"
+End
+
+
+SCRIPT:2
+"In order to win the map you will have to survive 20 OP waves"
+End
+
+
+SCRIPT:3
+"I made sure you have some rest betwen the waves"
+End
+
+
+SCRIPT:4
+"Enjoy the map!"
+End
+
+
+
+
+
+
+
+
+
+SCRIPT:Wave
+"Wave:"
+End
+
+
+
+//-----------------------IN GAME MESSAGES SECTION
+
+
+SCRIPT:GameStart
+"Game starts in:"
+End
+
+SCRIPT:Rest
+"Rest for:"
+End
+
+
